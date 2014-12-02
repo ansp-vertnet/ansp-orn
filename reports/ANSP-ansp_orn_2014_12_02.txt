@@ -1,0 +1,97 @@
+Report for Institution Code ANSP, Resource ansp_orn
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 1149
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 14
+	Country: Mexico ; Times: 4
+	Country: Panama ; Times: 1
+	Country: Peru ; Times: 3
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-20 ; Times: 5
+	Date: 2014-11-21 ; Times: 1
+	Date: 2014-11-22 ; Times: 4
+	Date: 2014-11-23 ; Times: 1
+	Date: 2014-11-24 ; Times: 20
+	Date: 2014-11-25 ; Times: 5
+	Date: 2014-11-26 ; Times: 3
+	Date: 2014-11-27 ; Times: 2
+	Date: 2014-11-28 ; Times: 1
+	Date: 2014-11-29 ; Times: 5
+	Date: 2014-11-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "bangsia" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "Telespiza ultima" ; Times: 7
+	Query: "Pitta anerythra" ; Times: 2
+	Query: "Thamnophilus praecox institutioncode:ANSP" ; Times: 1
+	Query: ""Myrmeciza disjuncta"" ; Times: 1
+	Query: "mellivora" ; Times: 2
+	Query: "institutioncode:ANSP" ; Times: 1
+	Query: "Sittasomus griseicapillus sylvioides" ; Times: 1
+	Query: "institutioncode:ANSP ORN" ; Times: 1
+	Query: "Cardinalis cardinalis hastypestatus:1" ; Times: 1
+	Query: "pitta anerythra" ; Times: 1
+	Query: "Hypocnemoides" ; Times: 1
+	Query: "morphnus" ; Times: 1
+	Query: "AULS" ; Times: 1
+	Query: "Bangsia rothschildi" ; Times: 1
+	Query: "aplonis feadensis" ; Times: 4
+	Query: "leptotila rufaxilla" ; Times: 1
+	Query: "myrmeciza exsul" ; Times: 1
+	Query: "Cardinalis cardinalis institutioncode:ANSP year >= 1800 year <= 1900" ; Times: 1
+	Query: "geotrygon violacea" ; Times: 1
+	Query: "grallaria hypoleuca ansp" ; Times: 1
+	Query: "specificepithet:ingens year >= 1950 year <= 2014" ; Times: 1
+	Query: "Artamus humei" ; Times: 4
+	Query: "anairetes alpinus" ; Times: 3
+	Query: "grallaria flavotincta" ; Times: 1
+	Query: "grallaria hypoleuca" ; Times: 1
+	Query: ""Heterocercus aurantiivertex"" ; Times: 1
+	Query: "Artamus leucorhynchus humei" ; Times: 2
+	Query: "Morelia" ; Times: 6
+	Query: "mccownii minnesota" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 54
+Total number of records retrieved from searches: 1149
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 54
+Total number of records retrieved from searches: 1149
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
