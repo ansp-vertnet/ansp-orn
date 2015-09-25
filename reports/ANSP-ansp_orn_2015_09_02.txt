@@ -1,0 +1,802 @@
+Report for Institution Code ANSP, Resource ORN
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 992
+Number of records retrieved in searches: 5936
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Austria ; Times: 119
+	Country: Brazil ; Times: 150
+	Country: Canada ; Times: 3
+	Country: Denmark ; Times: 33
+	Country: France ; Times: 36
+	Country: Germany ; Times: 47
+	Country: India ; Times: 44
+	Country: Jamaica ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Panama ; Times: 4
+	Country: Philippines ; Times: 7
+	Country: Switzerland ; Times: 1
+	Country: United Kingdom ; Times: 24
+	Country: United States ; Times: 504
+	Country: Unknown ; Times: 9
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 91
+	Date: 2015-08-02 ; Times: 18
+	Date: 2015-08-03 ; Times: 24
+	Date: 2015-08-04 ; Times: 20
+	Date: 2015-08-05 ; Times: 12
+	Date: 2015-08-06 ; Times: 32
+	Date: 2015-08-07 ; Times: 125
+	Date: 2015-08-08 ; Times: 49
+	Date: 2015-08-10 ; Times: 33
+	Date: 2015-08-11 ; Times: 9
+	Date: 2015-08-12 ; Times: 18
+	Date: 2015-08-13 ; Times: 26
+	Date: 2015-08-14 ; Times: 58
+	Date: 2015-08-15 ; Times: 8
+	Date: 2015-08-17 ; Times: 21
+	Date: 2015-08-18 ; Times: 15
+	Date: 2015-08-19 ; Times: 48
+	Date: 2015-08-20 ; Times: 23
+	Date: 2015-08-21 ; Times: 14
+	Date: 2015-08-22 ; Times: 31
+	Date: 2015-08-23 ; Times: 17
+	Date: 2015-08-24 ; Times: 46
+	Date: 2015-08-25 ; Times: 28
+	Date: 2015-08-26 ; Times: 81
+	Date: 2015-08-27 ; Times: 21
+	Date: 2015-08-28 ; Times: 53
+	Date: 2015-08-29 ; Times: 39
+	Date: 2015-08-30 ; Times: 15
+	Date: 2015-08-31 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "year >= 2010 year <= 2015 distance(location,geopoint(40.6306300839918,-76.080322265625))<54983" ; Times: 1
+	Query: "58227" ; Times: 1
+	Query: "salvini (Caprimulgus OR Antrostomus)" ; Times: 1
+	Query: "perdicula erythrorhyncha" ; Times: 4
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "country:"peru" specificepithet:cyanicollis genus:tangara AND (NOT UMMZ)" ; Times: 1
+	Query: "Columbina passerina jamaicensis year <= 1899" ; Times: 1
+	Query: "country:"china" genus:perdix catalognumber:109973 institutioncode:ansp" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 3
+	Query: "country:"china" specificepithet:alba alboides genus:motacilla catalognumber:125608 institutioncode:ansp" ; Times: 1
+	Query: "country:"china" genus:phasianus institutioncode:ansp" ; Times: 1
+	Query: "dasyornis longirostris" ; Times: 5
+	Query: "Himantornis haematopus" ; Times: 1
+	Query: "catalognumber:104113" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 6
+	Query: "lurocalis rufiventris" ; Times: 1
+	Query: "162825" ; Times: 1
+	Query: "162824" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 3
+	Query: "country:"china" genus:mergus institutioncode:ansp" ; Times: 1
+	Query: "Phylloscopus tenellipes" ; Times: 2
+	Query: "country:"china" specificepithet:garzetta genus:egretta institutioncode:ansp" ; Times: 1
+	Query: "Tragopan type:specimen" ; Times: 1
+	Query: "year >= 2010 year <= 2015 distance(location,geopoint(40.6306300839918,-76.080322265625))<100000" ; Times: 1
+	Query: "salvini (Caprimulgus OR Antrostomus) AND (NOT serico NOT sericocaudatus)" ; Times: 1
+	Query: "ANSP 837" ; Times: 2
+	Query: "sporophila bouvreuil" ; Times: 7
+	Query: "grallaria bangsi type:specimen" ; Times: 1
+	Query: "turdus unicolor" ; Times: 4
+	Query: "sclerurus scansor" ; Times: 1
+	Query: "cyanurus country:"India"" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 3
+	Query: "guadeloupe country:"mexico"" ; Times: 1
+	Query: "Caprimulgus cubanensis type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Otus vermiculatus type:specimen country:"Panama"" ; Times: 1
+	Query: "Pseudocolopteryx flaviventris" ; Times: 1
+	Query: "140934" ; Times: 1
+	Query: ""Lamprotornis nitens"" ; Times: 2
+	Query: "country:"china" specificepithet:totanus genus:tringa institutioncode:ansp" ; Times: 1
+	Query: "country:"china" genus:actitis catalognumber:126420 institutioncode:ansp" ; Times: 1
+	Query: "Grallaricula flavirostris type:specimen" ; Times: 1
+	Query: "Virginia county:"Chester" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "country:"china" specificepithet:major tibetanus genus:parus institutioncode:ansp year >= 1934 year <= 1935" ; Times: 1
+	Query: "histurgops" ; Times: 1
+	Query: "Phaethornis subochraceus type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "turdoides caudatus" ; Times: 1
+	Query: "neothraupis fasciata" ; Times: 4
+	Query: "Polystictus pectoralis" ; Times: 1
+	Query: "pycnonotus priocephalus" ; Times: 3
+	Query: "country:"china" genus:gypaetus institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:dubius genus:charadrius catalognumber:126744 institutioncode:ansp" ; Times: 1
+	Query: "year >= 2010 year <= 2015 distance(location,geopoint(40.6306300839918,-76.080322265625))<70577" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus type:specimen country:"Panama"" ; Times: 2
+	Query: "Carduelis cucullata" ; Times: 2
+	Query: "Myiarchus validus" ; Times: 1
+	Query: "country:"china" specificepithet:nisus genus:accipiter catalognumber:126472 institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:nisus genus:accipiter catalognumber:126470 institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:orientalis genus:streptopelia catalognumber:128224 institutioncode:ansp" ; Times: 1
+	Query: "Nothura boraquira" ; Times: 5
+	Query: "Galerida malabarica country:"India"" ; Times: 1
+	Query: "webb year >= 2007 year <= 2007" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 6
+	Query: "76848" ; Times: 1
+	Query: "27999" ; Times: 1
+	Query: "genus:Macroagelaius" ; Times: 1
+	Query: "crypsirina temia" ; Times: 2
+	Query: "xenicus lyalli" ; Times: 7
+	Query: "country:"china" genus:sitta institutioncode:ansp year >= 1934 year <= 1935" ; Times: 1
+	Query: "Zimmerius" ; Times: 1
+	Query: "ANSP Orn 839" ; Times: 1
+	Query: "Glaucidium nubicola type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "country:"china" specificepithet:hemilasius genus:buteo catalognumber:126504 institutioncode:ansp" ; Times: 1
+	Query: "urocissa ornata" ; Times: 6
+	Query: "mt duida cumbre no 2 country:"Venezuela"" ; Times: 1
+	Query: "country:"china" specificepithet:kessleri genus:turdus institutioncode:ansp year >= 1934 year <= 1935" ; Times: 1
+	Query: "gymnomyza samoensis" ; Times: 3
+	Query: "Lichenostomus melanops cassidix" ; Times: 2
+	Query: "coracina tenuirostris" ; Times: 3
+	Query: "country:"china" specificepithet:dauuricus genus:corvus catalognumber:126272 institutioncode:ansp" ; Times: 1
+	Query: "60313" ; Times: 1
+	Query: "sporophila plumbea" ; Times: 5
+	Query: "balaeniceps" ; Times: 1
+	Query: "Idiopsar brachyurus" ; Times: 6
+	Query: "country:"china" genus:upupa institutioncode:ansp" ; Times: 2
+	Query: "specificepithet:undulatus genus:melopsittacus year >= 1979" ; Times: 3
+	Query: "country:"ecuador" specificepithet:luctuosus genus:tachyphonus" ; Times: 1
+	Query: "Pseudotriccus ruficeps type:specimen" ; Times: 1
+	Query: "catalognumber:43286" ; Times: 1
+	Query: "genus:Herpetotheres" ; Times: 3
+	Query: "Caprimulgus longirostris" ; Times: 4
+	Query: "oenanthe melanoleuca" ; Times: 1
+	Query: "Zimmerius minimus type:specimen country:"Colombia"" ; Times: 1
+	Query: "country:"Venezuela" genus:Pachyramphus" ; Times: 1
+	Query: "country:"brazil" specificepithet:velia genus:tangara AND (NOT UMMZ)" ; Times: 1
+	Query: "country:"china" genus:ptyonoprogne institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:torquatus genus:corvus institutioncode:ansp" ; Times: 1
+	Query: "pavo muticus" ; Times: 2
+	Query: "country:"Colombia" specificepithet:albogriseus genus:Pachyramphus" ; Times: 2
+	Query: "Toxostoma cinereum mearnsi" ; Times: 2
+	Query: "batrachostomus hodgsoni" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 4
+	Query: "Butastur indicus" ; Times: 5
+	Query: "country:"china" specificepithet:cyaneus genus:circus institutioncode:ansp" ; Times: 1
+	Query: "25393" ; Times: 1
+	Query: "phylloscopus davisoni" ; Times: 2
+	Query: "Grallaria erythrotis type:specimen" ; Times: 1
+	Query: "Rhynchocyclus pacificus type:specimen" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: "country:"china" genus:pyrrhocorax institutioncode:ansp" ; Times: 2
+	Query: "country:"china" specificepithet:tranquebarica genus:streptopelia institutioncode:ansp" ; Times: 1
+	Query: "Anas clypeata africa" ; Times: 1
+	Query: "country:"china" genus:phasianus catalognumber:126516 institutioncode:ansp" ; Times: 1
+	Query: "acrocephalus agricola" ; Times: 18
+	Query: "specificepithet:castanilius genus:Accipiter" ; Times: 3
+	Query: "Icterus oberi" ; Times: 3
+	Query: "Grallaria flavotincta type:specimen" ; Times: 1
+	Query: "83998" ; Times: 1
+	Query: "109322" ; Times: 1
+	Query: "country:"china" genus:petronia institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:fugax genus:cuculus institutioncode:ansp" ; Times: 1
+	Query: "46610" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "country:"china" specificepithet:gentilis genus:accipiter institutioncode:ansp" ; Times: 1
+	Query: "Tachuris rubrigastra" ; Times: 1
+	Query: "Myrmorchilus strigilatus" ; Times: 1
+	Query: "91707" ; Times: 1
+	Query: "garrulax ruficollis" ; Times: 10
+	Query: "Icterus leucopteryx bairdi" ; Times: 1
+	Query: "ichthyophaga humilis" ; Times: 3
+	Query: "salvini (Caprimulgus OR Antrostomus) AND (NOT serico NOT sericocaudatus NOT badius NOT yucatanicus)" ; Times: 1
+	Query: "Dryocopus galeatus" ; Times: 23
+	Query: "year:1835" ; Times: 2
+	Query: "year:1838" ; Times: 1
+	Query: "year:1839" ; Times: 1
+	Query: "rhopocichla" ; Times: 3
+	Query: "country:"china" genus:perdix catalognumber:109975 institutioncode:ansp" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 2
+	Query: "catalognumber:58525 institutioncode:ANSP" ; Times: 2
+	Query: "dasyornis" ; Times: 1
+	Query: "Coryphaspiza melanotis" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 12
+	Query: "Xenicus" ; Times: 1
+	Query: "country:"china" specificepithet:acuta genus:anas institutioncode:ansp" ; Times: 1
+	Query: "Lanio" ; Times: 1
+	Query: "genus:capito (skel OR skeleton)" ; Times: 1
+	Query: "country:"china" genus:haliaeetus institutioncode:ansp" ; Times: 1
+	Query: "Icterus laudabilis" ; Times: 1
+	Query: "SPOROPHILA LEUCOPTERA" ; Times: 2
+	Query: "lichmera argentauris" ; Times: 1
+	Query: "specificepithet:castaneus genus:Pachyramphus" ; Times: 1
+	Query: "Pseudocolopteryx flaviventris type:specimen" ; Times: 1
+	Query: "Icterus leucopteryx" ; Times: 3
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "Rhynchocyclus pacificus" ; Times: 1
+	Query: "atlapetes albinucha" ; Times: 2
+	Query: "Coereba flaveola year >= 1990 year <= 2015" ; Times: 2
+	Query: "Pithecophaga jefferyi" ; Times: 4
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 2
+	Query: "year >= 1755 year <= 1823" ; Times: 1
+	Query: "country:"china" specificepithet:hirundo genus:sterna institutioncode:ansp" ; Times: 1
+	Query: "year >= 1755 year <= 1825" ; Times: 2
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "Cettia canturians" ; Times: 1
+	Query: "country:"china" genus:milvus catalognumber:126452 institutioncode:ansp" ; Times: 1
+	Query: "Cettia (skel OR skeleton)" ; Times: 1
+	Query: "batesi" ; Times: 1
+	Query: "Goethalsia bella type:specimen" ; Times: 1
+	Query: "Melanopareia" ; Times: 1
+	Query: "quimarinus specificepithet:homochrous genus:Pachyramphus" ; Times: 3
+	Query: "Pseudocolopteryx flaviventris country:"Argentina"" ; Times: 1
+	Query: "Campylopterus duidae type:specimen AND (NOT eggs NOT AMNH)" ; Times: 1
+	Query: "Mentocrex kioloides" ; Times: 2
+	Query: "Centropus chalybeus type:specimen" ; Times: 1
+	Query: "euplectes albonotatus" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 6
+	Query: "Icterus leucopteryx lawrencii year <= 1887" ; Times: 1
+	Query: "Cypsnagra hirundinacea" ; Times: 1
+	Query: "pycnonotus gularis" ; Times: 1
+	Query: "viridiflavus type:specimen country:"Colombia"" ; Times: 1
+	Query: "trinidad type:specimen specificepithet:polychopterus genus:Pachyramphus" ; Times: 1
+	Query: "Psophodes (skel OR skeleton)" ; Times: 1
+	Query: "grallaria gigantea type:specimen" ; Times: 2
+	Query: ""Melaenornis mariquensis"" ; Times: 1
+	Query: "Stigmatura budytoides type:specimen" ; Times: 2
+	Query: "Contopus nigrescens type:specimen" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "falco femoralis country:"Mexico"" ; Times: 1
+	Query: "country:"china" specificepithet:hemilasius genus:buteo catalognumber:126468 institutioncode:ansp" ; Times: 1
+	Query: "trogon rufus" ; Times: 1
+	Query: "country:"china" specificepithet:tinnunculus genus:falco institutioncode:ansp" ; Times: 1
+	Query: "94519" ; Times: 3
+	Query: "148251" ; Times: 1
+	Query: "catalognumber:102825" ; Times: 3
+	Query: "emberiza hortulana" ; Times: 3
+	Query: "nehrkorni" ; Times: 1
+	Query: "Phylloscopus coronatus country:"India"" ; Times: 2
+	Query: "Tachornis furcata type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "phylloscopus tenellipes" ; Times: 2
+	Query: "malimbus" ; Times: 1
+	Query: "Vanellus cinereus" ; Times: 2
+	Query: "country:"china" specificepithet:parva genus:ficedula institutioncode:ansp" ; Times: 1
+	Query: "Chamaeza campanisona columbiana type:specimen" ; Times: 2
+	Query: "Gymnomyza aubryana" ; Times: 1
+	Query: "parotia wahnesi" ; Times: 1
+	Query: "perdicula argoondah" ; Times: 1
+	Query: "bleda syndactyla" ; Times: 2
+	Query: "catalognumber:95738" ; Times: 1
+	Query: "culicivora caudacuta" ; Times: 2
+	Query: "102824" ; Times: 1
+	Query: "country:"china" specificepithet:alba alboides genus:motacilla institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:macrorhynchos genus:corvus institutioncode:ansp" ; Times: 1
+	Query: "country:"china" genus:phalacrocorax catalognumber:126611 institutioncode:ansp" ; Times: 1
+	Query: "Suiriri suiriri type:specimen" ; Times: 1
+	Query: "country:"china" genus:bubo institutioncode:ansp" ; Times: 1
+	Query: "ramphocelus limatus" ; Times: 1
+	Query: "phylloscopus pulcher" ; Times: 2
+	Query: "francolinus gularis" ; Times: 2
+	Query: "pulsatrix" ; Times: 9
+	Query: "Melanotrochilus fuscus" ; Times: 57
+	Query: "ammodramus year >= 1870 year <= 1875" ; Times: 1
+	Query: "country:"china" genus:perdix institutioncode:ansp" ; Times: 1
+	Query: "erythrura papuana" ; Times: 4
+	Query: "type:specimen lictor" ; Times: 2
+	Query: "Callipepla californica Mexico" ; Times: 1
+	Query: "country:"china" specificepithet:roseatus genus:anthus catalognumber:125720 institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:cinerea genus:calandrella catalognumber:125941 institutioncode:ansp" ; Times: 1
+	Query: "Euscarthmus meloryphus type:specimen" ; Times: 2
+	Query: "type:specimen country:"Venezuela" genus:Pachyramphus" ; Times: 2
+	Query: "Caprimulgus ekmani type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "sericocaudatus" ; Times: 1
+	Query: "ploceus superciliosus" ; Times: 1
+	Query: "Bangsia rothschildi" ; Times: 2
+	Query: "199313" ; Times: 1
+	Query: "Phylloscopus inornatus country:"India"" ; Times: 1
+	Query: "country:"china" genus:bucephala institutioncode:ansp" ; Times: 1
+	Query: "dicrurus adsimilis" ; Times: 1
+	Query: "Tarsiger cyanurus cyanurus country:"India"" ; Times: 4
+	Query: "Otus vermiculatus type:specimen country:"panama"" ; Times: 1
+	Query: "Starnoenas" ; Times: 2
+	Query: "56147" ; Times: 1
+	Query: "country:"china" genus:actitis catalognumber:126415 institutioncode:ansp" ; Times: 1
+	Query: "Xolmis coronata type:specimen" ; Times: 1
+	Query: "country:"china" specificepithet:platyrhynchos genus:anas institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:roseatus genus:anthus institutioncode:ansp" ; Times: 1
+	Query: "specificepithet:xantholora genus:amazona year >= 1885" ; Times: 1
+	Query: "Otus guatemalae type:specimen country:"Panama"" ; Times: 1
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "phylloscopus chloronotus" ; Times: 1
+	Query: "year >= 1755 year <= 1810" ; Times: 1
+	Query: "Xenopsaris albinucha" ; Times: 1
+	Query: "specificepithet:bellicosa genus:Sturnella" ; Times: 1
+	Query: "155206" ; Times: 1
+	Query: "Pseudocolopteryx country:"Chile"" ; Times: 5
+	Query: "phylloscopus armandii" ; Times: 1
+	Query: "country:"china" specificepithet:leuconota genus:columba institutioncode:ansp" ; Times: 1
+	Query: "Anabacerthia variegaticeps variegaticeps" ; Times: 1
+	Query: "emberiza buchanani" ; Times: 1
+	Query: "29475" ; Times: 1
+	Query: "haliaeetus leucogaster" ; Times: 3
+	Query: "ornithion inerme" ; Times: 2
+	Query: "muscisaxicola fluviatilis" ; Times: 1
+	Query: "amazilia decora" ; Times: 4
+	Query: "specificepithet:homochrous genus:Pachyramphus" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 2
+	Query: "year >= 2010 year <= 2015 distance(location,geopoint(41.32732632036622,-75.047607421875))<41961" ; Times: 1
+	Query: "Xenicus lyalli ansp" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus country:"Panama"" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR "Puerto Rico")" ; Times: 1
+	Query: "Phylloscartes sylviolus" ; Times: 1
+	Query: "magdalenae type:specimen genus:Pachyramphus" ; Times: 1
+	Query: "dendrocitta leucogastra" ; Times: 5
+	Query: "Contopus cinereus type=specimen" ; Times: 1
+	Query: "pterocles senegallus" ; Times: 1
+	Query: "country:"china" specificepithet:roseatus genus:anthus catalognumber:125721 institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:cinerea genus:calandrella catalognumber:125940 institutioncode:ansp" ; Times: 1
+	Query: "Nothura minor" ; Times: 1
+	Query: "specificepithet:xanthomus genus:Agelaius" ; Times: 1
+	Query: "gerygone albofrontata" ; Times: 4
+	Query: "type:specimen genus:Odontophorus AND (NOT captive)" ; Times: 1
+	Query: "grallaria nuchalis type:specimen" ; Times: 1
+	Query: "trinidad type:specimen genus:Pachyramphus" ; Times: 2
+	Query: "Nothura darwinii" ; Times: 1
+	Query: "Myiarchus nugator" ; Times: 1
+	Query: "catalognumber:31491" ; Times: 1
+	Query: "turdoides affinis" ; Times: 1
+	Query: "acrocephalus bistrigiceps" ; Times: 1
+	Query: "country:"china" genus:delichon institutioncode:ansp" ; Times: 1
+	Query: "Thamnophilus torquatus" ; Times: 1
+	Query: "Otus petersoni type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "oenanthe deserti" ; Times: 5
+	Query: "country:"china" specificepithet:fulvescens genus:prunella catalognumber:125267 institutioncode:ansp" ; Times: 2
+	Query: "country:"china" specificepithet:cinclus przewalskii genus:cinclus institutioncode:ansp" ; Times: 1
+	Query: "Pionus seniloides type:specimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Pachyramphus" ; Times: 2
+	Query: "webb year >= 2000 year <= 2007" ; Times: 1
+	Query: ""colinus virginianus" type:specimen "Cuba"" ; Times: 1
+	Query: "country:"china" specificepithet:ochropus genus:tringa catalognumber:126424 institutioncode:ansp" ; Times: 1
+	Query: "Glaucidium parkeri type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Coturnix novaezelandiae" ; Times: 1
+	Query: "country:"bahamas" specificepithet:dominicensis genus:icterus" ; Times: 1
+	Query: "Hypocolius" ; Times: 1
+	Query: "seicercus affinis" ; Times: 1
+	Query: "drymophila hellmayri" ; Times: 2
+	Query: "galloperdix spadicea" ; Times: 1
+	Query: "oenanthe isabellina" ; Times: 3
+	Query: "country:"china" specificepithet:placidus genus:charadrius institutioncode:ansp" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "country:"china" specificepithet:nisus genus:accipiter catalognumber:126477 institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:dauuricus genus:corvus institutioncode:ansp" ; Times: 2
+	Query: "temnurus temnurus" ; Times: 2
+	Query: "zimmerius vilissimus type:specimen" ; Times: 2
+	Query: "country:"china" specificepithet:orientalis genus:streptopelia catalognumber:128223 institutioncode:ansp" ; Times: 1
+	Query: "oreornis" ; Times: 1
+	Query: "Grallaria rufula type:specimen" ; Times: 3
+	Query: "catalognumber:113794" ; Times: 2
+	Query: "aviceda jerdoni" ; Times: 16
+	Query: "Parus cyanus" ; Times: 1
+	Query: "country:"china" specificepithet:buteo genus:buteo institutioncode:ansp" ; Times: 3
+	Query: "carpodacus erythrinus" ; Times: 3
+	Query: "Ammodramus humeralis" ; Times: 1
+	Query: "country:"china" genus:actitis institutioncode:ansp" ; Times: 1
+	Query: "Accipiter soloensis" ; Times: 2
+	Query: "186643" ; Times: 1
+	Query: "locustella certhiola" ; Times: 2
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas OR "Dominican Republic")" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "catalognumber:130273" ; Times: 2
+	Query: "country:"COlombia" specificepithet:albogriseus genus:Pachyramphus" ; Times: 1
+	Query: "country:"china" specificepithet:spinoletta genus:anthus catalognumber:125777 institutioncode:ansp" ; Times: 1
+	Query: "euscarthmus country:"venezuela"" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "Myiarchus oberi" ; Times: 1
+	Query: "Nyctiprogne leucopyga" ; Times: 1
+	Query: "ploceus tricolor" ; Times: 2
+	Query: ""Riparia riparia" country:"India"" ; Times: 1
+	Query: "country:"china" specificepithet:chrysaetos genus:aquila institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:pica bottanensis genus:pica institutioncode:ansp" ; Times: 1
+	Query: "grallaria dignissima type:specimen" ; Times: 1
+	Query: ""Anser albifrons" stateprovince:"Alaska"" ; Times: 1
+	Query: "country:"china" specificepithet:fulvescens genus:prunella institutioncode:ansp" ; Times: 2
+	Query: "Myiarchus nuttingi type:specimen" ; Times: 1
+	Query: "country:"china" specificepithet:rupestris genus:hirundo institutioncode:ansp" ; Times: 1
+	Query: "pulsatrix melanota" ; Times: 1
+	Query: "Grallaria ridgelyi type:specimen" ; Times: 1
+	Query: "venezuelanus type=specimen" ; Times: 1
+	Query: "ploceus manyar" ; Times: 3
+	Query: "stateprovince:"Baja California" country:"Mexico" specificepithet:cinereum genus:Toxostoma" ; Times: 4
+	Query: "phylloscopus cantator" ; Times: 2
+	Query: "Accipiter trivirgatus" ; Times: 1
+	Query: "Icterus bonana" ; Times: 2
+	Query: "arquata" ; Times: 1
+	Query: "Grallaricula lineifrons type:specimen" ; Times: 1
+	Query: "Galerida deva country:"India"" ; Times: 1
+	Query: "pulsatrix institutioncode:ANSP" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 1
+	Query: "Phylloscopus lorenzii" ; Times: 1
+	Query: "specificepithet:cinnamomeus genus:Pachyramphus" ; Times: 1
+	Query: "194391" ; Times: 1
+	Query: "country:"china" specificepithet:tranquebarica genus:streptopelia catalognumber:128203 institutioncode:ansp" ; Times: 1
+	Query: ""Little Inagua"" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "92141" ; Times: 2
+	Query: "SPOROPHILA COLLARIS" ; Times: 2
+	Query: "type:specimen specificepithet:niger genus:Pachyramphus" ; Times: 1
+	Query: "country:"china" genus:coccothraustes institutioncode:ansp year >= 1934 year <= 1935" ; Times: 1
+	Query: "country:"colombia" specificepithet:albogriseus genus:Pachyramphus" ; Times: 1
+	Query: "Grallaricula flavirostris type:specimen peru" ; Times: 2
+	Query: "58508" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas OR Dominican)" ; Times: 1
+	Query: "Anthus Thailand" ; Times: 1
+	Query: "Myiopagis cotta" ; Times: 5
+	Query: "country:"china" specificepithet:rubeculoides genus:prunella institutioncode:ansp" ; Times: 1
+	Query: "country:"china" genus:corvus institutioncode:ansp" ; Times: 1
+	Query: "Riparia riparia country:"India"" ; Times: 2
+	Query: "timalia (skel OR skeleton)" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas OR Haiti OR "Dominican Republic")" ; Times: 1
+	Query: "country:"china" specificepithet:dauuricus genus:corvus catalognumber:126281 institutioncode:ansp" ; Times: 1
+	Query: "guttera pucherani" ; Times: 1
+	Query: "speirops" ; Times: 1
+	Query: "country:"china" specificepithet:nisus genus:accipiter institutioncode:ansp" ; Times: 1
+	Query: "Phyllastrephus xavieri" ; Times: 1
+	Query: "34677" ; Times: 1
+	Query: "specificepithet:albogriseus genus:Pachyramphus" ; Times: 2
+	Query: "country:"china" genus:actitis catalognumber:126416 institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:buteo genus:buteo catalognumber:126459 institutioncode:ansp" ; Times: 1
+	Query: "specificepithet:huhula genus:ciccaba" ; Times: 2
+	Query: "Sporophila plumbea" ; Times: 1
+	Query: "coturnix coturnix" ; Times: 3
+	Query: "country:"china" specificepithet:cia khamensis genus:emberiza institutioncode:ansp year >= 1934 year <= 1935" ; Times: 1
+	Query: "country:"china" specificepithet:dauuricus genus:corvus catalognumber:126282 institutioncode:ansp" ; Times: 1
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "Pseudelaenia type:specimen" ; Times: 1
+	Query: "Phylloscopus griseolus country:"India"" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas OR Dominican OR "Puerto Rico")" ; Times: 2
+	Query: "lichmera flavicans" ; Times: 1
+	Query: "melidectes nouhuysi" ; Times: 1
+	Query: "country:"china" genus:tadorna institutioncode:ansp" ; Times: 1
+	Query: "catalognumber:123174" ; Times: 1
+	Query: "180869" ; Times: 1
+	Query: "dugandi" ; Times: 2
+	Query: "country:"china" genus:grus institutioncode:ansp" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus exiguus type:specimen" ; Times: 1
+	Query: "country:"china" specificepithet:orientalis genus:streptopelia institutioncode:ansp" ; Times: 1
+	Query: "Emberizoides herbicola" ; Times: 1
+	Query: "melanotrochilus fuscus" ; Times: 5
+	Query: "Apteryx owenii" ; Times: 1
+	Query: "year >= 2010 year <= 2015 distance(location,geopoint(40.6306300839918,-76.080322265625))<34813" ; Times: 1
+	Query: "ANSP Orn 840" ; Times: 1
+	Query: "year >= 1755 year <= 1802" ; Times: 1
+	Query: "year >= 1755 year <= 1800" ; Times: 4
+	Query: "pericrocotus roseus" ; Times: 11
+	Query: "Xenicus lyalli" ; Times: 12
+	Query: "Conopophaga lineatA" ; Times: 1
+	Query: "Padda oryzivora" ; Times: 1
+	Query: "Phylloscopus fuscatus country:"India"" ; Times: 1
+	Query: "Icterus melanopsis" ; Times: 2
+	Query: "country:"china" specificepithet:ferrea genus:saxicola institutioncode:ansp" ; Times: 1
+	Query: "Cuculus lepidus type:specimen" ; Times: 1
+	Query: "Bolborhynchus ferrugineifrons type:specimen" ; Times: 1
+	Query: ""neocossyphus rufus"" ; Times: 1
+	Query: "country:"china" specificepithet:corax genus:corvus institutioncode:ansp" ; Times: 1
+	Query: "27167" ; Times: 1
+	Query: "country:"china" genus:coccothraustes institutioncode:ansp" ; Times: 1
+	Query: ""Monticola rupestris"" ; Times: 1
+	Query: "Coracina tenuirostris ANSP" ; Times: 1
+	Query: "Zimmerius type:specimen country:"Colombia"" ; Times: 2
+	Query: "phylloscopus schwarzi" ; Times: 2
+	Query: "Phylloscopus collybita country:"India"" ; Times: 2
+	Query: "year >= 1755 year <= 1797" ; Times: 2
+	Query: "Aepypodius bruijnii" ; Times: 1
+	Query: "grallaria eludens type:specimen" ; Times: 1
+	Query: "year >= 1755 year <= 1798" ; Times: 2
+	Query: "year >= 1755 year <= 1799" ; Times: 2
+	Query: "perdicula asiatica" ; Times: 2
+	Query: "country:"china" genus:tetraogallus institutioncode:ansp" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "year:1821" ; Times: 1
+	Query: "country:"china" specificepithet:auroreus genus:phoenicurus institutioncode:ansp" ; Times: 1
+	Query: "country:"bahamas" genus:icterus (northropi)" ; Times: 1
+	Query: "year:1858" ; Times: 2
+	Query: "country:"china" specificepithet:macrorhynchos tibetosinensis genus:corvus institutioncode:ansp" ; Times: 1
+	Query: "grallaria haplonota type:specimen" ; Times: 1
+	Query: "country:"china" genus:upupa catalognumber:124899 institutioncode:ansp" ; Times: 1
+	Query: "Dama" ; Times: 1
+	Query: "passerina ciris type:specimen country:"Guatemala"" ; Times: 1
+	Query: "Francolinus gularis" ; Times: 10
+	Query: "country:"china" specificepithet:solitaria genus:gallinago institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:hodgsoni genus:phoenicurus institutioncode:ansp" ; Times: 1
+	Query: "country:"china" genus:milvus institutioncode:ansp" ; Times: 1
+	Query: "poeciloptera" ; Times: 1
+	Query: "country:"china" genus:milvus catalognumber:126451 institutioncode:ansp" ; Times: 1
+	Query: "year >= 1755 year <= 1824" ; Times: 2
+	Query: "gravis type:specimen genus:Pachyramphus" ; Times: 1
+	Query: "Paradoxornis heudei" ; Times: 1
+	Query: "54895" ; Times: 1
+	Query: "genus:amazona catalognumber:162824" ; Times: 1
+	Query: "pseudonigrita" ; Times: 2
+	Query: "country:"India" year >= 1820 year <= 1840" ; Times: 1
+	Query: "Piranga flava figlina type:specimen" ; Times: 1
+	Query: "Sporophila bouvreuil" ; Times: 1
+	Query: "grallaria guatimalensis country:"Mexico"" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 6
+	Query: "country:"china" genus:aythya institutioncode:ansp" ; Times: 1
+	Query: "parus xanthogenys" ; Times: 1
+	Query: "Hylophilus brunneiceps" ; Times: 1
+	Query: "194336" ; Times: 1
+	Query: "country:"china" specificepithet:torquata przewalskii genus:saxicola institutioncode:ansp year >= 1934 year <= 1935" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 7
+	Query: "capito (skel OR skeleton)" ; Times: 1
+	Query: "Megalaima corvina skin" ; Times: 1
+	Query: "country:"china" specificepithet:totanus genus:tringa catalognumber:126403 institutioncode:ansp" ; Times: 1
+	Query: "Notiomystis" ; Times: 1
+	Query: "Phylloscartes venezuelanus type=specimen" ; Times: 1
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "country:"china" specificepithet:roseatus genus:anthus catalognumber:125763 institutioncode:ansp" ; Times: 1
+	Query: "lictor type:specimen year >= 1970 year <= 2015" ; Times: 1
+	Query: "country:"china" genus:phalacrocorax institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:dubius genus:charadrius institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:buteo genus:buteo catalognumber:126458 institutioncode:ansp" ; Times: 2
+	Query: "galloperdix lunulata" ; Times: 2
+	Query: "anomalospiza" ; Times: 1
+	Query: "country:"India" year >= 1825 year <= 1833" ; Times: 1
+	Query: "Contopus cinereus type:specimen year >= 1980 year <= 2015" ; Times: 1
+	Query: "180856" ; Times: 1
+	Query: "Conopias cinchoneti type:specimen year >= 1970 year <= 2015" ; Times: 1
+	Query: "83487" ; Times: 1
+	Query: "gerygone hypoxantha" ; Times: 6
+	Query: "country:"china" specificepithet:ochruros rufiventris genus:phoenicurus institutioncode:ansp" ; Times: 1
+	Query: "country:"china" genus:ciconia institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:koslowi genus:emberiza institutioncode:ansp" ; Times: 1
+	Query: "country:"china" genus:tichodroma institutioncode:ansp" ; Times: 1
+	Query: "country:"china" genus:upupa catalognumber:124900 institutioncode:ansp" ; Times: 1
+	Query: "95008" ; Times: 1
+	Query: "Vireo pallens olsoni" ; Times: 1
+	Query: "Strix davidi type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "DMNH 2672" ; Times: 1
+	Query: "country:"china" specificepithet:flavirostris genus:acanthis institutioncode:ansp" ; Times: 1
+	Query: "Grallaria rufula" ; Times: 5
+	Query: "catalognumber:52495" ; Times: 1
+	Query: "Polystictus pectoralis type:specimen" ; Times: 1
+	Query: "country:"china" specificepithet:hemilasius genus:buteo institutioncode:ansp" ; Times: 2
+	Query: "Carpodacus rhodopeplus institutioncode:ansp year >= 1948 year <= 1948" ; Times: 1
+	Query: "catalognumber:86917" ; Times: 1
+	Query: "Coccothraustes coccothraustes country:"India"" ; Times: 4
+	Query: "country:"china" specificepithet:himalayana genus:certhia institutioncode:ansp" ; Times: 1
+	Query: "icterus northropi" ; Times: 9
+	Query: "ANSP 22564" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 7
+	Query: "sporophila leucoptera" ; Times: 1
+	Query: "Pyrrhomyias Venezuela" ; Times: 1
+	Query: "Caprimulgus anthonyi type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Fulica ardesiaca country:"Peru"" ; Times: 1
+	Query: "country:"china" specificepithet:cherrug genus:falco institutioncode:ansp" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "ploceus insignis" ; Times: 2
+	Query: "Grallaria gigantea" ; Times: 1
+	Query: "Coccyzus minor type:specimen" ; Times: 4
+	Query: "Pseudocolopteryx" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas)" ; Times: 1
+	Query: "country:"china" specificepithet:spinoletta genus:anthus institutioncode:ansp" ; Times: 1
+	Query: "Ploceus superciliosus" ; Times: 1
+	Query: "country:"china" specificepithet:alba alboides genus:motacilla catalognumber:125607 institutioncode:ansp" ; Times: 1
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "Phylloscopus borealis country:"India"" ; Times: 1
+	Query: "Zimmerius viridiflavus type:specimen country:"Colombia"" ; Times: 1
+	Query: "country:"china" specificepithet:nisus genus:accipiter catalognumber:126479 institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:auroreus genus:phoenicurus institutioncode:ansp year >= 1934 year <= 1935" ; Times: 1
+	Query: "Henicorhina leucoptera" ; Times: 1
+	Query: "Nothura chacoensis" ; Times: 1
+	Query: "Oreotrochilus adela type:specimen" ; Times: 1
+	Query: "zoothera dauma" ; Times: 4
+	Query: "country:"china" specificepithet:cinerea genus:calandrella institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:acutirostris genus:calandrella institutioncode:ansp" ; Times: 1
+	Query: "phylloscopus coronatus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 155 (out of 1138 download events in this period)
+Total number of records downloaded: 55439 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 48207
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Austria ; Times: 42
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 14
+	Country: Germany ; Times: 3
+	Country: India ; Times: 1
+	Country: Jamaica ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Philippines ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 58
+	Country: Unknown ; Times: 8
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 7
+	Date: 2015-08-05 ; Times: 14
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-07 ; Times: 29
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-12 ; Times: 1
+	Date: 2015-08-13 ; Times: 3
+	Date: 2015-08-14 ; Times: 20
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 3
+	Date: 2015-08-17 ; Times: 5
+	Date: 2015-08-18 ; Times: 2
+	Date: 2015-08-19 ; Times: 3
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-23 ; Times: 6
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-25 ; Times: 5
+	Date: 2015-08-26 ; Times: 8
+	Date: 2015-08-27 ; Times: 10
+	Date: 2015-08-28 ; Times: 9
+	Date: 2015-08-29 ; Times: 9
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Podilymbus podiceps type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Icterus melanopsis" ; Times: 1
+	Query: "country:"china" specificepithet:ferrea genus:saxicola institutioncode:ansp" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Corvus corax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Quiscalus mexicanus type:specimen" ; Times: 1
+	Query: "country:"china" specificepithet:roseatus genus:anthus catalognumber:125974 institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:cinerea genus:calandrella catalognumber:125940 institutioncode:ansp" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "Colaptes auratus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Butorides virescens type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"china" specificepithet:alba alboides genus:motacilla catalognumber:125608 institutioncode:ansp" ; Times: 1
+	Query: "Nycticorax nycticorax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Icterus laudabilis" ; Times: 1
+	Query: "Branta canadensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 4
+	Query: "Picoides nuttallii type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Plegadis chihi type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"china" genus:delichon institutioncode:ansp" ; Times: 1
+	Query: "year >= 1755 year <= 1796" ; Times: 1
+	Query: "Icterus leucopteryx" ; Times: 1
+	Query: "country:"china" specificepithet:corax genus:corvus institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:garzetta genus:egretta institutioncode:ansp" ; Times: 1
+	Query: "Duida country:"Venezuela" year >= 1929 year <= 1929" ; Times: 1
+	Query: "country:"china" specificepithet:cinclus przewalskii genus:cinclus institutioncode:ansp" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "Tragopan type:specimen" ; Times: 1
+	Query: "Phalacrocorax auritus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 1
+	Query: "Grallaria rufula" ; Times: 2
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "country:"china" specificepithet:ochropus genus:tringa catalognumber:126424 institutioncode:ansp" ; Times: 1
+	Query: "year:1858" ; Times: 1
+	Query: "year:1859" ; Times: 6
+	Query: "Oxyura jamaicensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"china" genus:milvus catalognumber:126452 institutioncode:ansp" ; Times: 1
+	Query: "Callipepla californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"china" specificepithet:macrorhynchos tibetosinensis genus:corvus institutioncode:ansp" ; Times: 1
+	Query: "Corvus brachyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"china" genus:upupa catalognumber:124899 institutioncode:ansp" ; Times: 1
+	Query: "coturnicops noveboracensis" ; Times: 1
+	Query: "country:"china" specificepithet:placidus genus:charadrius institutioncode:ansp" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "catharus bicknelli" ; Times: 2
+	Query: "Arremon" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "country:"china" specificepithet:solitaria genus:gallinago institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:hodgsoni genus:phoenicurus institutioncode:ansp" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "country:"china" genus:milvus catalognumber:126451 institutioncode:ansp" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "Zenaida macroura type:specimen stateprovince:"California"" ; Times: 1
+	Query: "contopus genus:contopus (tissue)" ; Times: 2
+	Query: "Accipiter soloensis" ; Times: 1
+	Query: "country:"china" specificepithet:rupestris genus:hirundo institutioncode:ansp" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "catharus frantzii" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "Pterodroma neglecta" ; Times: 1
+	Query: "tabasco" ; Times: 2
+	Query: "icterus northropi" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Egretta thula type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "country:"china" specificepithet:chrysaetos genus:aquila institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:torquatus genus:corvus institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:nisus genus:accipiter catalognumber:126470 institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:totanus genus:tringa catalognumber:126403 institutioncode:ansp" ; Times: 1
+	Query: "Icterus portoricensis" ; Times: 1
+	Query: "country:"china" genus:tadorna institutioncode:ansp" ; Times: 1
+	Query: ""eclectus"" ; Times: 2
+	Query: "stateprovince:"Baja California" country:"Mexico" specificepithet:cinereum genus:Toxostoma" ; Times: 2
+	Query: "Athene brama" ; Times: 2
+	Query: "xenicus lyalli" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "Icterus bonana" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "country:"china" specificepithet:hemilasius genus:buteo catalognumber:126504 institutioncode:ansp" ; Times: 1
+	Query: "Campylorhynchus rufinucha rufinucha country:"Mexico"" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "country:"china" specificepithet:ochruros rufiventris genus:phoenicurus institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:crecca genus:anas institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:koslowi genus:emberiza institutioncode:ansp" ; Times: 1
+	Query: "country:"china" genus:tichodroma institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:roseatus genus:anthus catalognumber:125720 institutioncode:ansp" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "country:"china" specificepithet:flavirostris genus:acanthis institutioncode:ansp" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "Grallaria rufula type:specimen" ; Times: 1
+	Query: "country:"china" specificepithet:rubeculoides genus:prunella institutioncode:ansp" ; Times: 1
+	Query: "Toxostoma cinereum mearnsi" ; Times: 1
+	Query: "Starnoenas" ; Times: 1
+	Query: ""colinus virginianus" type:specimen (Cuba OR Bahamas OR Haiti OR "Dominican Republic")" ; Times: 1
+	Query: "country:"china" specificepithet:dauuricus genus:corvus catalognumber:126281 institutioncode:ansp" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "country:"china" specificepithet:cyaneus genus:circus institutioncode:ansp" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: "Pelecanus occidentalis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"china" specificepithet:himalayana genus:certhia institutioncode:ansp" ; Times: 1
+	Query: "country:"china" specificepithet:rupestris genus:columba institutioncode:ansp" ; Times: 1
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "country:"china" specificepithet:cia khamensis genus:emberiza institutioncode:ansp year >= 1934 year <= 1935" ; Times: 1
+	Query: "Icterus oberi" ; Times: 1
+	Query: "Anas platyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "sporophila leucoptera" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Anas cyanoptera type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"china" specificepithet:cherrug genus:falco institutioncode:ansp" ; Times: 1
+	Query: "country:"china" genus:petronia institutioncode:ansp" ; Times: 1
+	Query: "Coccyzus minor type:specimen" ; Times: 1
+	Query: "country:"china" specificepithet:gentilis genus:accipiter institutioncode:ansp" ; Times: 1
+	Query: "Contopus sordidulus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"china" specificepithet:alba alboides genus:motacilla catalognumber:125607 institutioncode:ansp" ; Times: 1
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT eggs) year >= 1920 year <= 1940" ; Times: 1
+	Query: "gymnogyps type:specimen" ; Times: 1
+	Query: "passerina ciris type:specimen country:"Guatemala"" ; Times: 1
+	Query: "Ardea herodias type:specimen stateprovince:"California"" ; Times: 1
+	Query: "country:"china" specificepithet:auroreus genus:phoenicurus institutioncode:ansp year >= 1934 year <= 1935" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "Apteryx owenii" ; Times: 1
+	Query: "year:1832" ; Times: 1
+	Query: "year:1833" ; Times: 1
+	Query: "Dryocopus galeatus" ; Times: 1
+	Query: "Apteryx australis" ; Times: 1
+	Query: "year:1862" ; Times: 2
+	Query: "country:"china" specificepithet:acutirostris genus:calandrella institutioncode:ansp" ; Times: 2
+	Query: "Xenicus lyalli ansp" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 992
+Total number of records retrieved from searches: 5936
+Number of download events that retrieved data from the resource: 155
+Total number of records downloaded: 55439
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 992
+Total number of records retrieved from searches: 5936
+Number of download events that retrieved data from the resource: 155
+Total number of records downloaded: 55439
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
