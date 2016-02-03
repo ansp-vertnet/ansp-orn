@@ -1,0 +1,370 @@
+Report for Institution Code ANSP, Resource ansp_orn
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 330
+Number of records retrieved in searches: 2337
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 35
+	Country: Brazil ; Times: 23
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 4
+	Country: India ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 211
+	Country: Unknown ; Times: 9
+	Country: Sweden ; Times: 8
+	Country: Germany ; Times: 11
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 5
+	Country: Puerto Rico ; Times: 7
+	Country: New Zealand ; Times: 3
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-17 ; Times: 8
+	Date: 2015-12-09 ; Times: 16
+	Date: 2015-12-08 ; Times: 12
+	Date: 2015-12-03 ; Times: 26
+	Date: 2015-12-02 ; Times: 13
+	Date: 2015-12-01 ; Times: 17
+	Date: 2015-12-07 ; Times: 23
+	Date: 2015-12-06 ; Times: 6
+	Date: 2015-12-05 ; Times: 5
+	Date: 2015-12-04 ; Times: 27
+	Date: 2015-12-21 ; Times: 14
+	Date: 2015-12-20 ; Times: 3
+	Date: 2015-12-23 ; Times: 13
+	Date: 2015-12-22 ; Times: 4
+	Date: 2015-12-25 ; Times: 5
+	Date: 2015-12-24 ; Times: 9
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-26 ; Times: 2
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 2
+	Date: 2015-12-16 ; Times: 7
+	Date: 2015-12-14 ; Times: 16
+	Date: 2015-12-15 ; Times: 16
+	Date: 2015-12-30 ; Times: 4
+	Date: 2015-12-31 ; Times: 4
+	Date: 2015-12-10 ; Times: 9
+	Date: 2015-12-11 ; Times: 22
+	Date: 2015-12-12 ; Times: 32
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-18 ; Times: 6
+	Date: 2015-12-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Ammodramus henslowii (Virginia) AND (NOT West)" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "cissa thalassina" ; Times: 3
+	Query: "Cinclus cinclus year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "Heliangelus exortis ansp" ; Times: 1
+	Query: "Habia rubica bolivia santa cruz" ; Times: 1
+	Query: "gallus sonneratii india" ; Times: 2
+	Query: "ANSP 135621" ; Times: 1
+	Query: "gyps fulvus" ; Times: 1
+	Query: "type:specimen specificepithet:lugubris genus:Celeus" ; Times: 1
+	Query: "Contopus virens" ; Times: 1
+	Query: "Todirostrum calopterum pulchellum" ; Times: 1
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "ducula aenea india" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 2
+	Query: "Leptopogon taczanowskii type:specimen" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "choriotis nigriceps" ; Times: 2
+	Query: "pulsatrix" ; Times: 4
+	Query: "Camptorhynchus labradorius" ; Times: 5
+	Query: "192049" ; Times: 1
+	Query: "melanopareia" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Heliodoxa gularis" ; Times: 1
+	Query: "155633" ; Times: 1
+	Query: "Pycnonotus tympanistrigus" ; Times: 3
+	Query: "Otus nudipes type:specimen" ; Times: 1
+	Query: "Spindalis zena zena year &gt;= 1888 year &lt;= 1890" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "catalognumber:8359 institutioncode:ANSP" ; Times: 1
+	Query: "type:specimen genus:Opisthocomus" ; Times: 1
+	Query: "specificepithet:polychopterus genus:pachyramphus country:&#34;ecuador&#34;" ; Times: 1
+	Query: "falco severus india" ; Times: 1
+	Query: "Carpodacus roborowskii" ; Times: 3
+	Query: "genus:pachyramphus country:&#34;colombia&#34; catalognumber:160905 institutioncode:ANSP" ; Times: 1
+	Query: "acrocephalus agricola india" ; Times: 2
+	Query: "106669" ; Times: 1
+	Query: "Aimophila aestivalis type:specimen institutioncode:ANSP" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "clamator coromandus india" ; Times: 1
+	Query: "rynchops albicollis" ; Times: 1
+	Query: "Pipra filicauda" ; Times: 9
+	Query: "dendrocitta cinerascens" ; Times: 1
+	Query: "specificepithet:polychopterus genus:pachyramphus country:&#34;ecuador&#34; institutioncode:ANSP" ; Times: 1
+	Query: "Pachyramphus albogriseus salvini" ; Times: 1
+	Query: "110949" ; Times: 1
+	Query: "Cissa jefferyi" ; Times: 1
+	Query: "Leptopogon superciliaris type:specimen" ; Times: 1
+	Query: "87581" ; Times: 1
+	Query: "genus:pachyramphus country:&#34;ecuador&#34; catalognumber:186973 institutioncode:ANSP" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 2
+	Query: "ANSP 20356" ; Times: 1
+	Query: "deconychura minor" ; Times: 5
+	Query: "specificepithet:minor genus:pachyramphus country:&#34;ecuador&#34; institutioncode:ANSP" ; Times: 2
+	Query: "Cyanopsitta spixii" ; Times: 8
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Turdus assimilis country:&#34;Panama&#34;" ; Times: 1
+	Query: "sphyrapicus varius year &gt;= 1999 year &lt;= 2000" ; Times: 1
+	Query: "tachuris" ; Times: 1
+	Query: "ANSP 189166" ; Times: 1
+	Query: "grallaria rufula" ; Times: 1
+	Query: "Spindalis zena zena year &gt;= 1800 year &lt;= 1890" ; Times: 1
+	Query: "macrorhyncha" ; Times: 1
+	Query: "UMMZ 175059" ; Times: 1
+	Query: "Metopothrix aurantiacus" ; Times: 1
+	Query: "dendrocitta occipitalis" ; Times: 7
+	Query: "ANSP 189011" ; Times: 1
+	Query: "catalognumber:161288" ; Times: 1
+	Query: "catalognumber:34456 institutioncode:ANSP" ; Times: 1
+	Query: "Ramphocelus flammigerus" ; Times: 2
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "genus:pachyramphus country:&#34;ecuador&#34; catalognumber:185631 institutioncode:ANSP" ; Times: 2
+	Query: "ANSP 20348" ; Times: 1
+	Query: "Spizixos canifrons" ; Times: 1
+	Query: "erithacus brunneus" ; Times: 1
+	Query: "type:specimen specificepithet:picumnus genus:Dendrocolaptes" ; Times: 1
+	Query: "cyanocompsa cyanoides ANSP ecuador" ; Times: 1
+	Query: "Micropsitta bruijnii" ; Times: 1
+	Query: "sialia mexicana (california) year &gt;= 1908 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:difficilis genus:empidonax stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:pachyramphus country:&#34;ecuador&#34; catalognumber:185629 institutioncode:ANSP" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "philadelphia stateprovince:&#34;California&#34; (Geothlypis OR oporornis)" ; Times: 2
+	Query: "Philemon diemenensis" ; Times: 1
+	Query: "Cyclarhis gujanensis" ; Times: 1
+	Query: "sialia currucoides (california) year &gt;= 1908 year &lt;= 1909" ; Times: 1
+	Query: "107848" ; Times: 1
+	Query: "Margarornis squamiger type:specimen" ; Times: 1
+	Query: "Calidris alpina type:specimen year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "Ammodramus henslowii (Virginia) AND (NOT West NOT susurrans)" ; Times: 1
+	Query: "UMMZ 174752" ; Times: 1
+	Query: "TEMNURUS TEMNURUS" ; Times: 6
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 2
+	Query: "Nothoprocta cinerascens" ; Times: 2
+	Query: "phylloscopus borealis india" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 4
+	Query: "catalognumber: 111020" ; Times: 1
+	Query: "94519" ; Times: 1
+	Query: "threskiornis strictipennis" ; Times: 1
+	Query: "country:&#34;thailand&#34; (arachnothera)" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "nyctyornis athertoni india" ; Times: 1
+	Query: "aegypius" ; Times: 1
+	Query: "Dendrocitta leucogastra" ; Times: 6
+	Query: "Pachyramphus albogriseus albogriseus" ; Times: 2
+	Query: "Crypsirina cucullata" ; Times: 3
+	Query: "ANSP 10713" ; Times: 1
+	Query: "155921" ; Times: 1
+	Query: "turdus merula nigropileus india" ; Times: 1
+	Query: "ANSP 159389" ; Times: 1
+	Query: "Luscinia calliope country:&#34;India&#34;" ; Times: 1
+	Query: "Sterna forsteri" ; Times: 1
+	Query: "calyptomena whiteheadi" ; Times: 1
+	Query: "126225" ; Times: 1
+	Query: "126226" ; Times: 1
+	Query: "acrocephalus orientalis-thailand" ; Times: 4
+	Query: "Urocissa ornata" ; Times: 4
+	Query: "Pteroglossus sanguineus" ; Times: 1
+	Query: "specificepithet:minor genus:pachyramphus country:&#34;peru&#34; institutioncode:ANSP" ; Times: 1
+	Query: "ANSP 188781" ; Times: 1
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "notiomystis" ; Times: 1
+	Query: "pycnonotus tympanistrigus" ; Times: 1
+	Query: "genus:pachyramphus country:&#34;ecuador&#34; catalognumber:184075 institutioncode:ANSP" ; Times: 1
+	Query: "ANSP 189043" ; Times: 2
+	Query: "coryphaspiza melanotis" ; Times: 1
+	Query: "Lanius ludovicianus anthonyi" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "Coccyzus euleri" ; Times: 1
+	Query: "Myioborus melanocephalus type:specimen" ; Times: 1
+	Query: "machaeropterus deliciosus" ; Times: 4
+	Query: "Pycnonotus priocephalus" ; Times: 1
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "cyanocompsa ANSP" ; Times: 1
+	Query: "margaroperdix" ; Times: 1
+	Query: "genus:pachyramphus country:&#34;ecuador&#34; catalognumber:186235 institutioncode:ANSP" ; Times: 1
+	Query: "nothoprocta ornata" ; Times: 1
+	Query: "Heliangelus exortis exortis ansp" ; Times: 1
+	Query: "Numenius borealis" ; Times: 3
+	Query: "oxyruncus" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "113810" ; Times: 1
+	Query: "ANSP 100891" ; Times: 1
+	Query: "Trogon massena" ; Times: 1
+	Query: "Phasidus niger" ; Times: 1
+	Query: "Ploceus bojeri" ; Times: 2
+	Query: "catalognumber:94774" ; Times: 2
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Synallaxis subpudica" ; Times: 1
+	Query: "catalognumber:5758 institutioncode:ANSP" ; Times: 1
+	Query: "UMMZ 174824" ; Times: 1
+	Query: "circaetus gallicus india" ; Times: 1
+	Query: "piculus leucolaemus" ; Times: 3
+	Query: "UMMZ 174820" ; Times: 1
+	Query: "hieraaetus pennatus india" ; Times: 1
+	Query: "wilsonia pusilla (Costa Rica) month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "tachuris rubrigastra" ; Times: 1
+	Query: "Crypsirina temia" ; Times: 3
+	Query: "specificepithet:sordidulus genus:contopus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ammodramus henslowii (Virginia)" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "Pycnonotus cyaniventris" ; Times: 1
+	Query: "Asthenes berlepschi" ; Times: 1
+	Query: "amazona vinacea" ; Times: 2
+	Query: "ANSP 171830" ; Times: 1
+	Query: "passer domesticus continent:asia year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "catalognumber:34455 institutioncode:ANSP" ; Times: 1
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "94544" ; Times: 1
+	Query: "Pachyramphus albogriseus guayaquilensis" ; Times: 1
+	Query: "carduelis cucullata" ; Times: 1
+	Query: "amnh trogon violaceus" ; Times: 1
+	Query: "Pluvianus" ; Times: 2
+	Query: "oxyruncus type:specimen" ; Times: 3
+	Query: "pachyramphus albogriseus salvini" ; Times: 1
+	Query: "pulsatrix institutioncode:ANSP" ; Times: 4
+	Query: "caprimulgus macrurus india" ; Times: 2
+	Query: "Philemon corniculatus monachus" ; Times: 1
+	Query: "francolinus pictus" ; Times: 1
+	Query: "genus:pachyramphus country:&#34;ecuador&#34; catalognumber:185626 institutioncode:ANSP" ; Times: 1
+	Query: "Carpococcyx" ; Times: 1
+	Query: "Urocissa caerulea" ; Times: 4
+	Query: "genus:pachyramphus country:&#34;ecuador&#34; catalognumber:184077 institutioncode:ANSP" ; Times: 1
+	Query: "Accipiter chionogaster" ; Times: 1
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 1
+	Query: "urocissa flavirostris" ; Times: 1
+	Query: "leucopternis occidentalis" ; Times: 2
+	Query: "Diphyllodes respublica" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 4
+	Query: "genus:pachyramphus country:&#34;ecuador&#34; catalognumber:184074 institutioncode:ANSP" ; Times: 1
+	Query: "nyctibius leucopterus" ; Times: 1
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "Coturnicops notatus" ; Times: 1
+	Query: "caprimulgus atripennis" ; Times: 1
+	Query: "catalognumber:34454 institutioncode:ANSP" ; Times: 2
+	Query: "genus:Tringa year &gt;= 1984 year &lt;= 1984" ; Times: 2
+	Query: "Calyptophilus frugivorus year &gt;= 1883 year &lt;= 1883" ; Times: 1
+	Query: "Thamnophilus ruficapillus type:specimen" ; Times: 1
+	Query: "Pterodroma longirostris" ; Times: 3
+	Query: "ANSP 179671" ; Times: 1
+	Query: "rollandia microptera" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus exiguus type:specimen" ; Times: 1
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "Andigena hypoglauca" ; Times: 1
+	Query: "netta rufina india" ; Times: 1
+	Query: "Caprimulgus vociferus" ; Times: 1
+	Query: "ANSP 171831" ; Times: 1
+	Query: "Philydor rufus" ; Times: 1
+	Query: "Erpornis" ; Times: 1
+	Query: "Pipreola riefferii type:specimen" ; Times: 1
+	Query: "sialia mexicana year &gt;= 1908 year &lt;= 1909" ; Times: 1
+	Query: "acrocephalus agricola pakistan" ; Times: 1
+	Query: "grallaricula flavirostris type:specimen" ; Times: 1
+	Query: "Turdus assimilis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "73952" ; Times: 1
+	Query: "francolinus pondicerianus" ; Times: 1
+	Query: "Threskiornis moluccus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 889 download events in this period)
+Total number of records downloaded: 3233
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 8
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 3
+	Country: United States ; Times: 30
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 2
+	Date: 2015-12-20 ; Times: 2
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-01 ; Times: 3
+	Date: 2015-12-07 ; Times: 2
+	Date: 2015-12-23 ; Times: 7
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 8
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-31 ; Times: 7
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "chloropipo unicolor" ; Times: 2
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "tachuris" ; Times: 1
+	Query: "lophotriccus pileatus type:specimen" ; Times: 1
+	Query: "Henicorhina leucophrys type:specimen" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "gyps fulvus" ; Times: 3
+	Query: "Calcarius mccownii" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Selasphorus rufus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Selasphorus scintilla type:specimen" ; Times: 1
+	Query: "grallaricula flavirostris type:specimen" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "specificepithet:sordidulus genus:contopus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (california) year &lt;= 1979 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Phasidus niger" ; Times: 1
+	Query: "specificepithet:frantzii genus:Elaenia" ; Times: 1
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "Calyptophilus frugivorus year &gt;= 1883 year &lt;= 1883" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "genus:Opisthocomus year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "Leptopogon superciliaris type:specimen" ; Times: 1
+	Query: "terpsiphone year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "wilsonia pusilla (Costa Rica) month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "monarcha year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+
+
+End of report.
