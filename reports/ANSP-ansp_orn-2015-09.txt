@@ -1,0 +1,542 @@
+Report for Institution Code ANSP, Resource ansp_orn
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 753
+Number of records retrieved in searches: 4763
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 10
+	Country: Peru ; Times: 1
+	Country: Venezuela ; Times: 17
+	Country: Australia ; Times: 11
+	Country: Papua New Guinea ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Thailand ; Times: 3
+	Country: Poland ; Times: 3
+	Country: Netherlands ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Philippines ; Times: 7
+	Country: United States ; Times: 538
+	Country: Sweden ; Times: 3
+	Country: French Guiana ; Times: 1
+	Country: Brazil ; Times: 44
+	Country: Jamaica ; Times: 7
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 14
+	Country: United Kingdom ; Times: 7
+	Country: Austria ; Times: 43
+	Country: Colombia ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 22
+	Date: 2015-09-09 ; Times: 15
+	Date: 2015-09-10 ; Times: 14
+	Date: 2015-09-11 ; Times: 34
+	Date: 2015-09-12 ; Times: 9
+	Date: 2015-09-13 ; Times: 7
+	Date: 2015-09-14 ; Times: 66
+	Date: 2015-09-15 ; Times: 19
+	Date: 2015-09-16 ; Times: 9
+	Date: 2015-09-17 ; Times: 75
+	Date: 2015-09-18 ; Times: 6
+	Date: 2015-09-19 ; Times: 6
+	Date: 2015-09-30 ; Times: 9
+	Date: 2015-09-02 ; Times: 31
+	Date: 2015-09-29 ; Times: 35
+	Date: 2015-09-07 ; Times: 27
+	Date: 2015-09-06 ; Times: 37
+	Date: 2015-09-05 ; Times: 33
+	Date: 2015-09-04 ; Times: 80
+	Date: 2015-09-03 ; Times: 19
+	Date: 2015-09-28 ; Times: 15
+	Date: 2015-09-01 ; Times: 40
+	Date: 2015-09-25 ; Times: 14
+	Date: 2015-09-24 ; Times: 28
+	Date: 2015-09-27 ; Times: 10
+	Date: 2015-09-26 ; Times: 26
+	Date: 2015-09-21 ; Times: 6
+	Date: 2015-09-20 ; Times: 13
+	Date: 2015-09-23 ; Times: 9
+	Date: 2015-09-08 ; Times: 39
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;china&#34; specificepithet:totanus genus:tringa institutioncode:ansp year &gt;= 1935 year &lt;= 1936" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 1
+	Query: "specificepithet:niger genus:Pachyramphus" ; Times: 1
+	Query: "phylloscopus griseolus" ; Times: 4
+	Query: "Myiarchus sagrae type:specimen" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM)" ; Times: 1
+	Query: "phylloscopus occipitalis" ; Times: 2
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM NOT AMNH NOT CUML NOT FMNH NOT MLZ NOT UMMZ)" ; Times: 1
+	Query: "motacilla alba china ku" ; Times: 1
+	Query: "perdicula erythrorhyncha" ; Times: 2
+	Query: "pachyramphus niger" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "dendrocitta leucogastra" ; Times: 18
+	Query: "Butastur indicus" ; Times: 6
+	Query: "Bangsia melanochlamys" ; Times: 3
+	Query: "ploceus galbula" ; Times: 3
+	Query: "megalaima corvina skin" ; Times: 1
+	Query: "Colinus leucopogon type:specimen AND (NOT cristatus)" ; Times: 1
+	Query: "tachyphonus axillaris" ; Times: 2
+	Query: "country:&#34;china&#34; genus:montifringilla institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Morelia viridis" ; Times: 2
+	Query: "turdoides gularis" ; Times: 16
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "microstilbon type:specimen" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 4
+	Query: "genus:Icterus country:&#34;bahamas&#34;" ; Times: 2
+	Query: "colibri coruscans" ; Times: 1
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "microstilbon" ; Times: 2
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "SYNALLAXIS STICTOTHORAX type:specimen institutioncode:ANSP" ; Times: 1
+	Query: "Catharus dryas" ; Times: 2
+	Query: "Colibri coruscans" ; Times: 6
+	Query: "country:&#34;china&#34; specificepithet:alpestris elwesi genus:eremophila institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; genus:alauda institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 2
+	Query: "gracula religiosa" ; Times: 1
+	Query: "Lophura diardi" ; Times: 1
+	Query: "chaetocercus type:specimen" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "crax fasciolata pinima" ; Times: 1
+	Query: "Dendrocitta cinerascens" ; Times: 1
+	Query: "phylloscopus schwarzi" ; Times: 4
+	Query: "asthenes cactorum type:specimen" ; Times: 2
+	Query: "Gallus sonneratii" ; Times: 2
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "picoides leucotos" ; Times: 1
+	Query: "country:&#34;china&#34; genus:perdix institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Sicalis flaveola" ; Times: 1
+	Query: "turdus fuscater" ; Times: 4
+	Query: "Harpactes erythrocephalus Thailand" ; Times: 1
+	Query: "Thripophaga fusciceps" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "149922" ; Times: 1
+	Query: "Rhinomyias umbratilis" ; Times: 4
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "meiglyptes tukki" ; Times: 2
+	Query: "Cyanocitta stelleri carlottae" ; Times: 2
+	Query: "northropi genus:icterus" ; Times: 3
+	Query: "alcippe poioicephala" ; Times: 1
+	Query: "Oporornis iowa" ; Times: 1
+	Query: "dendrocitta cinerascens" ; Times: 3
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "Rhegmatorhina" ; Times: 1
+	Query: "coturnicops notatus" ; Times: 3
+	Query: "polyplectron bicalcaratum" ; Times: 2
+	Query: "Bangsia" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM NOT AMNH NOT CUML)" ; Times: 1
+	Query: "85908" ; Times: 1
+	Query: "country:&#34;china&#34; genus:regulus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "genus:jynx institutioncode:ansp" ; Times: 1
+	Query: "rhopodytes viridirostris" ; Times: 2
+	Query: "Sakesphorus Melanonotus" ; Times: 4
+	Query: "type:specimen genus:Urocynchramus" ; Times: 1
+	Query: "genus:Icterus (northropi)" ; Times: 1
+	Query: "Crax pinima" ; Times: 3
+	Query: "genus:Icterus (northropi) AND (NOT harvard)" ; Times: 1
+	Query: "genus:saxicola country:&#34;china&#34; year &gt;= 1931 year &lt;= 1932 institutioncode:ANSP" ; Times: 1
+	Query: "Penelope perspicax" ; Times: 1
+	Query: "&#34;atlapetes seebohmi&#34;" ; Times: 1
+	Query: "Hypocolius" ; Times: 1
+	Query: "Oenanthe picata country:&#34;India&#34;" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ)" ; Times: 1
+	Query: "pachyramphus canescens" ; Times: 2
+	Query: "Myrmothera" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:montanus genus:parus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "strix nebulosa" ; Times: 2
+	Query: "oxyruncus" ; Times: 2
+	Query: "crypsirina cucullata" ; Times: 5
+	Query: "Thamnomanes saturninus" ; Times: 1
+	Query: "Sakesphorus melanonotus" ; Times: 13
+	Query: "country:&#34;china&#34; genus:melanocorypha institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "dorsalis type:specimen specificepithet:polychopterus genus:pachyramphus" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:hodgsoni genus:phoenicurus institutioncode:ansp" ; Times: 1
+	Query: "phytotoma raimondii" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:canus genus:picus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:cinerea genus:calandrella institutioncode:ansp year &gt;= 1935 year &lt;= 1936" ; Times: 2
+	Query: "temnurus temnurus" ; Times: 8
+	Query: "pauxi unicornis unicornis" ; Times: 1
+	Query: "asthenes humicola type:specimen" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 3
+	Query: "phylloscopus maculipennis" ; Times: 2
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "ptiloris victoriae year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "erithacus brunneus" ; Times: 7
+	Query: "turdoides earlei" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "genus:erithacus country:&#34;china&#34; year &gt;= 1934 year &lt;= 1935 institutioncode:ANSP" ; Times: 1
+	Query: "genus:Bombycilla stateprovince:&#34;Connecticut&#34; sex:Male year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "genus:icterus (melanopsis) AND (NOT film)" ; Times: 1
+	Query: "catalognumber:128553" ; Times: 1
+	Query: "Pharomachrus" ; Times: 2
+	Query: "country:&#34;china&#34; specificepithet:acutirostris genus:calandrella institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:erythrogaster genus:phoenicurus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "phylloscopus plumbeitarsus" ; Times: 1
+	Query: "genus:Icterus (northropi) institutioncode:ANSP" ; Times: 1
+	Query: "ASTHENES HUMICOLA type:specimen institutioncode:ANSP" ; Times: 1
+	Query: "Electron platyrhynchum type:specimen ( immature )" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "tachyphonus flaviventris" ; Times: 2
+	Query: "urocissa caerulea" ; Times: 6
+	Query: "Barnardius barnardi" ; Times: 1
+	Query: "knipolegus" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:citreola calcarata genus:motacilla institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; genus:aegypius institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "&#34;sylvietta denti&#34; tissue:0" ; Times: 1
+	Query: "type:specimen specificepithet:albogriseus genus:pachyramphus" ; Times: 2
+	Query: "country:&#34;china&#34; specificepithet:frontalis genus:phoenicurus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 5
+	Query: "acrocephalus schoenobaenus" ; Times: 3
+	Query: "corcovado" ; Times: 1
+	Query: "Hemipus picatus India" ; Times: 1
+	Query: "cumbre de valencia" ; Times: 1
+	Query: "87603" ; Times: 1
+	Query: "Melanerpes striatus" ; Times: 2
+	Query: "acrocephalus palustris" ; Times: 2
+	Query: "genus:Hypocolius" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:totanus genus:tringa catalognumber:126403 institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "euscarthmus country:&#34;venezuela&#34;" ; Times: 2
+	Query: "Ficedula albicilla country:&#34;India&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 35
+	Query: "buceros bicornis" ; Times: 1
+	Query: "Anthracothorax country:&#34;Panama&#34;" ; Times: 1
+	Query: "synallaxis tithys" ; Times: 2
+	Query: "specificepithet:fruticeti genus:Phrygilus" ; Times: 5
+	Query: "acrocephalus arundinaceus" ; Times: 5
+	Query: "siptornopsis type:specimen institutioncode:ANSP" ; Times: 1
+	Query: "Pyrrhura frontalis" ; Times: 1
+	Query: "type:specimen genus:Dasyornis" ; Times: 2
+	Query: "genus:lanius country:&#34;china&#34; year &gt;= 1934 year &lt;= 1935 institutioncode:ANSP" ; Times: 1
+	Query: "ichthyophaga ichthyaetus" ; Times: 2
+	Query: "zoothera wardii" ; Times: 7
+	Query: "ansp 17551" ; Times: 1
+	Query: "colibri" ; Times: 1
+	Query: "country:&#34;china&#34; genus:aquila institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 4
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:cinerea genus:calandrella catalognumber:125952 institutioncode:ansp year &gt;= 1935 year &lt;= 1936" ; Times: 1
+	Query: "Hylopezus" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:pachyramphus" ; Times: 1
+	Query: "Pauxi unicornis" ; Times: 2
+	Query: "27176" ; Times: 1
+	Query: "type:specimen country:&#34;peru&#34; specificepithet:viridis genus:pachyramphus" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:roborowskii genus:carpodacus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "habia peruviana" ; Times: 1
+	Query: "Kansas Natural History Museum ornithology" ; Times: 5
+	Query: "melampitta" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "country:&#34;china&#34; genus:troglodytes institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "catalognumber:155809" ; Times: 1
+	Query: "Prinia subflava Tanzania" ; Times: 1
+	Query: "muscicapa muttui" ; Times: 91
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:alba leucopsis genus:motacilla institutioncode:ansp year &gt;= 1935 year &lt;= 1936" ; Times: 1
+	Query: "megalaima skeleton" ; Times: 1
+	Query: "schistes albogularis" ; Times: 1
+	Query: "58779" ; Times: 1
+	Query: "137626" ; Times: 1
+	Query: "urocissa ornata" ; Times: 7
+	Query: "pulsatrix" ; Times: 2
+	Query: "Megapodius laperouse senex" ; Times: 1
+	Query: "Neophron" ; Times: 2
+	Query: "vultur" ; Times: 17
+	Query: "vultur gryphus" ; Times: 2
+	Query: "Otus watsonii" ; Times: 1
+	Query: "Pandion haliaeetus" ; Times: 2
+	Query: "pycnonotus cafer" ; Times: 5
+	Query: "phylloscopus pulcher" ; Times: 1
+	Query: "country:&#34;COlombia&#34; specificepithet:albogriseus genus:pachyramphus" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 1
+	Query: "Barnardius institutioncode:ANSP" ; Times: 1
+	Query: "Crax fasciolata pinima" ; Times: 1
+	Query: "Butastur" ; Times: 1
+	Query: "ANSP 28079" ; Times: 1
+	Query: "acrocephalus orientalis" ; Times: 2
+	Query: "catalognumber:21144 institutioncode:ANSP" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Penelope obscura" ; Times: 1
+	Query: "turdoides striatus" ; Times: 2
+	Query: "genus:erithacus country:&#34;china&#34; year &gt;= 1931 year &lt;= 1932 institutioncode:ANSP" ; Times: 1
+	Query: "GUYANA Sakesphorus canadensis" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:rapax genus:aquila institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "trachyphonus margaritatus" ; Times: 2
+	Query: "Vireo osburni" ; Times: 2
+	Query: "melanotrochilus fuscus" ; Times: 7
+	Query: "country:&#34;china&#34; specificepithet:familiaris genus:certhia institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "grallaricula" ; Times: 1
+	Query: "crypsirina temia" ; Times: 38
+	Query: "Penelope jacquacu granti" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Pachyramphus" ; Times: 5
+	Query: "peruanus type:specimen genus:pachyramphus" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:totanus genus:tringa institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Malacoptila fusca" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "Curruca curruca country:&#34;india&#34;" ; Times: 1
+	Query: "emberiza striolata" ; Times: 1
+	Query: "Torreornis inexpectata" ; Times: 1
+	Query: "country:&#34;china&#34; genus:parus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "specificepithet:meloryphus genus:euscarthmus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "Rhinomyias gularis" ; Times: 2
+	Query: "garrulax delesserti" ; Times: 4
+	Query: "specificepithet:lapponicus genus:calcarius year &gt;= 1926 year &lt;= 1926" ; Times: 1
+	Query: "Heliodoxa xanthogonys" ; Times: 1
+	Query: "Monasa type:specimen" ; Times: 1
+	Query: "glyphorynchus spirurus" ; Times: 3
+	Query: "ramphocelus limatus" ; Times: 1
+	Query: "Ficedula parva country:&#34;India&#34;" ; Times: 2
+	Query: "catalognumber:154681" ; Times: 1
+	Query: "specificepithet:pulcherrimus genus:carpodacus country:&#34;china&#34; year &gt;= 1934 year &lt;= 1935 institutioncode:ANSP" ; Times: 1
+	Query: "collectioncode:ORN (Bond) institutioncode:ANSP" ; Times: 1
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "collectioncode:ORN institutioncode:ANSP" ; Times: 1
+	Query: "pavo muticus" ; Times: 2
+	Query: "glyphorhynchus spirurus" ; Times: 7
+	Query: "genus:Icterus country:&#34;bahamas&#34; institutioncode:ANSP" ; Times: 1
+	Query: "phylloscopus armandii" ; Times: 1
+	Query: "batrachostomus auritus" ; Times: 1
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "miliaria calandra" ; Times: 1
+	Query: "Crax" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "gryphus" ; Times: 2
+	Query: "phylloscopus collybita" ; Times: 2
+	Query: "catalognumber:8589 institutioncode:ANSP" ; Times: 2
+	Query: "emberiza hortulana" ; Times: 4
+	Query: "Passerina versicolor purpurascens type:specimen" ; Times: 1
+	Query: "specificepithet:niger genus:pachyramphus" ; Times: 1
+	Query: "graminicola bengalensis" ; Times: 1
+	Query: "genus:icterus (melanopsis)" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "malimbus" ; Times: 2
+	Query: "199855" ; Times: 1
+	Query: "siptornopsis" ; Times: 1
+	Query: "parus xanthogenys" ; Times: 1
+	Query: "batrachostomus stellatus" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:alba alboides genus:motacilla institutioncode:ansp year &gt;= 1935 year &lt;= 1936" ; Times: 1
+	Query: "Rhinomyias goodfellowi" ; Times: 4
+	Query: "phylloscopus davisoni" ; Times: 1
+	Query: "seicercus burkii" ; Times: 2
+	Query: "guaiquinima country:&#34;venezuela&#34;" ; Times: 2
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "ibex" ; Times: 4
+	Query: "R.30826" ; Times: 1
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "leucopternis occidentalis" ; Times: 1
+	Query: "tyto longimembris" ; Times: 3
+	Query: "Thamnophilus aethiops" ; Times: 1
+	Query: "thamnomanes ardesiacus" ; Times: 1
+	Query: "&#34;CInclodes antarcticus&#34;" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 2
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "turdoides affinis" ; Times: 1
+	Query: "motacilla alba ku" ; Times: 1
+	Query: "country:&#34;china&#34; genus:anser institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:schisticeps genus:phoenicurus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "genus:formicivora" ; Times: 1
+	Query: "type:specimen country:&#34;ecuador&#34; specificepithet:viridis genus:pachyramphus" ; Times: 1
+	Query: "specificepithet:surda genus:touit" ; Times: 1
+	Query: "Sclerurus macconnelli" ; Times: 1
+	Query: "Rhodopis vesper" ; Times: 1
+	Query: "zosterops palpebrosa" ; Times: 5
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Connecticut&#34; sex:Male" ; Times: 1
+	Query: "phylloscopus subaffinis" ; Times: 1
+	Query: "xenospingus concolor" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus exiguus type:specimen" ; Times: 5
+	Query: "type:specimen genus:Hypocolius" ; Times: 1
+	Query: "90670" ; Times: 1
+	Query: "schistes geoffroyi" ; Times: 1
+	Query: "95750" ; Times: 2
+	Query: "Selasphorus scintilla" ; Times: 1
+	Query: "64800" ; Times: 1
+	Query: "catalognumber:161963" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:rubicilla genus:carpodacus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 2
+	Query: "country:&#34;china&#34; specificepithet:canus kogo genus:picus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Colinus leucopogon type:specimen" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:rubicilloides genus:carpodacus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "genus:phylloscopus country:&#34;china&#34; year &gt;= 1931 year &lt;= 1932 institutioncode:ANSP" ; Times: 1
+	Query: "Sturnus vulgaris country:&#34;india&#34;" ; Times: 1
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "canescens type:specimen specificepithet:homochrous genus:pachyramphus" ; Times: 1
+	Query: "gorilla" ; Times: 3
+	Query: "Nonnula type:specimen" ; Times: 1
+	Query: "type:specimen genus:Notiomystis" ; Times: 1
+	Query: "Dryocopus galeatus" ; Times: 2
+	Query: "specificepithet:eos genus:carpodacus country:&#34;china&#34; year &gt;= 1934 year &lt;= 1935 institutioncode:ANSP" ; Times: 1
+	Query: "rhodopis vesper" ; Times: 1
+	Query: "habia alfaroana" ; Times: 2
+	Query: "heteroxolmis" ; Times: 1
+	Query: "Phonygammus keraudrenii" ; Times: 1
+	Query: "catalognumber:111888 collectioncode:ORN institutioncode:ANSP" ; Times: 1
+	Query: "Brewster Academy ornithology" ; Times: 1
+	Query: "phylloscopus coronatus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 116 (out of 1045 download events in this period)
+Total number of records downloaded: 61441
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 7
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 5
+	Country: Venezuela ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 6
+	Country: United States ; Times: 45
+	Country: Austria ; Times: 27
+	Country: Colombia ; Times: 7
+	Country: Thailand ; Times: 6
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-17 ; Times: 23
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-19 ; Times: 8
+	Date: 2015-09-08 ; Times: 3
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-07 ; Times: 5
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 6
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-02 ; Times: 17
+	Date: 2015-09-01 ; Times: 9
+	Date: 2015-09-25 ; Times: 3
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-20 ; Times: 3
+	Date: 2015-09-22 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;china&#34; specificepithet:totanus genus:tringa institutioncode:ansp year &gt;= 1935 year &lt;= 1936" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:alpestris elwesi genus:eremophila institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; genus:alauda institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 2
+	Query: "Lophura diardi" ; Times: 1
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "Cyanocitta stelleri carlottae" ; Times: 1
+	Query: "leucopternis occidentalis" ; Times: 1
+	Query: "Rhegmatorhina" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "country:&#34;china&#34; genus:phylloscopus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "year:1859" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:roborowskii genus:carpodacus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "thamnomanes ardesiacus" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Thamnomanes saturninus" ; Times: 1
+	Query: "Sakesphorus melanonotus" ; Times: 2
+	Query: "country:&#34;china&#34; genus:melanocorypha institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "genus:erithacus country:&#34;china&#34; year &gt;= 1934 year &lt;= 1935 institutioncode:ANSP" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:erythrogaster genus:phoenicurus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:citreola calcarata genus:motacilla institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; genus:aegypius institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:frontalis genus:phoenicurus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:totanus genus:tringa catalognumber:126403 institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:schisticeps genus:phoenicurus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "enicurus ruficapillus" ; Times: 1
+	Query: "synallaxis tithys" ; Times: 1
+	Query: "schistes albogularis" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 2
+	Query: "country:&#34;china&#34; genus:troglodytes institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:montanus genus:parus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:alba leucopsis genus:motacilla institutioncode:ansp year &gt;= 1935 year &lt;= 1936" ; Times: 1
+	Query: "type:specimen genus:Dasyornis" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "genus:erithacus country:&#34;china&#34; year &gt;= 1931 year &lt;= 1932 institutioncode:ANSP" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Otus watsonii" ; Times: 1
+	Query: "Pandion haliaeetus" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "genus:cyanocitta year &gt;= 2010 year &lt;= 2014 month &gt;= 6 month &lt;= 11" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Leptosomus discolor" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "type:specimen genus:Eupetes" ; Times: 1
+	Query: "Sclerurus macconnelli" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:canus kogo genus:picus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 3
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:alba alboides genus:motacilla institutioncode:ansp year &gt;= 1935 year &lt;= 1936" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "specificepithet:eos genus:carpodacus country:&#34;china&#34; year &gt;= 1934 year &lt;= 1935 institutioncode:ANSP" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:Picoides" ; Times: 2
+	Query: "guaiquinima country:&#34;venezuela&#34;" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "turdus fuscater" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "Thamnophilus aethiops" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 3
+	Query: "country:&#34;china&#34; genus:anser institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Psophia" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "type:specimen genus:Hypocolius" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "country:&#34;china&#34; specificepithet:rubicilla genus:carpodacus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 2
+	Query: "country:&#34;china&#34; specificepithet:rubicilloides genus:carpodacus institutioncode:ansp year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "Xiphorhynchus ocellatus" ; Times: 1
+
+
+End of report.
