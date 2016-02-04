@@ -1,0 +1,390 @@
+Report for Institution Code ANSP, Resource ansp_orn
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 337
+Number of records retrieved in searches: 2574
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 32
+	Country: United States ; Times: 239
+	Country: Netherlands ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 2
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 7
+	Country: Canada ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 8
+	Country: Colombia ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Thailand ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Denmark ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-27 ; Times: 9
+	Date: 2016-01-04 ; Times: 37
+	Date: 2016-01-05 ; Times: 10
+	Date: 2016-01-06 ; Times: 16
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-26 ; Times: 9
+	Date: 2016-01-01 ; Times: 16
+	Date: 2016-01-02 ; Times: 16
+	Date: 2016-01-25 ; Times: 15
+	Date: 2016-01-28 ; Times: 13
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-08 ; Times: 20
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-22 ; Times: 15
+	Date: 2016-01-20 ; Times: 4
+	Date: 2016-01-19 ; Times: 8
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-13 ; Times: 12
+	Date: 2016-01-12 ; Times: 10
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-10 ; Times: 16
+	Date: 2016-01-17 ; Times: 29
+	Date: 2016-01-16 ; Times: 11
+	Date: 2016-01-15 ; Times: 12
+	Date: 2016-01-14 ; Times: 12
+	Date: 2016-01-31 ; Times: 3
+	Date: 2016-01-30 ; Times: 11
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-18 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen (tinamus)" ; Times: 1
+	Query: "Tadorna ferruginea" ; Times: 3
+	Query: "cissa thalassina" ; Times: 1
+	Query: "cinclodes aricomae" ; Times: 3
+	Query: "henicorhina leucoptera" ; Times: 2
+	Query: "myrmeciza nigricauda type:specimen year &gt;= 1965 institutioncode:ANSP" ; Times: 1
+	Query: "alcippe stanfordi" ; Times: 1
+	Query: "genus:Catharus hastypestatus:1" ; Times: 22
+	Query: "herpsilochmus stictocephalus type:specimen year &gt;= 1965 institutioncode:ANSP" ; Times: 2
+	Query: "Herpsilochmus roraimae type:specimen sex:female year &gt;= 1965 year &lt;= 2016" ; Times: 1
+	Query: "ANAS PLATYRHYNCHOS diazi" ; Times: 2
+	Query: "pitiayumi brazil" ; Times: 2
+	Query: "bolborhynchus ferrugineifrons" ; Times: 1
+	Query: "gorsachius" ; Times: 1
+	Query: "pharomachrus type:specimen" ; Times: 2
+	Query: "Zosterops ugiensis" ; Times: 1
+	Query: "Pheucticus tibialis type:specimen" ; Times: 1
+	Query: "herpsilochmus sticturus type:specimen year &gt;= 1965 institutioncode:ANSP" ; Times: 1
+	Query: "Glaucidium cuculoides deignani" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 2
+	Query: "syndactyla subalaris" ; Times: 3
+	Query: "Grus canadensis institutioncode:ANSP" ; Times: 1
+	Query: "Periporphyrus erythromelas brazil" ; Times: 1
+	Query: "Caryothraustes canadensis brazil" ; Times: 2
+	Query: "specificepithet:leucosticta genus:Henicorhina mappable:1 country:Ecuador" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 3
+	Query: "halcyon chelicuti" ; Times: 2
+	Query: "&#34;Heliangelus amethysticollis&#34;" ; Times: 1
+	Query: "croconotus brazil" ; Times: 1
+	Query: "&#34;Coeligena iris&#34;" ; Times: 1
+	Query: "specificepithet:ferrugineifrons genus:Bolborhynchus" ; Times: 1
+	Query: "Pycnonotus cafer Thailand" ; Times: 1
+	Query: "Basileuterus flaveolus brazil" ; Times: 1
+	Query: "euryceros prevostii" ; Times: 2
+	Query: "Basileuterus culicivorus brazil" ; Times: 2
+	Query: "myrmotherula guttata sex:female year &gt;= 1965 institutioncode:ANSP" ; Times: 1
+	Query: "ANSP Xenopsaris" ; Times: 4
+	Query: "cardinalis cardinalis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Aimophila aestivalis type:specimen institutioncode:ANSP" ; Times: 1
+	Query: "oriolus kundoo india" ; Times: 2
+	Query: "&#34;Hemispingus atropileus&#34;" ; Times: 1
+	Query: "Psittacula roseata" ; Times: 3
+	Query: "myrmotherula surinamensis type:specimen sex:male institutioncode:ANSP" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "terenura spodioptila type:specimen sex:female year &gt;= 1965" ; Times: 2
+	Query: "specificepithet:rufum genus:Conirostrum" ; Times: 1
+	Query: "Cissa thalassina" ; Times: 5
+	Query: "pseudibis" ; Times: 1
+	Query: "Platylophus" ; Times: 1
+	Query: "Henicorhina leucosticta hauxwelli" ; Times: 1
+	Query: "Tangara cayana" ; Times: 5
+	Query: "Ptilorrhoa leucosticta" ; Times: 1
+	Query: "&#34;Iridosornis analis&#34;" ; Times: 1
+	Query: "&#34;Premnoplex brunnescens&#34;" ; Times: 1
+	Query: "urubambensis" ; Times: 1
+	Query: "Bubo nipalensis" ; Times: 1
+	Query: "type:specimen (Acanthidops)" ; Times: 1
+	Query: "Campylorhynchus fasciatus OR &#34;Heleodytes fasciatus&#34; OR &#34;Furnarius fasciatus&#34; OR &#34;Thryothorus superciliaris&#34; OR &#34;Cantorchilus superciliaris&#34; OR &#34;Cyanocorax mystacalis&#34; OR &#34;Euscarthmus meloryphus&#34; OR &#34;Hapalocercus meloryphus&#34; OR &#34;Forpus coelestis&#34; OR &#34;Psittacula coelestis&#34; OR &#34;Icterus graceannae&#34; OR &#34;Leucippus baeri&#34; OR &#34;Mimus longicaudatus&#34; OR &#34;Myiarchus semirufus&#34; OR &#34;Myiodynastes bairdi&#34; OR &#34;Myiodynastes bairdii&#34; OR &#34;Myrmia micrura&#34; OR &#34;Calothorax micrurus&#34; OR &#34;Phaeomyias murina&#34; OR &#34;Phytotoma raimondii&#34; OR &#34;Piezorhina cinerea&#34; OR &#34;Guiraca cinerea&#34; OR &#34;Piezorina cinerea&#34; OR &#34;Myiopagis leucospodia&#34; OR &#34;Pseudelaenia leucospodia&#34; OR &#34;Elaenia leucospodia&#34; OR &#34;Aimophila stolzmanni&#34; OR &#34;Peucaea stolzmanni&#34; OR &#34;Rhynchospiza stolzmanni&#34; OR &#34;Gnathospiza taczanowskii&#34; OR &#34;Sicalis taczanowskii&#34; OR &#34;Gnathospiza raimondi&#34; OR &#34;Synallaxis stictothorax&#34; OR &#34;Thamnophilus bernardi&#34; OR &#34;Sakesphorus bernardi&#34; OR &#34;Ochthoeca salvini&#34; OR &#34;Tumbezia salvini&#34;" ; Times: 1
+	Query: "zoothera heinei" ; Times: 1
+	Query: "Lymnocryptes minimus Thailand" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Urocynchramus" ; Times: 1
+	Query: "(aureola aurantiicollis)" ; Times: 1
+	Query: "myrmeciza palliata type:specimen sex:male" ; Times: 1
+	Query: "fulvicauda brazil" ; Times: 1
+	Query: "dendrocitta occipitalis" ; Times: 8
+	Query: "Batrachostomus auritus" ; Times: 3
+	Query: "myrmotherula behni type:specimen sex:female year &gt;= 1965 institutioncode:ANSP" ; Times: 1
+	Query: "transandinus" ; Times: 1
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "pyriglena atra" ; Times: 4
+	Query: "&#34;Pachyramphus albogriseus&#34;" ; Times: 1
+	Query: "Geothlypis aequinoctialis brazil" ; Times: 1
+	Query: "oriolus kundoo" ; Times: 5
+	Query: "genus:Junco stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "motacilla grandis" ; Times: 1
+	Query: "&#34;Hemispingus superciliaris&#34;" ; Times: 1
+	Query: "myrmotherula guttata type:specimen sex:female year &gt;= 1965" ; Times: 2
+	Query: "distance(location,geopoint(29.259036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Amaurospiza moesta brazil" ; Times: 1
+	Query: "Lacedo" ; Times: 2
+	Query: "lophotibis cristata" ; Times: 1
+	Query: "Herpsilochmus stictocephalus type:specimen" ; Times: 1
+	Query: "myrmotherula surinamensis type:specimen sex:male year &gt;= 1965 year &lt;= 2016" ; Times: 1
+	Query: "Ammodramus humeralis" ; Times: 1
+	Query: "specificepithet:leucoptera genus:Henicorhina mappable:1 country:Ecuador" ; Times: 2
+	Query: "type:specimen (Anisognathus flavinuchus)" ; Times: 1
+	Query: "Herpsilochmus roraimae type:specimen sex:female" ; Times: 1
+	Query: "Cissa jefferyi" ; Times: 1
+	Query: "Catharus hastypestatus:1" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "terenura maculata type:specimen" ; Times: 1
+	Query: "thamnophilus praecox year &gt;= 1965 institutioncode:ANSP" ; Times: 2
+	Query: "wilsonia pusilla (alaska) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Sterna" ; Times: 1
+	Query: "myrmeciza palliata type:specimen institutioncode:ANSP" ; Times: 2
+	Query: "junco Minnesota" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "terenura spodioptila type:specimen sex:female" ; Times: 1
+	Query: "Henicorhina leucophrys meridana" ; Times: 1
+	Query: "&#34;Mionectes olivaceus&#34;" ; Times: 1
+	Query: "&#34;Rhynchocyclus fulvipectus&#34;" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "Picumnus minutissimus" ; Times: 8
+	Query: "poospiza cinerea" ; Times: 2
+	Query: "locality:Cana Brava stateprovince:&#34;Goias&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "thamnophilus nigriceps sex:female year &gt;= 1965 institutioncode:ANSP" ; Times: 1
+	Query: "francolinus capensis" ; Times: 2
+	Query: "dicrurus leucophaeus india" ; Times: 2
+	Query: "wilsonia pusilla (guatemala) month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "glaucocaerulea brazil" ; Times: 1
+	Query: "priotelus temnurus" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "anas aucklandica" ; Times: 1
+	Query: "Nonnula rubecula type:specimen" ; Times: 2
+	Query: "terenura spodioptila type:specimen sex:female year &gt;= 1965 institutioncode:ANSP" ; Times: 2
+	Query: "locality:Mazagao country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pionus sordidus" ; Times: 1
+	Query: "&#34;Heliangelus viola&#34;" ; Times: 1
+	Query: "Henicorhina leucophrys hilaris" ; Times: 1
+	Query: "&#34;Veniliornis nigriceps&#34;" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "myrmeciza nigricauda type:specimen year &gt;= 1965 year &lt;= 2016" ; Times: 1
+	Query: "oseryi" ; Times: 1
+	Query: "(Pipra isidorei)" ; Times: 2
+	Query: "Chlorornis riefferii" ; Times: 1
+	Query: "specificepithet:mollissima genus:zoothera" ; Times: 2
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "Anisognathus somptuosus" ; Times: 1
+	Query: "ramphocelus limatus" ; Times: 2
+	Query: "saltator mutus" ; Times: 2
+	Query: "Fulica americana alai" ; Times: 1
+	Query: "Colombia (Egg)" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "cercomacra nigricans type:specimen sex:female" ; Times: 1
+	Query: "egretta ardesiaca" ; Times: 2
+	Query: "ferrugineifrons" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "&#34;Xenops rutilans&#34;" ; Times: 1
+	Query: "myrmeciza immaculata" ; Times: 1
+	Query: "ANSP 8359" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "skin genus:Acanthidops sex:male" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "(oxyruncus)" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "tadorna ferruginea india" ; Times: 1
+	Query: "pharomachrus year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "&#34;Coeligena coeligena&#34;" ; Times: 1
+	Query: "thamnophilus nigriceps type:specimen sex:male institutioncode:ANSP" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "Henicorhina leucosticta leucosticta" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "schistocichla leucostigma type:specimen year &gt;= 1965 year &lt;= 2016" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "myrmotherula behni type:specimen sex:female year &gt;= 1965 year &lt;= 2016" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "country:&#34;colombia&#34; (pipra unica)" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "egg country:&#34;Colombia&#34;" ; Times: 2
+	Query: "pitta soror" ; Times: 1
+	Query: "terpsiphone paradisi india" ; Times: 2
+	Query: "juneae" ; Times: 1
+	Query: "locality:Prosperidade country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus dryas Guatemala" ; Times: 1
+	Query: "polioptila plumbea" ; Times: 1
+	Query: "Asthenes urubambensis" ; Times: 1
+	Query: "type:specimen genus:Bolborhynchus ( ferrugineifrons)" ; Times: 1
+	Query: "phalacrocorax institutioncode:ANSP" ; Times: 3
+	Query: "anas sparsa" ; Times: 1
+	Query: "distance(location,geopoint(26.369036,-108.767516))&lt;15000" ; Times: 1
+	Query: "Psarocolius angustifrons brazil" ; Times: 1
+	Query: "Herpsilochmus stictocephalus type:specimen year &gt;= 1965 year &lt;= 2016" ; Times: 1
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "ANSP 128716" ; Times: 1
+	Query: "habia alfaroana" ; Times: 1
+	Query: "&#34;Pachyramphus versicolor&#34;" ; Times: 1
+	Query: "nuts" ; Times: 1
+	Query: "thamnophilus nigriceps type:specimen year &gt;= 1965" ; Times: 1
+	Query: "casiornis fusca" ; Times: 1
+	Query: "&#34;Pyriglena leuconota&#34;" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "pitta anerythra" ; Times: 2
+	Query: "leucophrys brazil" ; Times: 1
+	Query: "thamnophilus praecox type:specimen year &gt;= 1965" ; Times: 1
+	Query: "Ptilorrhoa castanonota" ; Times: 2
+	Query: "thamnophilus praecox type:specimen" ; Times: 1
+	Query: "rivularis brazil" ; Times: 1
+	Query: "muscicapa muttui" ; Times: 4
+	Query: "Catharus dryas" ; Times: 2
+	Query: "nothocercus type:specimen" ; Times: 1
+	Query: "porzana cinerea" ; Times: 1
+	Query: "anas chlorotis" ; Times: 2
+	Query: "charadrius county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Granatellus pelzelni brazil" ; Times: 1
+	Query: "oriolus chinensis india" ; Times: 1
+	Query: "tangara signata" ; Times: 3
+	Query: "impennis stateprovince:&#34;newfoundland&#34;" ; Times: 2
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+	Query: "Ixoreus naevius month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "coeligena phalerata" ; Times: 1
+	Query: "bubo nipalensis type:specimen" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus exiguus type:specimen" ; Times: 1
+	Query: "Gypaetus" ; Times: 3
+	Query: "Herpsilochmus sticturus type:specimen year &gt;= 1965 year &lt;= 2016" ; Times: 1
+	Query: "176998" ; Times: 1
+	Query: "&#34;Dysithamnus occidentalis&#34;" ; Times: 1
+	Query: "Henicorhina leucoptera" ; Times: 5
+	Query: "type:specimen (Anisognathus igniventris)" ; Times: 1
+	Query: "&#34;Pipreola arcuata&#34;" ; Times: 1
+	Query: "venningi" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "locality:Cana Brava country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 1
+	Query: "euplectes jacksoni" ; Times: 1
+	Query: "Perdicula" ; Times: 2
+	Query: "type:specimen (Acanthidops bairdii)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 507 download events in this period)
+Total number of records downloaded: 4304
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 60
+	Country: Thailand ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 20
+	Date: 2016-01-02 ; Times: 23
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Temnurus temnurus" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "Anabacerthia striaticollis" ; Times: 1
+	Query: "&#34;Diglossa cyanea&#34;" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "&#34;Elaenia pallatangae&#34;" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "wilsonia pusilla month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "henicorhina leucoptera" ; Times: 1
+	Query: "&#34;Hemispingus frontalis&#34;" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "&#34;Entomodestes leucotis&#34;" ; Times: 1
+	Query: "junco Minnesota" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "genus:Junco stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "&#34;Tangara vassorii&#34;" ; Times: 1
+	Query: "pitta soror" ; Times: 1
+	Query: "&#34;Hemispingus xanthophthalmus&#34;" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "&#34;Pachyramphus versicolor&#34;" ; Times: 1
+	Query: "&#34;Heliangelus viola&#34;" ; Times: 1
+	Query: "&#34;Pachyramphus albogriseus&#34;" ; Times: 1
+	Query: "&#34;Myiarchus cephalotes&#34;" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "casiornis fusca" ; Times: 1
+	Query: "&#34;Phaethornis syrmatophorus&#34;" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "&#34;Hemispingus superciliaris&#34;" ; Times: 1
+	Query: "&#34;Euphonia xanthogaster&#34;" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "&#34;Heliangelus amethysticollis&#34;" ; Times: 1
+	Query: "skin genus: Melanodera sex:male" ; Times: 1
+	Query: "&#34;Myioborus miniatus&#34;" ; Times: 1
+	Query: "&#34;Thraupis cyanocephala&#34;" ; Times: 1
+	Query: "&#34;Trogon personatus&#34;" ; Times: 1
+	Query: "&#34;Syndactyla rufosuperciliata&#34;" ; Times: 1
+	Query: "&#34;Doryfera ludovicae&#34;" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "&#34;Margarornis squamiger&#34;" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "&#34;Xenops rutilans&#34;" ; Times: 1
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+	Query: "&#34;Pseudocolaptes boissonneautii&#34;" ; Times: 1
+	Query: "&#34;Contopus fumigatus&#34;" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "&#34;Veniliornis nigriceps&#34;" ; Times: 1
+	Query: "&#34;Platyrinchus mystaceus&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "&#34;Masius chrysopterus&#34;" ; Times: 1
+	Query: "&#34;Coeligena coeligena&#34;" ; Times: 1
+	Query: "Henicorhina leucoptera" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "&#34;Premnoplex brunnescens&#34;" ; Times: 1
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+	Query: "&#34;Pipreola arcuata&#34;" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "&#34;Myrmotherula schisticolor&#34;" ; Times: 1
+	Query: "&#34;Iridosornis analis&#34;" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "&#34;Tangara xanthocephala&#34;" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+
+
+End of report.
