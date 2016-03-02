@@ -1,0 +1,369 @@
+Report for Institution Code ANSP, Resource ansp_orn
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 400
+Number of records retrieved in searches: 2256
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 12
+	Country: Mexico ; Times: 36
+	Country: Denmark ; Times: 6
+	Country: Venezuela ; Times: 11
+	Country: India ; Times: 3
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 23
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: United Arab Emirates ; Times: 1
+	Country: United States ; Times: 265
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 14
+	Date: 2016-02-18 ; Times: 19
+	Date: 2016-02-19 ; Times: 12
+	Date: 2016-02-12 ; Times: 8
+	Date: 2016-02-13 ; Times: 9
+	Date: 2016-02-10 ; Times: 5
+	Date: 2016-02-11 ; Times: 19
+	Date: 2016-02-16 ; Times: 30
+	Date: 2016-02-17 ; Times: 9
+	Date: 2016-02-14 ; Times: 5
+	Date: 2016-02-03 ; Times: 22
+	Date: 2016-02-28 ; Times: 17
+	Date: 2016-02-09 ; Times: 8
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-21 ; Times: 4
+	Date: 2016-02-20 ; Times: 15
+	Date: 2016-02-27 ; Times: 4
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-25 ; Times: 17
+	Date: 2016-02-24 ; Times: 27
+	Date: 2016-02-01 ; Times: 13
+	Date: 2016-02-29 ; Times: 11
+	Date: 2016-02-02 ; Times: 77
+	Date: 2016-02-05 ; Times: 16
+	Date: 2016-02-04 ; Times: 5
+	Date: 2016-02-07 ; Times: 12
+	Date: 2016-02-06 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Charadrius type:specimen county:&#34;Sonoma&#34; (alexandrinus OR nivosus)" ; Times: 1
+	Query: "butorides sundevalli" ; Times: 6
+	Query: "KU 105903" ; Times: 1
+	Query: "copsychus malabaricus-india" ; Times: 1
+	Query: "ardeola speciosa" ; Times: 1
+	Query: "muscicapa ferruginea" ; Times: 1
+	Query: "scotopelia type:specimen" ; Times: 1
+	Query: "ptilinopus granulifrons" ; Times: 1
+	Query: "Euphonia laniirostris brazil" ; Times: 1
+	Query: "columba malherbii" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "Diglossa plumbea" ; Times: 1
+	Query: "cursorius coromandelicus" ; Times: 1
+	Query: "pterocles senegallus India" ; Times: 1
+	Query: "pterocles senegallus" ; Times: 1
+	Query: "terpsiphone paradisi-india" ; Times: 1
+	Query: "henicorhina leucosticta locality:lumbaqui" ; Times: 1
+	Query: "bubo nipalensis" ; Times: 2
+	Query: "ducula basilica" ; Times: 2
+	Query: "Poicephalus cryptoxanthus Kenya" ; Times: 2
+	Query: "accipiter collaris" ; Times: 1
+	Query: "cacomantis passerinus" ; Times: 4
+	Query: "henicorhina leucosticta country:&#34;peru&#34;" ; Times: 1
+	Query: "nippon" ; Times: 2
+	Query: "Lanius Burma" ; Times: 1
+	Query: "scotopelia peli type:specimen" ; Times: 2
+	Query: "oreornis chrysogenys" ; Times: 1
+	Query: "nothocercus nigricapillus" ; Times: 1
+	Query: "gallicolumba kubaryi" ; Times: 1
+	Query: "ruficapillus brazil" ; Times: 1
+	Query: "columba hodgsonii" ; Times: 1
+	Query: "catalognumber:78766" ; Times: 1
+	Query: "lophura inornata" ; Times: 1
+	Query: "pipra coeruleocapilla" ; Times: 1
+	Query: "Anas gibberifrons" ; Times: 1
+	Query: "Ixobrychus novaezelandiae" ; Times: 3
+	Query: "sporophila cinnamomea" ; Times: 2
+	Query: "Mishmi Hills" ; Times: 1
+	Query: "specificepithet:LAUDABILIS genus:icterus" ; Times: 2
+	Query: "phlegopsis nigromaculata paraensis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "myzomela vulnerata" ; Times: 1
+	Query: "rollandia microptera" ; Times: 1
+	Query: "British Columbia (&#34;Passerina amoena&#34;)" ; Times: 2
+	Query: "type:specimen specificepithet:violaceus genus:cyanocorax country:&#34;colombia&#34;" ; Times: 1
+	Query: "rynchops albicollis" ; Times: 2
+	Query: "ptilinopus layardi" ; Times: 3
+	Query: "thalurania watertonii" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 5
+	Query: "Monasa atra" ; Times: 1
+	Query: "Doliornis remseni" ; Times: 2
+	Query: "ptilinopus victor" ; Times: 3
+	Query: "hapalopsittaca amazonina" ; Times: 1
+	Query: "Anas diazi" ; Times: 1
+	Query: "Meliarchus sclateri" ; Times: 2
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "Machaeropterus pyrocephalus" ; Times: 1
+	Query: "80729" ; Times: 2
+	Query: "ducula neglecta" ; Times: 1
+	Query: "malacca specificepithet:cochinchinensis genus:chloropsis AND (NOT UMMZ)" ; Times: 1
+	Query: "Phalacrocorax harrisi" ; Times: 2
+	Query: "sarcogyps calvus" ; Times: 1
+	Query: "Chalcostigma olivaceum" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "hylexetastes" ; Times: 4
+	Query: "nothura chacoensis" ; Times: 2
+	Query: "catalognumber:176099 institutioncode:ANSP" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 2
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "specificepithet:baeri genus:Poospiza" ; Times: 1
+	Query: "Sakesphorus melanonotus" ; Times: 11
+	Query: "Haematopus leucopodus" ; Times: 1
+	Query: "aviceda jerdoni india" ; Times: 1
+	Query: "aramides calopterus" ; Times: 2
+	Query: "aviceda leuphotes" ; Times: 3
+	Query: "larus fuscus" ; Times: 1
+	Query: "tiaris huilae" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "Campethera pallida" ; Times: 1
+	Query: "ardeola rufiventris" ; Times: 1
+	Query: "henicorhina leucosticta country:&#34;ecuador&#34;" ; Times: 2
+	Query: "Diglossa baritula" ; Times: 11
+	Query: "lophotibis cristata" ; Times: 2
+	Query: "Torgos" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "55253" ; Times: 1
+	Query: "Philemon meyeri" ; Times: 1
+	Query: "caprimulgus atripennis india" ; Times: 1
+	Query: "aviceda cuculoides" ; Times: 2
+	Query: "fulica alai" ; Times: 4
+	Query: "gallicolumba platenae" ; Times: 5
+	Query: "Poicephalus Kenya" ; Times: 2
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "ptilinopus wallacii" ; Times: 2
+	Query: "histurgops" ; Times: 1
+	Query: "cyanopica cooki" ; Times: 9
+	Query: "cactorum brazil" ; Times: 1
+	Query: "Claravis pretiosa brazil" ; Times: 1
+	Query: "icterus northropi" ; Times: 1
+	Query: "pycnonotus priocephalus" ; Times: 3
+	Query: "bostrychia rara" ; Times: 1
+	Query: "101225" ; Times: 1
+	Query: "campylorhamphus pusillus" ; Times: 1
+	Query: "sitta frontalis s.india" ; Times: 1
+	Query: "Euphonia minuta brazil" ; Times: 1
+	Query: "myzomela chermesina" ; Times: 1
+	Query: "polystictus" ; Times: 1
+	Query: "bostrychia olivacea" ; Times: 2
+	Query: "Poicephalus" ; Times: 3
+	Query: "crax alberti" ; Times: 1
+	Query: "turacoena modesta" ; Times: 1
+	Query: "specificepithet:maculatum institutioncode:ANSP" ; Times: 1
+	Query: "rhodonessa caryophyllacea" ; Times: 2
+	Query: "anastomus oscitans" ; Times: 2
+	Query: "geotrygon purpurata" ; Times: 1
+	Query: "Chiroxiphia boliviana" ; Times: 1
+	Query: "Megastictus margaritatus" ; Times: 1
+	Query: "Recurvirostra andina" ; Times: 1
+	Query: "Podiceps andinus" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "aviceda jerdoni" ; Times: 2
+	Query: "genus:Cyanopsitta (spixii)" ; Times: 2
+	Query: "Lophornis delattrei" ; Times: 1
+	Query: "sterna aurantia" ; Times: 1
+	Query: "euphonia chlorotica brazil" ; Times: 1
+	Query: "fulica caribaea" ; Times: 2
+	Query: "heliopais personata" ; Times: 1
+	Query: "Melanerpes candidus brazil" ; Times: 1
+	Query: "coturnicops exquisitus" ; Times: 1
+	Query: "Rallina forbesi" ; Times: 1
+	Query: "ortalis araucuan" ; Times: 1
+	Query: "Machaeropterus regulus" ; Times: 1
+	Query: "Caprimulgus year &gt;= 1905 year &lt;= 1905" ; Times: 1
+	Query: "lonchura kelaarti" ; Times: 1
+	Query: "Lepidopyga lilliae" ; Times: 2
+	Query: "penelope perspicax" ; Times: 1
+	Query: "bostrychia carunculata" ; Times: 1
+	Query: "Euphonia cyanocephala brazil" ; Times: 1
+	Query: "ducula aurorae" ; Times: 2
+	Query: "cissa hypoleuca" ; Times: 1
+	Query: "Heterocercus aurantiivertex" ; Times: 2
+	Query: "Myrmeciza melanoceps" ; Times: 1
+	Query: "cyanocompsa caucae" ; Times: 1
+	Query: "Histurgops" ; Times: 1
+	Query: "gymnomyza samoensis" ; Times: 2
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "buteo albigula" ; Times: 1
+	Query: "henicorhina leucosticta country:&#34;guyana&#34;" ; Times: 1
+	Query: "Agelaius ruficapillus brazil" ; Times: 1
+	Query: "pipra isidorei" ; Times: 1
+	Query: "cuculus lepidus" ; Times: 3
+	Query: "anhima" ; Times: 1
+	Query: "wakensis" ; Times: 1
+	Query: "himantopus himantopus india" ; Times: 1
+	Query: "pycnonotus jocosus india" ; Times: 2
+	Query: "antilophia galeata" ; Times: 1
+	Query: "(oxyruncus)" ; Times: 1
+	Query: "terpsiphone ignea" ; Times: 2
+	Query: "Gnorimopsar chopi brazil" ; Times: 1
+	Query: "Pipreola intermedia" ; Times: 1
+	Query: "Phoeniconaias minor" ; Times: 1
+	Query: "ducula lacernulata" ; Times: 3
+	Query: "Chlorophonia cyanea brazil" ; Times: 1
+	Query: "type:specimen specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "Meliphaga reticulata" ; Times: 2
+	Query: "piculus leucolaemus" ; Times: 2
+	Query: "Iridosornis jelskii" ; Times: 1
+	Query: "aepypodius bruijnii" ; Times: 1
+	Query: "92828" ; Times: 1
+	Query: "Macgregoria pulchra" ; Times: 3
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 2
+	Query: "genus:lamprolia" ; Times: 1
+	Query: "paradoxornis china" ; Times: 1
+	Query: "myzomela chloroptera" ; Times: 1
+	Query: "nothocercus julius" ; Times: 3
+	Query: "gyps bengalensis" ; Times: 1
+	Query: "emberiza bruniceps india" ; Times: 1
+	Query: "tachyeres brachypterus" ; Times: 1
+	Query: "tinamotis ingoufi" ; Times: 1
+	Query: "columba speciosa brazil" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 2
+	Query: "Seicercus affinis" ; Times: 2
+	Query: "Columbina passerina brazil" ; Times: 1
+	Query: "ducula cineracea" ; Times: 2
+	Query: "Coracias cyanogaster" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "Picumnus lafresnayi" ; Times: 2
+	Query: "crypturellus undulatus" ; Times: 1
+	Query: "columba bollii" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "Neopelma sulphureiventer" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 3
+	Query: "ptilinopus subgularis" ; Times: 1
+	Query: "stachyris hypopyrrha" ; Times: 1
+	Query: "apus barbatus" ; Times: 2
+	Query: "Cisticola fischeri" ; Times: 2
+	Query: "Tympanuchus pallidicinctus 1" ; Times: 1
+	Query: "threskiornis melanocephalus" ; Times: 4
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "Lanius cristatus Burma" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "treron floris" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "Pitta brachyura type:specimen" ; Times: 2
+	Query: "polyboroides radiatus" ; Times: 1
+	Query: "ketupa type:specimen" ; Times: 1
+	Query: "arborophila orientalis" ; Times: 1
+	Query: "muscicapa muttui" ; Times: 1
+	Query: "ptilinopus monacha" ; Times: 4
+	Query: "neophron" ; Times: 1
+	Query: "muscicapa latirostris india" ; Times: 1
+	Query: "perisoreus internigrans" ; Times: 4
+	Query: "type:specimen genus:Atrichornis" ; Times: 1
+	Query: "Ficedula superciliaris" ; Times: 2
+	Query: "rallus semiplumbeus" ; Times: 2
+	Query: "rallus wetmorei" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 4
+	Query: "Accipiter chionogaster type:specimen" ; Times: 1
+	Query: "himantornis" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "spizaetus limnaeetus" ; Times: 3
+	Query: "collectioncode:ORN institutioncode:ANSP" ; Times: 5
+	Query: "Herpsilochmus rufimarginatus exiguus type:specimen" ; Times: 3
+	Query: "76895" ; Times: 2
+	Query: "Pitta moluccensis type:specimen" ; Times: 1
+	Query: "Conioptilon mcilhennyi" ; Times: 1
+	Query: "Bolborhynchus ferrugineifrons" ; Times: 2
+	Query: "emberiza melanocephala india" ; Times: 2
+	Query: "Tmetothylacus tenellus" ; Times: 1
+	Query: "Diglossa sittoides" ; Times: 1
+	Query: "philemon meyeri" ; Times: 1
+	Query: "calyptura" ; Times: 1
+	Query: "95118" ; Times: 1
+	Query: "piculus callopterus" ; Times: 2
+	Query: "atlapetes canigenis" ; Times: 7
+	Query: "crypturellus kerriae" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "ara militaris" ; Times: 11
+	Query: "Podiceps major" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 512 download events in this period)
+Total number of records downloaded: 1812
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 10
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-19 ; Times: 3
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "henicorhina leucosticta country:&#34;colombia&#34;" ; Times: 1
+	Query: "Seicercus affinis" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Poicephalus meyeri" ; Times: 1
+	Query: "hylexetastes" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "synallaxis ruficapilla" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "genus:lamprolia" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "henicorhina leucosticta country:&#34;guyana&#34;" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "antilophia galeata" ; Times: 1
+	Query: "phlegopsis nigromaculata paraensis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pteroglossus bitorquatus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+
+
+End of report.
