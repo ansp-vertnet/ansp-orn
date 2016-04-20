@@ -1,0 +1,167 @@
+Report for Institution Code ANSP, Resource ansp_orn
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 761
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 57
+	Country: Austria ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-01 ; Times: 13
+	Date: 2016-03-08 ; Times: 10
+	Date: 2016-03-09 ; Times: 8
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 7
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 9
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 13
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "specificepithet:flava genus:motacilla country:&#34;china&#34; year &gt;= 1934 year &lt;= 1935 institutioncode:ANSP" ; Times: 1
+	Query: "calothorax pulcher" ; Times: 1
+	Query: "Claravis mondetoura" ; Times: 1
+	Query: "ansp piranga ludoviciana" ; Times: 1
+	Query: "catalognumber:183634 collectioncode:ORN institutioncode:ANSP" ; Times: 1
+	Query: "Celeus flavescens brazil" ; Times: 1
+	Query: "sylvietta ruficapilla" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax country:&#34;colombia&#34;" ; Times: 2
+	Query: "coracina melanoptera" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 2
+	Query: "Limnodromus griseus (British Columbia)" ; Times: 2
+	Query: "diglossa sittoides" ; Times: 5
+	Query: "Gymnomyza samoensis" ; Times: 1
+	Query: "centropus toulou" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "petechia cuba" ; Times: 1
+	Query: "haematopus bachmani (British Columbia)" ; Times: 2
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Pandion haliaetus ridgwayi type:specimen" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "Pachyramphus albogriseus guayaquilensis institutioncode:ANSP" ; Times: 1
+	Query: "ANSP 165208" ; Times: 1
+	Query: "merops leschenaulti" ; Times: 1
+	Query: "specificepithet:hodgsoni genus:anthus country:&#34;china&#34; year &gt;= 1934 year &lt;= 1935 institutioncode:ANSP" ; Times: 1
+	Query: "tiaris obscura" ; Times: 1
+	Query: "eudynamys scolopacea india" ; Times: 1
+	Query: "specificepithet:hodgsonii genus:columba country:&#34;china&#34; institutioncode:ANSP" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "crypturellus tataupa" ; Times: 1
+	Query: "petechia country:&#34;cuba&#34;" ; Times: 1
+	Query: "Hylia institutioncode:ANSP" ; Times: 1
+	Query: "cuculus canorus india" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "pithecia" ; Times: 1
+	Query: "megalaima viridis" ; Times: 1
+	Query: "dendrocitta formosa" ; Times: 1
+	Query: "falco severus india" ; Times: 1
+	Query: "specificepithet:heilprini genus:cyanocorax" ; Times: 1
+	Query: "prinia socialis" ; Times: 1
+	Query: "Ammodramus henslowii (virginia)" ; Times: 1
+	Query: "tissue collectioncode:ORN institutioncode:ANSP" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "Pyrrhura griseipectus" ; Times: 1
+	Query: "diglossa baritula" ; Times: 2
+	Query: "specificepithet:chrysaetos genus:aquila country:&#34;china&#34;" ; Times: 1
+	Query: "dicrurus adsimilis" ; Times: 1
+	Query: "Pachyramphus albogriseus salvini institutioncode:ANSP" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "genus:alauda country:&#34;china&#34; year &gt;= 1934 year &lt;= 1935 institutioncode:ANSP" ; Times: 1
+	Query: "xiphorhynchus obsoletus mappable:1" ; Times: 1
+	Query: "taccocua leschenaultii india" ; Times: 1
+	Query: "ASTRAPIA SPLENDIDISSIMA" ; Times: 1
+	Query: "tyto alba india" ; Times: 1
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 2
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "Cyanoramphus cookii" ; Times: 1
+	Query: "country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "megalaima haemacephala india" ; Times: 1
+	Query: "venningi" ; Times: 1
+	Query: "specificepithet:roseatus genus:anthus country:&#34;china&#34; year &gt;= 1934 year &lt;= 1935 institutioncode:ANSP" ; Times: 1
+	Query: "pseudibis gigantea" ; Times: 1
+	Query: "catalognumber:193823" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 1
+	Query: "Camptorhynchus" ; Times: 1
+	Query: "ansp piranga ludoviciana 81785" ; Times: 1
+	Query: "Limnodromus scolopaceus (British Columbia)" ; Times: 1
+	Query: "Oriolus xanthornus" ; Times: 2
+	Query: "clamator jacobinus india" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 230 download events in this period)
+Total number of records downloaded: 57288
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 41
+	Country: Austria ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-10 ; Times: 10
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 10
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 8
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 7
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Doricha eliza" ; Times: 1
+	Query: "genus:alauda country:&#34;china&#34; year &gt;= 1934 year &lt;= 1935 institutioncode:ANSP" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "xiphorhynchus obsoletus mappable:1" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Indian Cove" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Limoncocha" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "oreonympha nobilis" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
