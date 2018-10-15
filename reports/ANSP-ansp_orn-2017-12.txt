@@ -1,0 +1,359 @@
+Report for Institution Code ANSP, Resource ansp_orn
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 434
+Number of records retrieved in searches: 3058
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 66
+	Country: Brazil ; Times: 13
+	Country: Italy ; Times: 9
+	Country: Unknown ; Times: 20
+	Country: France ; Times: 9
+	Country: Slovakia ; Times: 4
+	Country: Argentina ; Times: 15
+	Country: Norway ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Germany ; Times: 47
+	Country: Denmark ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Gambia ; Times: 2
+	Country: Poland ; Times: 5
+	Country: United States ; Times: 202
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 7
+	Country: United Kingdom ; Times: 9
+	Country: Paraguay ; Times: 5
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 8
+	Date: 2017-12-31 ; Times: 9
+	Date: 2017-12-16 ; Times: 26
+	Date: 2017-12-17 ; Times: 10
+	Date: 2017-12-14 ; Times: 24
+	Date: 2017-12-15 ; Times: 6
+	Date: 2017-12-12 ; Times: 25
+	Date: 2017-12-13 ; Times: 8
+	Date: 2017-12-10 ; Times: 20
+	Date: 2017-12-11 ; Times: 23
+	Date: 2017-12-18 ; Times: 27
+	Date: 2017-12-19 ; Times: 10
+	Date: 2017-12-29 ; Times: 3
+	Date: 2017-12-28 ; Times: 18
+	Date: 2017-12-27 ; Times: 3
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-25 ; Times: 3
+	Date: 2017-12-24 ; Times: 4
+	Date: 2017-12-22 ; Times: 33
+	Date: 2017-12-21 ; Times: 30
+	Date: 2017-12-20 ; Times: 55
+	Date: 2017-12-05 ; Times: 11
+	Date: 2017-12-04 ; Times: 18
+	Date: 2017-12-07 ; Times: 19
+	Date: 2017-12-06 ; Times: 5
+	Date: 2017-12-01 ; Times: 12
+	Date: 2017-12-03 ; Times: 2
+	Date: 2017-12-02 ; Times: 2
+	Date: 2017-12-09 ; Times: 10
+	Date: 2017-12-08 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "ANSP 154152" ; Times: 1
+	Query: "specificepithet:gryphus genus:Vultur country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:jocosus genus:pycnonotus year &gt;= 1850 year &lt;= 1930" ; Times: 3
+	Query: "criniger pallidus thailand" ; Times: 1
+	Query: "Dendroica petechia stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Icterus melanopsis" ; Times: 1
+	Query: "Caprimulgus maculicaudus" ; Times: 1
+	Query: "genus:Callaeas country:&#34;New Zealand&#34;" ; Times: 2
+	Query: "djibouti" ; Times: 1
+	Query: "genus:Pogoniulus country:&#34;Equatorial Guinea&#34;" ; Times: 1
+	Query: "&#34;ansp orn 10001&#34;" ; Times: 1
+	Query: "&#34;ansp orn 2862&#34;" ; Times: 1
+	Query: "nyctibius griseus month &gt;= 3 month &lt;= 7" ; Times: 2
+	Query: "ansp 2875" ; Times: 1
+	Query: "genus:Catharus stateprovince:&#34;Amazonas&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:chiguanco genus:Turdus" ; Times: 4
+	Query: "subplacens" ; Times: 1
+	Query: "Pericrocotus erythropygius" ; Times: 1
+	Query: "Nycticorax magnificus" ; Times: 7
+	Query: "catalognumber:17691 institutioncode:ANSP" ; Times: 1
+	Query: "aratinga erythrogenys" ; Times: 10
+	Query: "Pycnonotus jocosus" ; Times: 2
+	Query: "genus:Megascops institutioncode:ANSP" ; Times: 2
+	Query: "&#34;ansp orn 2853&#34;" ; Times: 1
+	Query: "Knipolegus" ; Times: 1
+	Query: "&#34;ansp orn 2873&#34;" ; Times: 1
+	Query: "sterna maximus" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "Passerina versicolor purpurascens vntype:specimen" ; Times: 1
+	Query: "Pluvianus aegyptius" ; Times: 1
+	Query: "&#34;ansp orn&#34;" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "sitta victoriae" ; Times: 1
+	Query: "catalognumber:91074" ; Times: 2
+	Query: "calandrella erlangeri" ; Times: 2
+	Query: "sitta formosa" ; Times: 4
+	Query: "pipra coronata" ; Times: 1
+	Query: "distance(location,geopoint(39.1966014139285,-74.7902138655))&lt;3667" ; Times: 1
+	Query: "stateprovince:&#34;Cajamarca&#34; country:&#34;Peru&#34; (Chira)" ; Times: 1
+	Query: "Urosphena whiteheadi" ; Times: 1
+	Query: "mirafra cheniana" ; Times: 4
+	Query: "alauda japonica" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "rhynchopsitta pachyrhyncha usa" ; Times: 1
+	Query: "specificepithet:rupicola genus:Colaptes" ; Times: 1
+	Query: "Egretta gularis" ; Times: 1
+	Query: "&#34;ansp orn 2859&#34;" ; Times: 1
+	Query: "Butorides virescens vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:myrmecocichla country:&#34;angola&#34;" ; Times: 2
+	Query: "tigrisoma fasciatum" ; Times: 1
+	Query: "cyanocorax heilprini" ; Times: 2
+	Query: "specificepithet:fuscater genus:Turdus" ; Times: 3
+	Query: "himantopus novaezelandiae" ; Times: 3
+	Query: "passer domesticus bactrianus" ; Times: 1
+	Query: "&#34;ansp orn 2850&#34;" ; Times: 1
+	Query: "ochraceus malaysia" ; Times: 1
+	Query: "vntype:specimen genus:Brachypteracias" ; Times: 1
+	Query: "tachycineta euchrysea" ; Times: 1
+	Query: "corvus leucognaphalus" ; Times: 1
+	Query: "Psalidoprocne albiceps" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "aratinga wagleri frontata" ; Times: 2
+	Query: "Rhynchotus" ; Times: 4
+	Query: "110080" ; Times: 1
+	Query: "45148 specificepithet:ustulatus genus:Catharus institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "120038" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "genus:Phoebastria OR Diomedea country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "foxes" ; Times: 1
+	Query: "psaltria exilis" ; Times: 1
+	Query: "Picus vaillantii" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucosticta genus:Henicorhina stateprovince:&#34;choco&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 1
+	Query: "Catharopeza vntype:specimen" ; Times: 3
+	Query: "ANSP 15467" ; Times: 1
+	Query: "Artamus leucopygialis" ; Times: 1
+	Query: "185734 specificepithet:fuscater genus:Catharus institutioncode:ANSP" ; Times: 1
+	Query: "&#34;ansp orn 2851&#34;" ; Times: 1
+	Query: "geositta poeciloptera" ; Times: 4
+	Query: "specificepithet:watsonii genus:Otus institutioncode:ANSP" ; Times: 1
+	Query: "ferminia cerverai" ; Times: 3
+	Query: "specificepithet:corax genus:Corvus country:&#34;USA&#34; year &gt;= 1949 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "indigotica" ; Times: 3
+	Query: "Myrmeciza exsul" ; Times: 1
+	Query: "Buteogallus gundlachii" ; Times: 2
+	Query: "sitta azurea" ; Times: 2
+	Query: "Podiceps juninensis" ; Times: 1
+	Query: "tropicoperdix chloropus" ; Times: 3
+	Query: "specificepithet:gryphus genus:Vultur year &gt;= 1800 year &lt;= 1970" ; Times: 1
+	Query: "dicrurus bondi" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucosticta genus:Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Motacilla capensis" ; Times: 1
+	Query: "rhipidura euryura" ; Times: 3
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "criniger java" ; Times: 2
+	Query: "pseudocolaptes medianus" ; Times: 1
+	Query: "Glaucidium siju" ; Times: 1
+	Query: "bres java" ; Times: 3
+	Query: "knipolegus lophotes" ; Times: 2
+	Query: "Grus americana iowa" ; Times: 1
+	Query: "smithornis" ; Times: 1
+	Query: "catalognumber:86867" ; Times: 1
+	Query: "himantopus novaezelandiae vntype:specimen" ; Times: 1
+	Query: "catalognumber:2444 institutioncode:ANSP" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "vntype:specimen specificepithet:hypopolius genus:Melanerpes institutioncode:ANSP" ; Times: 3
+	Query: "catalognumber:158557" ; Times: 4
+	Query: "ortalis canicollis" ; Times: 6
+	Query: "specificepithet:taranta genus:agapornis" ; Times: 1
+	Query: "&#34;ansp orn 2860&#34;" ; Times: 1
+	Query: "Pitta superba" ; Times: 7
+	Query: "specificepithet:indigotica country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Chionis minor" ; Times: 8
+	Query: "ANSP 8975" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 1
+	Query: "ANSP-159264" ; Times: 1
+	Query: "mirafra affinis" ; Times: 2
+	Query: "Ammodramus henslowii stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 2
+	Query: "ANSP-91328" ; Times: 1
+	Query: "aratinga mitrata" ; Times: 16
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "penelope ortoni" ; Times: 3
+	Query: "&#34;ansp orn 2878&#34;" ; Times: 1
+	Query: "criniger pallidus" ; Times: 1
+	Query: "specificepithet:indigotica genus:Diglossa" ; Times: 4
+	Query: "dicrurus mouhoti" ; Times: 2
+	Query: "&#34;ansp orn 2854&#34;" ; Times: 1
+	Query: "progne modesta" ; Times: 3
+	Query: "vntype:specimen specificepithet:maritimus genus:Ammodramus year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "&#34;ansp orn 5001&#34;" ; Times: 1
+	Query: "criniger pallidus henrici" ; Times: 2
+	Query: "&#34;ansp orn 2877&#34;" ; Times: 1
+	Query: "44483" ; Times: 1
+	Query: "Philadelphia Vireo sex:male" ; Times: 7
+	Query: "cyanolyca pulchra" ; Times: 4
+	Query: "francolinus altumi" ; Times: 1
+	Query: "charmosyna palmarum" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter country:&#34;Mexico&#34; institutioncode:ANSP" ; Times: 1
+	Query: "77705" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "Chlamydochaera jefferyi" ; Times: 1
+	Query: "Pica pica bottanensis" ; Times: 5
+	Query: "specificepithet:craveri genus:Synthliboramphus stateprovince:&#34;california&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "pseudochelidon eurystomina" ; Times: 1
+	Query: "Dmnh 8347" ; Times: 1
+	Query: "turdus poliocephalus sumatra" ; Times: 2
+	Query: "zoothera timor" ; Times: 1
+	Query: "vntype:specimen genus:Uratelornis" ; Times: 1
+	Query: "aegithalos sharpei" ; Times: 1
+	Query: "Dendroica petechia county:&#34;San Diego&#34;" ; Times: 2
+	Query: "Penelope obscura" ; Times: 2
+	Query: "ANSP 24496" ; Times: 2
+	Query: "Leucopeza vntype:specimen" ; Times: 1
+	Query: "dicrurus longicaudatus" ; Times: 1
+	Query: "pica pica bottanensis" ; Times: 1
+	Query: "genus:Catharus year &gt;= 2007 year &lt;= 2012 month &gt;= 9 month &lt;= 10" ; Times: 1
+	Query: "adelomyia connectens" ; Times: 1
+	Query: "cacicus solitarius" ; Times: 1
+	Query: "pallidus malaysia" ; Times: 1
+	Query: "185734" ; Times: 1
+	Query: "119073" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "&#34;ansp orn 2866&#34;" ; Times: 1
+	Query: "Progne murphyi" ; Times: 1
+	Query: "nyctibius griseus month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "Serpophaga hypoleuca institutioncode:ANSP" ; Times: 1
+	Query: "enicurus chaseni" ; Times: 1
+	Query: "cardinalis coccineus" ; Times: 1
+	Query: "sitta przewalskii" ; Times: 1
+	Query: "Knipolegus poecilurus" ; Times: 2
+	Query: "Pitta sordida" ; Times: 7
+	Query: "loxigilla desiradensis" ; Times: 1
+	Query: "sitta neglecta" ; Times: 1
+	Query: "&#34;ansp orn 2880&#34;" ; Times: 1
+	Query: "specificepithet:fuscater genus:Catharus country:&#34;Colombia&#34;" ; Times: 3
+	Query: "specificepithet:caerulescens genus:Diglossa country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Saxicola insignis" ; Times: 3
+	Query: "Ciconia stormi" ; Times: 1
+	Query: "Phylloscopus nitidus" ; Times: 3
+	Query: "pseudocolaptes carabayae" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "criniger annamensis" ; Times: 4
+	Query: "ku 6917" ; Times: 1
+	Query: "catalognumber:17692 institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Hylorchilus" ; Times: 2
+	Query: "aratinga wagleri" ; Times: 13
+	Query: "Acrocephalus luscinia" ; Times: 3
+	Query: "Oriolus monacha" ; Times: 1
+	Query: "loeseri" ; Times: 1
+	Query: "90843 institutioncode:ANSP" ; Times: 1
+	Query: "hirundo badia" ; Times: 3
+	Query: "petroica archboldi" ; Times: 1
+	Query: "&#34;ansp orn 2855&#34;" ; Times: 1
+	Query: "Pnoepyga pusilla" ; Times: 1
+	Query: "phylloscopus inornatus" ; Times: 2
+	Query: "Chordeiles rupestris" ; Times: 7
+	Query: "Ortalis canicollis" ; Times: 3
+	Query: "genus:Heteralocha" ; Times: 1
+	Query: "aratinga wagleri minor" ; Times: 4
+	Query: "Sarothrura rufa" ; Times: 1
+	Query: "Melipotes gymnops" ; Times: 1
+	Query: "Charadrius sanctaehelenae" ; Times: 7
+	Query: "&#34;ansp orn 2876&#34;" ; Times: 1
+	Query: "corvus fuscicapillus" ; Times: 2
+	Query: "22094" ; Times: 1
+	Query: "specificepithet:chrysoptera genus:vermivora stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "criniger frater" ; Times: 1
+	Query: "genus:Cinclus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Leucosticte 2205" ; Times: 1
+	Query: "Malacoptila" ; Times: 1
+	Query: "Jalancay" ; Times: 1
+	Query: "Florida vntype:specimen specificepithet:maritimus genus:Ammodramus year &gt;= 1950 year &lt;= 1990" ; Times: 1
+	Query: "&#34;ansp orn 2863&#34;" ; Times: 1
+	Query: "genus:myrmecocichla institutioncode:ANSP" ; Times: 2
+	Query: "Myrmeciza exsul country:&#34;Panama&#34;" ; Times: 1
+	Query: "Tachycineta euchrysea" ; Times: 7
+	Query: "baeopogon clamans" ; Times: 1
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "genus:neopelma" ; Times: 1
+	Query: "77075" ; Times: 1
+	Query: "&#34;ansp orn 2864&#34;" ; Times: 1
+	Query: "alectoris pubescens" ; Times: 1
+	Query: "ANSP-15467" ; Times: 2
+	Query: "ANSP-15469" ; Times: 2
+	Query: "&#34;ansp orn 2852&#34;" ; Times: 1
+	Query: "psalidoprocne mangbettorum" ; Times: 1
+	Query: "&#34;ansp orn 2865&#34;" ; Times: 1
+	Query: "rhipidura phoenicura" ; Times: 1
+	Query: "Coturnicops exquisitus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 674 download events in this period)
+Total number of records downloaded: 3065
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 12
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 3
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-08 ; Times: 2
+	Date: 2017-12-09 ; Times: 3
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rockingham Bay vntype:specimen" ; Times: 2
+	Query: "arremonops" ; Times: 1
+	Query: "specificepithet:chrysoptera genus:vermivora stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "specificepithet:indigotica genus:Diglossa" ; Times: 1
+	Query: "Malacoptila" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "specificepithet:crinitus genus:myiarchus month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+	Query: "Macroscelides" ; Times: 1
+	Query: "genus:myrmecocichla country:&#34;angola&#34;" ; Times: 1
+	Query: "Ammodramus henslowii stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "year &gt;= 1930 year &lt;= 1931 month &gt;= 8 month &lt;= 9 institutioncode:ANSP" ; Times: 1
+
+
+End of report.
