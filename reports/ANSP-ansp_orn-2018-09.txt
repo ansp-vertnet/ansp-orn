@@ -1,0 +1,426 @@
+Report for Institution Code ANSP, Resource ansp_orn
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 557
+Number of records retrieved in searches: 6444
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 108
+	Country: Turkey ; Times: 3
+	Country: Italy ; Times: 3
+	Country: Canada ; Times: 25
+	Country: Unknown ; Times: 6
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 21
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 9
+	Country: Australia ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 4
+	Country: Denmark ; Times: 42
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 207
+	Country: Sweden ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 87
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 11
+	Country: Colombia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-23 ; Times: 28
+	Date: 2018-09-02 ; Times: 7
+	Date: 2018-09-03 ; Times: 24
+	Date: 2018-09-26 ; Times: 64
+	Date: 2018-09-01 ; Times: 7
+	Date: 2018-09-20 ; Times: 35
+	Date: 2018-09-21 ; Times: 21
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-05 ; Times: 23
+	Date: 2018-09-08 ; Times: 7
+	Date: 2018-09-09 ; Times: 8
+	Date: 2018-09-28 ; Times: 9
+	Date: 2018-09-11 ; Times: 30
+	Date: 2018-09-10 ; Times: 22
+	Date: 2018-09-13 ; Times: 12
+	Date: 2018-09-12 ; Times: 10
+	Date: 2018-09-15 ; Times: 11
+	Date: 2018-09-14 ; Times: 29
+	Date: 2018-09-17 ; Times: 31
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 12
+	Date: 2018-09-18 ; Times: 41
+	Date: 2018-09-24 ; Times: 53
+	Date: 2018-09-25 ; Times: 22
+	Date: 2018-09-27 ; Times: 20
+	Date: 2018-09-06 ; Times: 18
+	Date: 2018-09-07 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;pipreola riefferii riefferii&#34;" ; Times: 2
+	Query: "specificepithet:tenuirostris genus:Numenius" ; Times: 2
+	Query: "specificepithet:nigrorufa genus:poospiza" ; Times: 1
+	Query: "Pterophanes" ; Times: 4
+	Query: "specificepithet:nigrescens genus:cercomacra" ; Times: 1
+	Query: "napothera bakeri" ; Times: 1
+	Query: "ansp 139765" ; Times: 1
+	Query: "ansp 139764" ; Times: 1
+	Query: "orochelidon" ; Times: 1
+	Query: "neopelma aurifrons" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Halcyon coromanda" ; Times: 1
+	Query: "Nativitatis Christmas" ; Times: 2
+	Query: "ANSP 182609" ; Times: 1
+	Query: "turacoena manadensis" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "pipreola riefferii" ; Times: 1
+	Query: "Jacamaralcyon tridactyla" ; Times: 1
+	Query: "Turdus hauxwelli" ; Times: 2
+	Query: "Nystalus institutioncode:ANSP" ; Times: 1
+	Query: "calandrella dukhunensis" ; Times: 1
+	Query: "synallaxis littoralis" ; Times: 2
+	Query: "Micropygia schomburgkii vntype:specimen" ; Times: 1
+	Query: "Lamprolaima" ; Times: 1
+	Query: "Iridosornis reinhardti" ; Times: 1
+	Query: "ANSP ORN 90910" ; Times: 1
+	Query: "cyanocitta year &gt;= 1980 institutioncode:ANSP" ; Times: 2
+	Query: "148623" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 8
+	Query: "strix occidentalis caurina" ; Times: 2
+	Query: "Carpodacus synoicus China" ; Times: 2
+	Query: "187036 vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "Leucosticte dawsoni" ; Times: 1
+	Query: "leptodon" ; Times: 1
+	Query: "ANSP 192865" ; Times: 2
+	Query: "pachyramphus quimarinus" ; Times: 1
+	Query: "Geositta poeciloptera vntype:specimen" ; Times: 1
+	Query: "specificepithet:lugubris genus:quiscalus" ; Times: 2
+	Query: "80729" ; Times: 1
+	Query: "genus:Didunculus institutioncode:ANSP" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpina genus:Cranioleuca" ; Times: 2
+	Query: "tangara caeruleigularis" ; Times: 1
+	Query: "ANSP 188917" ; Times: 1
+	Query: "specificepithet:pygmeus genus:Eurynorhynchus" ; Times: 1
+	Query: "falco rupicolus" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Heliangelus Micraster" ; Times: 3
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Diglossa indigotica vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "116396" ; Times: 1
+	Query: "Witmer &#34;Cape May&#34; institutioncode:ANSP" ; Times: 4
+	Query: "116390" ; Times: 2
+	Query: "specificepithet:taciturnus genus:Arremon" ; Times: 1
+	Query: "sterna incerta" ; Times: 3
+	Query: "ansp 139763" ; Times: 1
+	Query: "Progne modesta" ; Times: 5
+	Query: "Heliangelus ANSP" ; Times: 1
+	Query: "Ploceus galbula" ; Times: 4
+	Query: "ANSP 187435" ; Times: 1
+	Query: "specificepithet:semirufus genus:Atlapetes" ; Times: 1
+	Query: "specificepithet:manadensis" ; Times: 1
+	Query: "Hyliota australis" ; Times: 4
+	Query: "Progne murphyi" ; Times: 1
+	Query: "WITMER STONE COLLECTION &#34;Cape May&#34; institutioncode:ANSP" ; Times: 2
+	Query: "34893-1" ; Times: 1
+	Query: "Loxia megaplaga" ; Times: 1
+	Query: "ANSP ORN 90909" ; Times: 2
+	Query: "WITMER STONE COLLECTION institutioncode:ANSP" ; Times: 2
+	Query: "euplectes aureus" ; Times: 4
+	Query: "specificepithet:schlegeli genus:arremon" ; Times: 1
+	Query: "117645" ; Times: 2
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "westermanni" ; Times: 1
+	Query: "stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; institutioncode:ANSP" ; Times: 1
+	Query: "Pardirallus maculatus vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "hypermelaena" ; Times: 1
+	Query: "specificepithet:anais genus:mino" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 1
+	Query: "ANSP 189159" ; Times: 1
+	Query: "Micropygia vntype:specimen" ; Times: 1
+	Query: "amazona dufresniana" ; Times: 4
+	Query: "thamnophilus juruanus" ; Times: 1
+	Query: "arachnothera rothschildi" ; Times: 2
+	Query: "ansp 61177" ; Times: 1
+	Query: "Myiobius Sucumbios vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "ansp 61175" ; Times: 1
+	Query: "ANSP 180242" ; Times: 1
+	Query: "elaenia brachyptera" ; Times: 2
+	Query: "specificepithet:cinereicollis genus:basileuterus" ; Times: 1
+	Query: "specificepithet:schlegeli genus:Arremon" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 1
+	Query: "unica unica" ; Times: 1
+	Query: "specificepithet:nigrogularis genus:clytorhynchus" ; Times: 1
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "genus:Accipiter institutioncode:ANSP" ; Times: 2
+	Query: "specificepithet:jelskii genus:iridosornis" ; Times: 1
+	Query: "Accipiter chilensis" ; Times: 1
+	Query: "Semioptera" ; Times: 1
+	Query: "ansp 115283" ; Times: 1
+	Query: "henicorhina anachoreta" ; Times: 1
+	Query: "117643" ; Times: 2
+	Query: "ANSP 191354" ; Times: 1
+	Query: "cochoa viridis" ; Times: 2
+	Query: "Leptodon cayanensis vntype:specimen" ; Times: 1
+	Query: "cucullata versicolor" ; Times: 1
+	Query: "Nonnula rubecula vntype:specimen" ; Times: 1
+	Query: "gallinago undulata" ; Times: 2
+	Query: "117648" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "specificepithet:szalayi genus:oriolus" ; Times: 1
+	Query: "vntype:specimen genus:Nasica" ; Times: 3
+	Query: "specificepithet:vitiensis genus:clytorhynchus" ; Times: 1
+	Query: "Diglossa Honduras" ; Times: 3
+	Query: "specificepithet:rufimarginatus genus:Herpsilochmus country:&#34;Ecuador&#34; year &gt;= 1984 year &lt;= 1984 institutioncode:ANSP" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttatus genus:Xiphorhynchus" ; Times: 1
+	Query: "hemitriccus rufipes" ; Times: 1
+	Query: "pipreola riefferii riefferii" ; Times: 1
+	Query: "Morona-Santiago vntype:specimen institutioncode:ANSP" ; Times: 3
+	Query: "specificepithet:whitneyi genus:Pomarea" ; Times: 1
+	Query: "specificepithet:thilius genus:agelaius" ; Times: 1
+	Query: "specificepithet:gunningi genus:sheppardia" ; Times: 2
+	Query: "Heliangelus mavors" ; Times: 1
+	Query: "aenobarbus" ; Times: 1
+	Query: "specificepithet:atropileus genus:hemispingus" ; Times: 3
+	Query: "95155" ; Times: 1
+	Query: "tangara cyanocephala institutioncode:ANSP" ; Times: 2
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "malacoptila" ; Times: 1
+	Query: "nystalus institutioncode:ANSP" ; Times: 1
+	Query: "Heliangelus ansp" ; Times: 4
+	Query: "specificepithet:atrimaxillaris genus:habia" ; Times: 1
+	Query: "buthraupis aureodorsalis" ; Times: 4
+	Query: "masius peruvianus" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "Heliangelus micraster ansp" ; Times: 1
+	Query: "ANSP 189141" ; Times: 1
+	Query: "nephelornis" ; Times: 1
+	Query: "Heliangelus amethysticollis ansp" ; Times: 1
+	Query: "passer hispaniolensis" ; Times: 3
+	Query: "Turdus maculirostris vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "Falco severus" ; Times: 1
+	Query: "Coturnicops institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:maculata genus:cotinga" ; Times: 1
+	Query: "specificepithet:cayana genus:cotinga" ; Times: 1
+	Query: "vntype:specimen genus:Lepidocolaptes country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:nemoricola genus:Gallinago" ; Times: 1
+	Query: "stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; catalognumber:170175 institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:reinhardtii genus:iridosornis" ; Times: 2
+	Query: "168352 vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "ansp 51941" ; Times: 1
+	Query: "ANSP 178126" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "melithreptus chloropsis" ; Times: 1
+	Query: "ANSP 178284" ; Times: 1
+	Query: "169168 vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "country:&#34;Brazil&#34; collectioncode:orn institutioncode:ANSP" ; Times: 5
+	Query: "123479" ; Times: 1
+	Query: "Podiceps taczanowskii" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; collectioncode:orn institutioncode:ANSP" ; Times: 1
+	Query: "vntype:specimen genus:Synallaxis country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "yasuni" ; Times: 1
+	Query: "ansp 61118" ; Times: 1
+	Query: "macgregoria pulchra" ; Times: 1
+	Query: "hemithraupis huambina" ; Times: 1
+	Query: "Stone &#34;Cape May&#34; institutioncode:ANSP" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 3
+	Query: "caprimulgus decussatus" ; Times: 11
+	Query: "vntype:specimen specificepithet:pyrrhophia genus:Cranioleuca" ; Times: 1
+	Query: "malacoptila rufa" ; Times: 5
+	Query: "bullshit institutioncode:ANSP" ; Times: 1
+	Query: "megabyas" ; Times: 1
+	Query: "Phylloscartes eximius" ; Times: 1
+	Query: "117622" ; Times: 1
+	Query: "tangara perenensis" ; Times: 2
+	Query: "specificepithet:solitaria genus:Gallinago" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 10
+	Query: "EMPIDONOMUS VARIUS" ; Times: 1
+	Query: "specificepithet:ornatus genus:spizaetus country:&#34;Colombia&#34;" ; Times: 2
+	Query: "ansp 61323" ; Times: 1
+	Query: "Heliangelus clarisse ansp" ; Times: 2
+	Query: "ansp 61321" ; Times: 1
+	Query: "Progne elegans" ; Times: 2
+	Query: "nonnula institutioncode:ANSP" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "garrulus haringtoni" ; Times: 1
+	Query: "Colombia risaralda" ; Times: 1
+	Query: "capito aurovirens" ; Times: 55
+	Query: "ansp 182020" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "WITMER STONE COLLECTION &#34;cape may&#34;" ; Times: 1
+	Query: "24792 institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:fuscocinereus genus:lipaugus" ; Times: 1
+	Query: "specificepithet:cotinga genus:cotinga" ; Times: 1
+	Query: "melocichla" ; Times: 1
+	Query: "vntype:specimen specificepithet:dorbignyi genus:Asthenes" ; Times: 1
+	Query: "stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; collectioncode:ORN institutioncode:ANSP" ; Times: 2
+	Query: "specificepithet:cyornithopsis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34; country:&#34;canada&#34;" ; Times: 3
+	Query: "macropygia emiliana" ; Times: 2
+	Query: "ailuroedus misoliensis" ; Times: 2
+	Query: "genus:Circus institutioncode:ANSP" ; Times: 1
+	Query: "ara macao" ; Times: 34
+	Query: "vntype:specimen (vestiaria) year &gt;= 1985 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:cardonai genus:myioborus" ; Times: 1
+	Query: "luteoviridis" ; Times: 1
+	Query: "specificepithet:azureocapilla genus:myiagra" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "ANSP 159797" ; Times: 1
+	Query: "Nonnula institutioncode:ANSP" ; Times: 1
+	Query: "117617" ; Times: 1
+	Query: "ansp 51957" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "Stone orn institutioncode:ANSP" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 28
+	Query: "specificepithet:rufivertex genus:iridosornis" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 1
+	Query: "specificepithet:militaris genus:sturnella" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 4
+	Query: "Accipiter gundlachi vntype:specimen" ; Times: 1
+	Query: "Guadalupe Island 1896" ; Times: 1
+	Query: "psophia crepitans" ; Times: 1
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "specificepithet:conspicillatus genus:basileuterus" ; Times: 1
+	Query: "Pharomachrus auriceps" ; Times: 2
+	Query: "specificepithet:cruentus genus:oriolus" ; Times: 1
+	Query: "ANSP 180205" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "Motacilla flava lutea" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "sporophila lineola" ; Times: 2
+	Query: "leucopeza" ; Times: 1
+	Query: "specificepithet:ornatus genus:spizaetus" ; Times: 1
+	Query: "99925" ; Times: 1
+	Query: "specificepithet:speciosa genus:geothlypis" ; Times: 1
+	Query: "genus:Lophospingus" ; Times: 2
+	Query: "specificepithet:nitidissima genus:chlorochrysa" ; Times: 1
+	Query: "Semioptera ansp" ; Times: 1
+	Query: "anthocephala berlepschi" ; Times: 2
+	Query: "specificepithet:vociferans genus:lipaugus" ; Times: 1
+	Query: "ANSP 187277" ; Times: 2
+	Query: "93278" ; Times: 1
+	Query: "leptodon cayanensis" ; Times: 1
+	Query: "specificepithet:cyornithopsis genus:sheppardia" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 4
+	Query: "43935" ; Times: 1
+	Query: "159797" ; Times: 1
+	Query: "specificepithet:boliviana genus:poospiza" ; Times: 2
+	Query: "catalognumber:176513" ; Times: 1
+	Query: "specificepithet:alinae" ; Times: 1
+	Query: "DMNH Diglossa" ; Times: 1
+	Query: "85020 institutioncode:ANSP" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "ANSP 180389" ; Times: 1
+	Query: "specificepithet:torquata genus:poospiza" ; Times: 1
+	Query: "genus:cyanomitra" ; Times: 3
+	Query: "genus:Nystalus country:&#34;Ecuador&#34; institutioncode:ANSP" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Pachycephala Guadalcanal" ; Times: 3
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; collectioncode:ORN institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:rubidiventris genus:parus" ; Times: 1
+	Query: "vntype:specimen (Scytalopus magellanicus) institutioncode:ANSP" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:poospiza" ; Times: 1
+	Query: "myiagra azureocapilla" ; Times: 2
+	Query: "malacoptila fusca" ; Times: 7
+	Query: "Leptodon cayanensis" ; Times: 1
+	Query: "hypermelas" ; Times: 1
+	Query: "ansp 61176" ; Times: 1
+	Query: "vntype:specimen specificepithet:Albiventer genus:Tachycineta" ; Times: 1
+	Query: "Cutucu vntype:specimen institutioncode:ANSP" ; Times: 5
+	Query: "ansp 56595" ; Times: 1
+	Query: "ansp 56594" ; Times: 1
+	Query: "61428 dulit" ; Times: 1
+	Query: "alectoris pubescens" ; Times: 1
+	Query: "specificepithet:superciliaris genus:drymodes" ; Times: 8
+	Query: "Polioptila albiventris vntype:specimen" ; Times: 1
+	Query: "catalognumber:113563" ; Times: 1
+	Query: "pipreola riefferii occidentalis" ; Times: 1
+	Query: "vntype:specimen genus:synallaxis country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpina genus:Cranioleuca country:Bolivia" ; Times: 1
+	Query: "genus:torgos" ; Times: 1
+	Query: "specificepithet:gutturalis genus:habia" ; Times: 1
+	Query: "pseudocolopteryx flaviventris" ; Times: 1
+	Query: "specificepithet:albofrenatus genus:Atlapetes" ; Times: 2
+	Query: "Aburria jacutinga" ; Times: 1
+	Query: "pachyramphus australis" ; Times: 1
+	Query: "vntype:specimen (Zimmerius Morona-Santiago) institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34;" ; Times: 3
+	Query: "collectioncode:orn institutioncode:ANSP" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 846 download events in this period)
+Total number of records downloaded: 1889
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Philippines ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 16
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-24 ; Times: 7
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 5
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 8
+	Date: 2018-09-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "Nonnula institutioncode:ANSP" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "tyto glaucops" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "pithecophaga jefferyi" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "Sierra Nevada de Santa Marta" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "specificepithet:ornatus genus:spizaetus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "nystalus institutioncode:ANSP" ; Times: 1
+	Query: "Progne elegans" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; collectioncode:ORN institutioncode:ANSP" ; Times: 2
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "tangara cyanocephala institutioncode:ANSP" ; Times: 1
+	Query: "Progne murphyi" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 2
+
+
+End of report.
