@@ -1,0 +1,623 @@
+Report for Institution Code ANSP, Resource ansp_orn
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 722
+Number of records retrieved in searches: 3881
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 4
+	Country: Unknown ; Times: 11
+	Country: Panama ; Times: 2
+	Country: France ; Times: 49
+	Country: Slovakia ; Times: 1
+	Country: Argentina ; Times: 25
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 21
+	Country: Australia ; Times: 9
+	Country: Cuba ; Times: 7
+	Country: Germany ; Times: 11
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 11
+	Country: Spain ; Times: 2
+	Country: Denmark ; Times: 4
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 408
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 20
+	Country: Mexico ; Times: 15
+	Country: India ; Times: 15
+	Country: United Kingdom ; Times: 69
+	Country: Colombia ; Times: 15
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 43
+	Date: 2020-03-30 ; Times: 40
+	Date: 2020-03-31 ; Times: 27
+	Date: 2020-03-02 ; Times: 22
+	Date: 2020-03-18 ; Times: 26
+	Date: 2020-03-19 ; Times: 9
+	Date: 2020-03-16 ; Times: 3
+	Date: 2020-03-23 ; Times: 21
+	Date: 2020-03-14 ; Times: 16
+	Date: 2020-03-15 ; Times: 16
+	Date: 2020-03-12 ; Times: 35
+	Date: 2020-03-13 ; Times: 4
+	Date: 2020-03-10 ; Times: 19
+	Date: 2020-03-08 ; Times: 18
+	Date: 2020-03-17 ; Times: 7
+	Date: 2020-03-06 ; Times: 45
+	Date: 2020-03-27 ; Times: 33
+	Date: 2020-03-26 ; Times: 11
+	Date: 2020-03-25 ; Times: 24
+	Date: 2020-03-24 ; Times: 13
+	Date: 2020-03-09 ; Times: 35
+	Date: 2020-03-22 ; Times: 22
+	Date: 2020-03-21 ; Times: 12
+	Date: 2020-03-20 ; Times: 30
+	Date: 2020-03-05 ; Times: 13
+	Date: 2020-03-04 ; Times: 49
+	Date: 2020-03-07 ; Times: 57
+	Date: 2020-03-11 ; Times: 13
+	Date: 2020-03-01 ; Times: 7
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-28 ; Times: 51
+
+List of queries that retrieved data from the resource: 
+	Query: "180204" ; Times: 1
+	Query: "genus:Aramus country:&#34;Ecuador&#34;" ; Times: 3
+	Query: "tinamus major" ; Times: 1
+	Query: "(200729)" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a fulmarus" ; Times: 1
+	Query: "129120" ; Times: 1
+	Query: "Ceratogymna atrata NOT (&#34;MNHN&#34; OR &#34;RBINS&#34; OR &#34;NHMUK&#34; OR &#34;skin&#34; OR &#34;skeleton&#34; OR &#34;mount&#34; OR &#34;mounted&#34; OR &#34;skel&#34; OR &#34;sound&#34;)" ; Times: 2
+	Query: "specificepithet:mcgregori genus:coracina country:&#34;philippines&#34;" ; Times: 2
+	Query: "(56781)" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "110524" ; Times: 1
+	Query: "160951" ; Times: 1
+	Query: "pomatorhinus decarlei" ; Times: 2
+	Query: "75546" ; Times: 1
+	Query: "98369" ; Times: 2
+	Query: "98368" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "genus:Aramus country:&#34;Peru&#34;" ; Times: 1
+	Query: "120125" ; Times: 1
+	Query: "specificepithet:vociferus genus:Charadrius country:&#34;Peru&#34;" ; Times: 1
+	Query: "arremonops sinaloae" ; Times: 3
+	Query: "eremita" ; Times: 3
+	Query: "specificepithet:leucopterus genus:Malurus year &gt;= 2002 year &lt;= 2002 institutioncode:ANSP" ; Times: 1
+	Query: "Haplospiza rustica" ; Times: 3
+	Query: "specificepithet:sapphirina genus:Hylocharis" ; Times: 3
+	Query: "specificepithet:enca country:&#34;philippines&#34;" ; Times: 2
+	Query: "176527" ; Times: 1
+	Query: "Terenura institutioncode:ANSP" ; Times: 3
+	Query: "ANSP-92411" ; Times: 1
+	Query: "specificepithet:victoriae genus:sitta" ; Times: 1
+	Query: "Cyanopsitta spixii" ; Times: 1
+	Query: "specificepithet:sylviolus genus:Phylloscartes" ; Times: 1
+	Query: "116305" ; Times: 1
+	Query: "vireolanius verticalis" ; Times: 1
+	Query: "gymnocrex" ; Times: 1
+	Query: "ANSP 129102" ; Times: 2
+	Query: "ANSP 129103" ; Times: 1
+	Query: "106816" ; Times: 1
+	Query: "140357" ; Times: 1
+	Query: "Camptostoma flaviventre" ; Times: 1
+	Query: "139485" ; Times: 1
+	Query: "Leptosittaca" ; Times: 1
+	Query: "192084" ; Times: 1
+	Query: "128296" ; Times: 1
+	Query: "specificepithet:semipalmatus genus:Charadrius country:&#34;Peru&#34;" ; Times: 1
+	Query: "127162" ; Times: 1
+	Query: "128354" ; Times: 1
+	Query: "128298" ; Times: 1
+	Query: "Ceratogymna NOT (&#34;skin&#34; OR &#34;skeleton&#34;)" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "Cossypha niveicapilla" ; Times: 6
+	Query: "Cossypha niveicapilla mappable:1" ; Times: 10
+	Query: "149025" ; Times: 1
+	Query: "specificepithet:affinis genus:caprimulgus country:&#34;philippines&#34;" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a eremita" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "pterodroma neglecta" ; Times: 1
+	Query: "specificepithet:mcgregori genus:coracina country:&#34;PHILIPPINES&#34;" ; Times: 3
+	Query: "87085" ; Times: 1
+	Query: "chaseni" ; Times: 2
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a pachyptila" ; Times: 1
+	Query: "110689" ; Times: 2
+	Query: "159573" ; Times: 1
+	Query: "76847" ; Times: 1
+	Query: "1886 Wellesley" ; Times: 1
+	Query: "tyto furcata" ; Times: 4
+	Query: "specificepithet:lanceolata genus:locustella country:&#34;philippines&#34;" ; Times: 2
+	Query: "118930" ; Times: 1
+	Query: "151107" ; Times: 1
+	Query: "129118" ; Times: 1
+	Query: "159832" ; Times: 1
+	Query: "kalawos" ; Times: 2
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a pelagodroma" ; Times: 1
+	Query: "Pionus chalcopterus" ; Times: 3
+	Query: "Phylloscopus cantator" ; Times: 1
+	Query: "genus:Falcunculus stateprovince:&#34;Western Australia&#34;" ; Times: 1
+	Query: "specificepithet:melanopezus genus:automolus country:&#34;Peru&#34;" ; Times: 1
+	Query: "130611" ; Times: 1
+	Query: "174639" ; Times: 1
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "174637" ; Times: 1
+	Query: "128439" ; Times: 1
+	Query: "143678" ; Times: 1
+	Query: "culicicapa ceylonensis" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "muscicapa thalassina" ; Times: 3
+	Query: "myiobius clarus" ; Times: 1
+	Query: "128792" ; Times: 1
+	Query: "delichon urbica" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1995 year &lt;= 2020" ; Times: 2
+	Query: "Coeligena bonapartei" ; Times: 1
+	Query: "mycteria ibis" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a pterodroma" ; Times: 2
+	Query: "galbula phainopepla" ; Times: 3
+	Query: "67214" ; Times: 1
+	Query: "57155" ; Times: 1
+	Query: "128542" ; Times: 1
+	Query: "puffinus bannermani" ; Times: 1
+	Query: "141496" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a garrodia" ; Times: 1
+	Query: "47738" ; Times: 1
+	Query: "genus:Pheucticus stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "100570" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "harpactes fasciatus" ; Times: 1
+	Query: "acrocephalus arundinaceus china" ; Times: 1
+	Query: "109193" ; Times: 1
+	Query: "159534" ; Times: 1
+	Query: "myiobius semiflavus" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 8
+	Query: "Pteroglossus beauharnaesii hassex:1" ; Times: 1
+	Query: "muscicapa albicaudata" ; Times: 3
+	Query: "141793" ; Times: 1
+	Query: "128314" ; Times: 1
+	Query: "165054" ; Times: 2
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "Loriculus pusillus" ; Times: 3
+	Query: "genus:Ibidorhyncha" ; Times: 1
+	Query: "catalognumber:112551" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "catalognumber:112554" ; Times: 2
+	Query: "96091" ; Times: 2
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;mount&#34; OR &#34;mounted&#34; OR &#34;skel&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "penelope pileata" ; Times: 3
+	Query: "pitta brachyura" ; Times: 2
+	Query: "genus:phoenicurus institutioncode:ANSP" ; Times: 1
+	Query: "Turdus ravidus" ; Times: 3
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;mount&#34; OR &#34;skel&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "110080" ; Times: 1
+	Query: "Accipiter cooperi" ; Times: 1
+	Query: "Ducula badia" ; Times: 1
+	Query: "Picumnus dorbygnianus" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a hydrobates" ; Times: 1
+	Query: "specificepithet:lineatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "celeus deltanus" ; Times: 2
+	Query: "ANSP 162140" ; Times: 2
+	Query: "genus:Passerina stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "Icterus icterus vntype:specimen country:&#34;Colombia&#34;" ; Times: 3
+	Query: "143946" ; Times: 1
+	Query: "Durnford" ; Times: 1
+	Query: "specificepithet:bonariensis genus:Molothrus country:&#34;Peru&#34;" ; Times: 3
+	Query: "Pluvianus aegyptius" ; Times: 1
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "psittacus timneh" ; Times: 1
+	Query: "152808" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "Amazilia viridifrons" ; Times: 1
+	Query: "Schoeniparus castaneceps" ; Times: 1
+	Query: "apaloderma institutioncode:ANSP" ; Times: 1
+	Query: "scolopax rusticola india" ; Times: 1
+	Query: "aracari" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a daption" ; Times: 1
+	Query: "Cossypha semirufa mappable:1" ; Times: 2
+	Query: "58767" ; Times: 1
+	Query: "stachyris pallescens" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a fregetta" ; Times: 1
+	Query: "83646" ; Times: 2
+	Query: "128468" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "egretta gularis" ; Times: 1
+	Query: "specificepithet:fulica genus:Heliornis country:&#34;Peru&#34;" ; Times: 1
+	Query: "83012" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "genus:Pedionomus" ; Times: 1
+	Query: "treron australis" ; Times: 3
+	Query: "Icterus auratus" ; Times: 2
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;skel&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "samaipatae" ; Times: 1
+	Query: "172118" ; Times: 2
+	Query: "115522" ; Times: 1
+	Query: "Chondrohierax Cuba" ; Times: 1
+	Query: "151344" ; Times: 1
+	Query: "Drymophila caudata" ; Times: 6
+	Query: "161481 institutioncode:ANSP" ; Times: 1
+	Query: "ANSP 159158" ; Times: 1
+	Query: "ANSP 159157" ; Times: 2
+	Query: "52627" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "159506" ; Times: 1
+	Query: "188646" ; Times: 1
+	Query: "188645" ; Times: 1
+	Query: "hypsipetes sinensis" ; Times: 3
+	Query: "151528" ; Times: 1
+	Query: "Drymophila hellmayri" ; Times: 1
+	Query: "ANSP 189223" ; Times: 2
+	Query: "176478" ; Times: 2
+	Query: "Zoothera monticola" ; Times: 1
+	Query: "ammodramus tarijensis" ; Times: 1
+	Query: "Dicrurus ludwigii" ; Times: 5
+	Query: "112121" ; Times: 1
+	Query: "(202384)" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "specificepithet:coronatus genus:Onychorhynchus country:&#34;Peru&#34;" ; Times: 1
+	Query: "ANSP-108159" ; Times: 1
+	Query: "159824" ; Times: 1
+	Query: "ANSP-108151" ; Times: 1
+	Query: "159826" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "genus:Vultur country:&#34;Ecuador&#34;" ; Times: 12
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a bulweria" ; Times: 1
+	Query: "13715" ; Times: 1
+	Query: "specificepithet:hyperythra genus:erythrura country:&#34;philippines&#34;" ; Times: 2
+	Query: "70888" ; Times: 1
+	Query: "&#34;San Marcos de Guaymaca&#34;" ; Times: 1
+	Query: "tytleri" ; Times: 2
+	Query: "sanfordi" ; Times: 1
+	Query: "habia atrimaxillaris" ; Times: 1
+	Query: "catalognumber:67308 institutioncode:ANSP" ; Times: 2
+	Query: "(49096)" ; Times: 2
+	Query: "zoothera wardii" ; Times: 1
+	Query: "Cettia major" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "Tyrannus cubensis" ; Times: 6
+	Query: "Abroscopus albogularis" ; Times: 1
+	Query: "172725" ; Times: 1
+	Query: "Caprimulgus 1938" ; Times: 1
+	Query: "135155" ; Times: 1
+	Query: "Campephilus bairdii" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a puffinus" ; Times: 2
+	Query: "Graminicola bengalensis" ; Times: 1
+	Query: "brachypteryx cruralis" ; Times: 2
+	Query: "tyto longimembris india" ; Times: 1
+	Query: "copsychus malabaricus india" ; Times: 1
+	Query: "pelecanoides garnotii" ; Times: 2
+	Query: "153573" ; Times: 1
+	Query: "diomedea melanophrys" ; Times: 2
+	Query: "Leptasthenura fuliginiceps fuliginiceps NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;skel&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "chalcites maculatus" ; Times: 1
+	Query: "ANSP 185734" ; Times: 6
+	Query: "109988" ; Times: 1
+	Query: "ducula spilorrhoa" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "turdoides caudatus" ; Times: 1
+	Query: "187040 institutioncode:ANSP" ; Times: 2
+	Query: "Icterus icterus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Pinguinus" ; Times: 1
+	Query: "taccocua leschenaultii" ; Times: 1
+	Query: "specificepithet:naevia genus:sclateria country:&#34;Peru&#34;" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "pyrocephalus rubinus Arequipa vntype:specimen" ; Times: 1
+	Query: "128373" ; Times: 1
+	Query: "191664" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a diomedea" ; Times: 3
+	Query: "60756" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "Seicercus poliogenys" ; Times: 1
+	Query: "specificepithet:sumatranus genus:tanygnathus country:&#34;philippines&#34;" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a procellaria" ; Times: 1
+	Query: "139482" ; Times: 1
+	Query: "catalognumber:163256" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "ANSP 63298" ; Times: 5
+	Query: "specificepithet:arnotti" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "169989 institutioncode:ANSP" ; Times: 2
+	Query: "183797" ; Times: 1
+	Query: "cyclarhis perrygoi" ; Times: 1
+	Query: "specificepithet:leucopsis genus:sitta" ; Times: 1
+	Query: "179541" ; Times: 1
+	Query: "catharus insignis" ; Times: 2
+	Query: "catalognumber:112545" ; Times: 1
+	Query: "157299" ; Times: 1
+	Query: "catalognumber:112542" ; Times: 1
+	Query: "113681" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus country:&#34;Peru&#34;" ; Times: 2
+	Query: "moho nobilis" ; Times: 1
+	Query: "specificepithet:auroreus genus:phoenicurus institutioncode:ANSP" ; Times: 1
+	Query: "melanitta stejnegeri" ; Times: 6
+	Query: "tyto alba furcata" ; Times: 2
+	Query: "eriocnemis luciani" ; Times: 2
+	Query: "154687" ; Times: 1
+	Query: "Campephilus principalis bairdii" ; Times: 1
+	Query: "Catharus aurantiirostris Veraguas" ; Times: 1
+	Query: "178304" ; Times: 1
+	Query: "specificepithet:nobilis genus:Moho" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 1
+	Query: "crossoptilon crossoptilon" ; Times: 1
+	Query: "specificepithet:parvirostris genus:Elaenia country:&#34;Peru&#34;" ; Times: 2
+	Query: "168780" ; Times: 1
+	Query: "(55759)" ; Times: 1
+	Query: "177115" ; Times: 1
+	Query: "ANSP-7277" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "pycnonotus negatus" ; Times: 3
+	Query: "Phylloscopus magnirostris" ; Times: 1
+	Query: "156080" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "156088" ; Times: 1
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "123889" ; Times: 1
+	Query: "arremonops ridgwayi" ; Times: 5
+	Query: "128920" ; Times: 1
+	Query: "catharus mentalis" ; Times: 1
+	Query: "erithacus svecicus india" ; Times: 1
+	Query: "128925" ; Times: 1
+	Query: "128339" ; Times: 1
+	Query: "pericrocotus erythropygius" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;Japan&#34;" ; Times: 3
+	Query: "maculicoronatus" ; Times: 1
+	Query: "genus:Aramus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Gubernetes country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "masatierra" ; Times: 2
+	Query: "113012" ; Times: 1
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "motacilla citreola india" ; Times: 2
+	Query: "ANSP 63312" ; Times: 1
+	Query: "52022" ; Times: 1
+	Query: "Hemignathus chloris" ; Times: 2
+	Query: "tangara guttata" ; Times: 3
+	Query: "66066" ; Times: 1
+	Query: "ANSP 155870" ; Times: 2
+	Query: "(16664) institutioncode:ANSP" ; Times: 1
+	Query: "145302" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a phoebetria" ; Times: 1
+	Query: "sapphirina" ; Times: 2
+	Query: "strix chacoensis" ; Times: 6
+	Query: "52618" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius country:&#34;mexico&#34;" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 3
+	Query: "specificepithet:philippii genus:Phaethornis country:&#34;Peru&#34;" ; Times: 2
+	Query: "112331" ; Times: 1
+	Query: "112332" ; Times: 1
+	Query: "128705" ; Times: 1
+	Query: "specificepithet:lamberti genus:Malurus year &gt;= 2002 year &lt;= 2002 institutioncode:ANSP" ; Times: 3
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 6
+	Query: "130291" ; Times: 1
+	Query: "156339" ; Times: 1
+	Query: "specificepithet:bicolor genus:Conirostrum country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:naevia genus:Sclateria country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:goiavier genus:Pycnonotus country:&#34;Malaysia&#34; year &gt;= 1962" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "Elaenia martinica barbadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:poliocephalus genus:turdus country:&#34;philippines&#34;" ; Times: 2
+	Query: "rhegmatorhina badia" ; Times: 2
+	Query: "thripadectes striatidorsus" ; Times: 1
+	Query: "ku 77016" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "myiobius peruvianus" ; Times: 2
+	Query: "108177 institutioncode:ANSP" ; Times: 2
+	Query: "Ceratogymna atrata NOT (&#34;MNHN&#34; OR &#34;RBINS&#34; OR &#34;skin&#34; OR &#34;skeleton&#34; OR &#34;mount&#34; OR &#34;mounted&#34; OR &#34;skel&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "(84514)" ; Times: 1
+	Query: "167705" ; Times: 1
+	Query: "(10425) institutioncode:ANSP" ; Times: 2
+	Query: "Acrocephalus stentoreus" ; Times: 6
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34;)" ; Times: 1
+	Query: "turdoides malcolmi" ; Times: 1
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;mounted&#34; OR &#34;skel&#34; OR &#34;sound&#34;)" ; Times: 1
+	Query: "Phylloscartes superciliaris" ; Times: 2
+	Query: "pulsatrix perspicillata" ; Times: 5
+	Query: "CIRCUS AERUGINOSUS" ; Times: 2
+	Query: "hippolais rama india" ; Times: 1
+	Query: "Pteruthius flaviscapis" ; Times: 4
+	Query: "107114" ; Times: 1
+	Query: "DMNH 602" ; Times: 3
+	Query: "specificepithet:sphenocercus genus:Lanius" ; Times: 1
+	Query: "asio flammeus suinda" ; Times: 1
+	Query: "107116" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a irrorata" ; Times: 1
+	Query: "specificepithet:pelzelni genus:Elaenia country:&#34;Peru&#34;" ; Times: 1
+	Query: "Glareola maldivarum" ; Times: 3
+	Query: "pelecanus crispus" ; Times: 1
+	Query: "76842" ; Times: 1
+	Query: "157834" ; Times: 1
+	Query: "rhopodytes viridirostris" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a oceanites" ; Times: 2
+	Query: "specificepithet:leucopterus genus:Malurus institutioncode:ANSP" ; Times: 1
+	Query: "Hemitriccus minimus" ; Times: 1
+	Query: "134928" ; Times: 1
+	Query: "162520" ; Times: 1
+	Query: "120849" ; Times: 1
+	Query: "ANSP 154978" ; Times: 3
+	Query: "Ceratogymna atrata NOT (&#34;skin&#34; OR &#34;skeleton&#34; OR &#34;mechanical sound&#34;)" ; Times: 1
+	Query: "stachyris rufifrons" ; Times: 1
+	Query: "ANSP 184337" ; Times: 2
+	Query: "rhea americana" ; Times: 1
+	Query: "gyps indicus" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a pelecanoides" ; Times: 2
+	Query: "76294" ; Times: 1
+	Query: "gbifdatasetid:8658262c-f762-11e1-a439-00145eb45e9a oceanodroma" ; Times: 2
+	Query: "Pteruthius flaviscapis India" ; Times: 2
+	Query: "113516" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "pelecanus philippensis" ; Times: 3
+	Query: "127286" ; Times: 1
+	Query: "vntype:specimen specificepithet:nobilis genus:Moho" ; Times: 1
+	Query: "119357" ; Times: 2
+	Query: "(49093)" ; Times: 2
+	Query: "specificepithet:senegalensis genus:Otus" ; Times: 1
+	Query: "myiobius adjacens" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "Eriocnemis mirabilis" ; Times: 1
+	Query: "catalognumber:7900 institutioncode:ANSP" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "113603" ; Times: 1
+	Query: "cyclarhis dorsalis" ; Times: 1
+	Query: "specificepithet:barrabandi genus:Pionopsitta country:&#34;Peru&#34;" ; Times: 2
+	Query: "(49083)" ; Times: 1
+	Query: "galloperdix lunulata" ; Times: 1
+	Query: "phaethornis hyalinus" ; Times: 2
+	Query: "coeligena prunellei" ; Times: 2
+	Query: "country:&#34;china&#34; year &gt;= 1897 year &lt;= 1897 institutioncode:ANSP" ; Times: 1
+	Query: "103852" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "ciconia maguari" ; Times: 2
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "hippolais caligata india" ; Times: 1
+	Query: "Pteroglossus beauharnaesii" ; Times: 11
+	Query: "erithacus svecicus" ; Times: 1
+	Query: "albolarvatus California Plumas County" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "ANSP 6902" ; Times: 3
+	Query: "192730" ; Times: 1
+	Query: "Cossypha semirufa" ; Times: 2
+	Query: "Hypopyrrhus pyrohypogaster" ; Times: 2
+	Query: "120152" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "pyrocephalus rubinus cocachacrae vntype:specimen" ; Times: 1
+	Query: "genus:alauda country:&#34;japan&#34;" ; Times: 3
+	Query: "columba elphinstonii" ; Times: 2
+	Query: "VULTUR GRYPHUS" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "Pitta caerulea Thailand" ; Times: 2
+	Query: "ANSP 159825" ; Times: 2
+	Query: "90583" ; Times: 1
+	Query: "xenicus longipes" ; Times: 20
+	Query: "Terenura country:&#34;Ecuador&#34; institutioncode:ANSP" ; Times: 1
+	Query: "ANSP-7277 orn" ; Times: 1
+	Query: "&#34;Puerto Madero&#34;" ; Times: 1
+	Query: "genus:bolbopsittacus country:&#34;philippines&#34;" ; Times: 3
+	Query: "111297" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "120275" ; Times: 1
+	Query: "ANSP 90849" ; Times: 2
+	Query: "119493" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "120271" ; Times: 1
+	Query: "theristicus melanopis" ; Times: 1
+	Query: "Cyanocorax heilprini" ; Times: 1
+	Query: "vntype:specimen genus:buphagus" ; Times: 1
+	Query: "catalognumber:163272" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "aviceda stenozona" ; Times: 2
+	Query: "streptopelia orientalis india" ; Times: 1
+	Query: "chalcites xanthorhynchus" ; Times: 1
+	Query: "oriolus kundoo" ; Times: 4
+	Query: "88872" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo stateprovince:&#34;California&#34; month &gt;= 1 month &lt;= 3" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 853 download events in this period)
+Total number of records downloaded: 1037
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 29
+	Country: Peru ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Guadeloupe ; Times: 3
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 3
+	Date: 2020-03-06 ; Times: 9
+	Date: 2020-03-05 ; Times: 5
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 2
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-23 ; Times: 3
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 14
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 7
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "VULTUR GRYPHUS" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "Icterus gularis" ; Times: 1
+	Query: "genus:Falcunculus stateprovince:&#34;Western Australia&#34;" ; Times: 2
+	Query: "specificepithet:lineatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "xenicus longipes" ; Times: 1
+	Query: "genus:Pheucticus stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Icterus icterus vntype:specimen country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "Pitangus sulphuratus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:turdus country:&#34;philippines&#34;" ; Times: 1
+	Query: "country:&#34;china&#34; year &gt;= 1897 year &lt;= 1897 institutioncode:ANSP" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Cyanocorax heilprini" ; Times: 1
+	Query: "Drymophila caudata" ; Times: 2
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Hemitriccus minimus" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;Japan&#34;" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Amazilia viridifrons" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Pheucticus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "habia atrimaxillaris" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "penelope pileata" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+	Query: "genus:Pheucticus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2005 year &lt;= 2010" ; Times: 1
+	Query: "Hypopyrrhus pyrohypogaster" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Drymophila hellmayri" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "specificepithet:arnotti" ; Times: 1
+	Query: "egretta gularis" ; Times: 1
+	Query: "tangara guttata" ; Times: 1
+	Query: "colaptes chrysoides" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:Passerina stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Amazilia cyanura" ; Times: 1
+
+
+End of report.
