@@ -1,0 +1,489 @@
+Report for Institution Code ANSP, Resource ansp_orn
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 505
+Number of records retrieved in searches: 2123
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 52
+	Country: Canada ; Times: 2
+	Country: Peru ; Times: 9
+	Country: Unknown ; Times: 17
+	Country: Panama ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 13
+	Country: Ireland ; Times: 16
+	Country: Argentina ; Times: 22
+	Country: Venezuela ; Times: 7
+	Country: Cuba ; Times: 7
+	Country: Germany ; Times: 22
+	Country: Spain ; Times: 5
+	Country: Denmark ; Times: 5
+	Country: Philippines ; Times: 16
+	Country: United States ; Times: 253
+	Country: Sweden ; Times: 4
+	Country: Mexico ; Times: 18
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 12
+	Country: United Kingdom ; Times: 12
+	Country: Colombia ; Times: 6
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 11
+	Date: 2020-05-24 ; Times: 11
+	Date: 2020-05-27 ; Times: 17
+	Date: 2020-05-26 ; Times: 4
+	Date: 2020-05-21 ; Times: 3
+	Date: 2020-05-20 ; Times: 13
+	Date: 2020-05-23 ; Times: 15
+	Date: 2020-05-22 ; Times: 8
+	Date: 2020-05-29 ; Times: 9
+	Date: 2020-05-28 ; Times: 5
+	Date: 2020-05-18 ; Times: 7
+	Date: 2020-05-19 ; Times: 13
+	Date: 2020-05-10 ; Times: 19
+	Date: 2020-05-11 ; Times: 14
+	Date: 2020-05-12 ; Times: 11
+	Date: 2020-05-13 ; Times: 17
+	Date: 2020-05-14 ; Times: 4
+	Date: 2020-05-15 ; Times: 30
+	Date: 2020-05-16 ; Times: 18
+	Date: 2020-05-17 ; Times: 59
+	Date: 2020-05-30 ; Times: 9
+	Date: 2020-05-31 ; Times: 21
+	Date: 2020-05-09 ; Times: 8
+	Date: 2020-05-08 ; Times: 24
+	Date: 2020-05-07 ; Times: 62
+	Date: 2020-05-06 ; Times: 30
+	Date: 2020-05-05 ; Times: 2
+	Date: 2020-05-04 ; Times: 19
+	Date: 2020-05-03 ; Times: 16
+	Date: 2020-05-02 ; Times: 9
+	Date: 2020-05-01 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas fulvigula" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "myrmotherula hellmayri" ; Times: 2
+	Query: "64668" ; Times: 1
+	Query: "121605" ; Times: 1
+	Query: "Eulampis holosericeus" ; Times: 5
+	Query: "specificepithet:macropus genus:scytalopus" ; Times: 2
+	Query: "65493" ; Times: 1
+	Query: "Chordeiles gundlachii" ; Times: 5
+	Query: "66672" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "134721" ; Times: 1
+	Query: "158008" ; Times: 1
+	Query: "specificepithet:cajanea genus:Aramides country:&#34;Argentina&#34;" ; Times: 1
+	Query: "catalognumber:125618" ; Times: 1
+	Query: "109455" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "158005" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 2
+	Query: "vntype:specimen specificepithet:sandvicensis genus:Sterna" ; Times: 2
+	Query: "57822" ; Times: 1
+	Query: "Poospiza erythrophrys" ; Times: 1
+	Query: "Culicivora caudacuta" ; Times: 3
+	Query: "200187" ; Times: 1
+	Query: "specificepithet:mcgregori genus:coracina country:&#34;philippines&#34;" ; Times: 16
+	Query: "September 29 Catharus" ; Times: 1
+	Query: "149300" ; Times: 1
+	Query: "Geotrygon versicolor" ; Times: 1
+	Query: "Tyto alba affinis" ; Times: 1
+	Query: "147948" ; Times: 1
+	Query: "196541" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "specificepithet:nigrocapitata genus:stachyris country:&#34;philippines&#34;" ; Times: 2
+	Query: "139179" ; Times: 1
+	Query: "147969" ; Times: 1
+	Query: "Geotrygon purpurata" ; Times: 1
+	Query: "6363 ku" ; Times: 2
+	Query: "Buteo jamaicensis harlani" ; Times: 4
+	Query: "Icterus laudabilis" ; Times: 1
+	Query: "myrmoborus myotherinus" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "165471" ; Times: 1
+	Query: "manacus manacus gutturosus" ; Times: 2
+	Query: "165473" ; Times: 1
+	Query: "ANSP 11403" ; Times: 2
+	Query: "Anas bahamensis" ; Times: 4
+	Query: "gypaetus barbatus" ; Times: 2
+	Query: "lycocorax" ; Times: 3
+	Query: "48344" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "genus:phaetusa country:&#34;Brazil&#34;" ; Times: 2
+	Query: "pachyptila vittata" ; Times: 4
+	Query: "specificepithet:unicolor genus:Scytalopus country:&#34;Peru&#34; institutioncode:ANSP" ; Times: 1
+	Query: "167134" ; Times: 1
+	Query: "ANSP-3434" ; Times: 1
+	Query: "dacnis venusta" ; Times: 1
+	Query: "gaine" ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "myrmoborus incanus" ; Times: 1
+	Query: "187155" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "190207" ; Times: 1
+	Query: "160325" ; Times: 1
+	Query: "Cochoa" ; Times: 2
+	Query: "Junco hyemalis nova scotia" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "Prosobonia" ; Times: 1
+	Query: "156117" ; Times: 1
+	Query: "specificepithet:enca genus:corvus country:&#34;philippines&#34;" ; Times: 1
+	Query: "anairetes alpinus" ; Times: 1
+	Query: "201535" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "158094" ; Times: 1
+	Query: "Caprimulgus affinis" ; Times: 2
+	Query: "turdus ignobilis" ; Times: 1
+	Query: "specificepithet:minutilla genus:Calidris country:&#34;Peru&#34;" ; Times: 2
+	Query: "129486" ; Times: 1
+	Query: "gypaetus" ; Times: 2
+	Query: "129098" ; Times: 1
+	Query: "138782" ; Times: 1
+	Query: "141385" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "charadrius rubricollis" ; Times: 1
+	Query: "ANSP harpactes reinwardtii" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "specificepithet:capitalis genus:stachyris country:&#34;philippines&#34;" ; Times: 1
+	Query: "buteo galapagoensis" ; Times: 4
+	Query: "genus:chelidoptera country:&#34;Brazil&#34;" ; Times: 3
+	Query: "zosterops everetti" ; Times: 1
+	Query: "Chondrohierax Cuba" ; Times: 2
+	Query: "175281" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 1
+	Query: "alcippe khmerensis" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 2
+	Query: "5564 priotelus" ; Times: 2
+	Query: "aviceda jerdoni india" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "179064" ; Times: 1
+	Query: "Sarothura" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "179061" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "157504" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "165757" ; Times: 1
+	Query: "156057" ; Times: 1
+	Query: "93857" ; Times: 1
+	Query: "larus maculipennis" ; Times: 3
+	Query: "Sayornis aquatica" ; Times: 1
+	Query: "ANSP-3775" ; Times: 2
+	Query: "specificepithet:punctulata genus:Hylophylax country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "190698" ; Times: 1
+	Query: "136482" ; Times: 1
+	Query: "167135" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "Atlapetes fulviceps" ; Times: 3
+	Query: "vultur gryphus" ; Times: 6
+	Query: "179400" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "dacnis viguieri" ; Times: 2
+	Query: "vntype:specimen specificepithet:purpurea genus:cochoa country:&#34;India&#34;" ; Times: 1
+	Query: "180098" ; Times: 1
+	Query: "180099" ; Times: 1
+	Query: "dysithamnus tambillanus" ; Times: 2
+	Query: "175967" ; Times: 1
+	Query: "genus:Halcyon stateprovince:&#34;Mindanao&#34;" ; Times: 1
+	Query: "157288" ; Times: 1
+	Query: "175963" ; Times: 1
+	Query: "genus:Halcyon stateprovince:&#34;Mindanao&#34; year &gt;= 1900" ; Times: 1
+	Query: "charadrius placidus" ; Times: 3
+	Query: "specificepithet:guttatus genus:xiphorhynchus country:&#34;Brazil&#34;" ; Times: 3
+	Query: "43990" ; Times: 1
+	Query: "190224" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "116137" ; Times: 1
+	Query: "162690" ; Times: 2
+	Query: "47956" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 5
+	Query: "37232" ; Times: 2
+	Query: "pterocles senegallus India" ; Times: 1
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "159562" ; Times: 1
+	Query: "locality:Veraguas country:&#34;Panama&#34;" ; Times: 2
+	Query: "103059" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "Geotrygon caniceps" ; Times: 1
+	Query: "genus:lophozosterops country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "Scytalopus zimmeri" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:female" ; Times: 1
+	Query: "ramphocaenus melanurus" ; Times: 1
+	Query: "Halcyon OR Todiramphus Society" ; Times: 2
+	Query: "Apus pacificus" ; Times: 4
+	Query: "190233" ; Times: 1
+	Query: "200175" ; Times: 1
+	Query: "ANSP 11363" ; Times: 5
+	Query: "catalognumber:123999" ; Times: 1
+	Query: "ANSP 1316" ; Times: 1
+	Query: "184152" ; Times: 1
+	Query: "157973" ; Times: 2
+	Query: "&#34;monachus monachus&#34;" ; Times: 1
+	Query: "genus:Scytalopus country:&#34;Peru&#34; institutioncode:ANSP" ; Times: 2
+	Query: "ANSP 11368" ; Times: 2
+	Query: "Leptodon cayanensis" ; Times: 6
+	Query: "ANSP 6792" ; Times: 2
+	Query: "46888" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes institutioncode:ANSP" ; Times: 1
+	Query: "191514" ; Times: 1
+	Query: "dysithamnus cumbreanus" ; Times: 1
+	Query: "(128044)" ; Times: 1
+	Query: "myrmotherula yessupi" ; Times: 1
+	Query: "Vireolanius eximius" ; Times: 11
+	Query: "190222" ; Times: 1
+	Query: "159578" ; Times: 1
+	Query: "saphirina" ; Times: 1
+	Query: "119648" ; Times: 1
+	Query: "Plegadis ridgwayi" ; Times: 2
+	Query: "165634" ; Times: 1
+	Query: "124265" ; Times: 1
+	Query: "125792" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "Lycocorax" ; Times: 2
+	Query: "158007" ; Times: 1
+	Query: "161669" ; Times: 1
+	Query: "175278" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "106979" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "specificepithet:everetti genus:Hypsipetes country:&#34;philippines&#34;" ; Times: 3
+	Query: "113485" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "157285" ; Times: 1
+	Query: "genus:Torreornis" ; Times: 1
+	Query: "geotrygon saphirina" ; Times: 3
+	Query: "cyanolimnas cerverai" ; Times: 4
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "Pycnonotus priocephalus" ; Times: 1
+	Query: "196565" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "ANSP-3769" ; Times: 1
+	Query: "pluvialis obscura" ; Times: 1
+	Query: "ANSP orn 3769" ; Times: 1
+	Query: "ANSP Icterus Salvinii" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "Icterus Salvinii" ; Times: 1
+	Query: "164075" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "ANSP 11404" ; Times: 3
+	Query: "genus:Doryfera country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "156311" ; Times: 1
+	Query: "3611 dicrurus" ; Times: 1
+	Query: "columba plumbea" ; Times: 2
+	Query: "specificepithet:marginatus genus:Pachyramphus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "ANSP-160395" ; Times: 1
+	Query: "159638" ; Times: 2
+	Query: "pygiptila stellaris amnh" ; Times: 2
+	Query: "Xiphocolaptes emigrans" ; Times: 1
+	Query: "147968" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "1128 harpactes" ; Times: 1
+	Query: "158356" ; Times: 2
+	Query: "Texas Ictinia mississippiensis" ; Times: 1
+	Query: "Scytalopus superciliaris" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 2
+	Query: "Texas Zenaida asiatica" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "187110" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 2
+	Query: "cranioleuca rufipennis" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "synallaxis littoralis" ; Times: 1
+	Query: "159583" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "Texas Arenaria interpres" ; Times: 1
+	Query: "Halcyon OR Todiramphus Tahiti" ; Times: 1
+	Query: "132136" ; Times: 1
+	Query: "156711" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "Jabouilleia danjoui" ; Times: 4
+	Query: "120462" ; Times: 1
+	Query: "147365" ; Times: 1
+	Query: "181119" ; Times: 1
+	Query: "Turdus ignobilis ansp" ; Times: 1
+	Query: "cacomantis passerinus india" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "locality:porter stateprovince:&#34;delaware&#34;" ; Times: 1
+	Query: "184657" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "pygiptila stellaris" ; Times: 1
+	Query: "157016" ; Times: 1
+	Query: "charadrius modestus" ; Times: 1
+	Query: "200280" ; Times: 2
+	Query: "specificepithet:leucotis genus:Pyrrhura country:&#34;Brazil&#34;" ; Times: 2
+	Query: "37765" ; Times: 1
+	Query: "96451" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sturnus contra" ; Times: 4
+	Query: "genus:colinus stateprovince:&#34;tennessee&#34;" ; Times: 8
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "Icterus Salvinii Costa Rica" ; Times: 1
+	Query: "ANSP-3828" ; Times: 1
+	Query: "169592" ; Times: 1
+	Query: "151630" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 1
+	Query: "190199" ; Times: 1
+	Query: "specificepithet:Rufescens genus:Laniocera country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "158103" ; Times: 1
+	Query: "Pterocles orientalis India" ; Times: 1
+	Query: "Alisterus amboinensis buruensis" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 2
+	Query: "melozone grisior" ; Times: 1
+	Query: "quiscalus lugubris" ; Times: 2
+	Query: "180130" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "accipiter striatus country:&#34;Peru&#34;" ; Times: 1
+	Query: "141074" ; Times: 1
+	Query: "162694" ; Times: 1
+	Query: "ANSP 11355" ; Times: 1
+	Query: "Charadrius sanctaehelenae" ; Times: 8
+	Query: "amazona rhodocorytha" ; Times: 1
+	Query: "Phacellodomus maculipectus" ; Times: 1
+	Query: "149391" ; Times: 1
+	Query: "KU 6676" ; Times: 1
+	Query: "ANSP 3434" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "ANSP orn 3434" ; Times: 1
+	Query: "Myrmornis torquata" ; Times: 4
+	Query: "80301" ; Times: 1
+	Query: "158102" ; Times: 1
+	Query: "specificepithet:cerverai genus:Cyanolimnas" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "120772" ; Times: 1
+	Query: "genus:Vultur" ; Times: 4
+	Query: "specificepithet:morphoeus genus:Monasa country:&#34;Brazil&#34;" ; Times: 3
+	Query: "73832" ; Times: 1
+	Query: "Vireolanius pulchellus vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 5
+	Query: "aquila adalberti" ; Times: 1
+	Query: "specificepithet:aurifrons genus:melanerpes stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "162687" ; Times: 1
+	Query: "catalognumber:140077" ; Times: 1
+	Query: "specificepithet:squamatus genus:lepidocolaptes country:&#34;Brazil&#34;" ; Times: 2
+	Query: "157015" ; Times: 1
+	Query: "specificepithet:platyrostris genus:Dendrocolaptes country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "Vireo leucophrys vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "chlorocharis" ; Times: 1
+	Query: "157122" ; Times: 1
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "162688" ; Times: 1
+	Query: "ANSP Icterus Giraudii" ; Times: 1
+	Query: "aegypius monachus" ; Times: 1
+	Query: "Cyanolimnas" ; Times: 1
+	Query: "ilicura militaris" ; Times: 1
+	Query: "165755" ; Times: 1
+	Query: "153564" ; Times: 1
+	Query: "165467" ; Times: 1
+	Query: "catalognumber:125551" ; Times: 1
+	Query: "dacnis egregia" ; Times: 3
+	Query: "196725" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1106 download events in this period)
+Total number of records downloaded: 1472
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 25
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 12
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-14 ; Times: 4
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 11
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-01 ; Times: 3
+	Date: 2020-05-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "vntype:specimen specificepithet:purpurea genus:cochoa country:&#34;India&#34;" ; Times: 1
+	Query: "specificepithet:macropus genus:scytalopus" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Geotrygon caniceps" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "Poospiza erythrophrys" ; Times: 1
+	Query: "Geotrygon versicolor" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "automolus leucophthalmus" ; Times: 1
+	Query: "manacus manacus gutturosus" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "Phacellodomus maculipectus" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Myrmornis torquata" ; Times: 2
+	Query: "Scytalopus zimmeri" ; Times: 1
+	Query: "Eurylaimus steerii" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "Atlapetes fulviceps" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "Geotrygon purpurata" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Troglodytes solstitialis" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "Scytalopus superciliaris" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "specificepithet:collaris genus:Trogon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mecocerculus leucophrys" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 1
+
+
+End of report.
