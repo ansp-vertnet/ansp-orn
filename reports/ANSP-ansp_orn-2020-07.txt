@@ -1,0 +1,479 @@
+Report for Institution Code ANSP, Resource ansp_orn
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 524
+Number of records retrieved in searches: 3882
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 27
+	Country: Canada ; Times: 1
+	Country: Qatar ; Times: 1
+	Country: Peru ; Times: 20
+	Country: Unknown ; Times: 31
+	Country: Madagascar ; Times: 1
+	Country: France ; Times: 17
+	Country: Ireland ; Times: 10
+	Country: Laos ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Ecuador ; Times: 21
+	Country: Australia ; Times: 3
+	Country: Germany ; Times: 77
+	Country: Thailand ; Times: 2
+	Country: Denmark ; Times: 17
+	Country: United States ; Times: 146
+	Country: Sweden ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 50
+	Country: Uruguay ; Times: 5
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 43
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 6
+	Date: 2020-07-08 ; Times: 7
+	Date: 2020-07-21 ; Times: 14
+	Date: 2020-07-20 ; Times: 30
+	Date: 2020-07-27 ; Times: 9
+	Date: 2020-07-26 ; Times: 20
+	Date: 2020-07-25 ; Times: 7
+	Date: 2020-07-22 ; Times: 14
+	Date: 2020-07-01 ; Times: 15
+	Date: 2020-07-03 ; Times: 23
+	Date: 2020-07-02 ; Times: 33
+	Date: 2020-07-05 ; Times: 24
+	Date: 2020-07-04 ; Times: 22
+	Date: 2020-07-07 ; Times: 13
+	Date: 2020-07-06 ; Times: 19
+	Date: 2020-07-24 ; Times: 17
+	Date: 2020-07-23 ; Times: 4
+	Date: 2020-07-29 ; Times: 68
+	Date: 2020-07-18 ; Times: 14
+	Date: 2020-07-19 ; Times: 14
+	Date: 2020-07-12 ; Times: 3
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 18
+	Date: 2020-07-11 ; Times: 18
+	Date: 2020-07-16 ; Times: 17
+	Date: 2020-07-31 ; Times: 16
+	Date: 2020-07-14 ; Times: 25
+	Date: 2020-07-17 ; Times: 14
+	Date: 2020-07-15 ; Times: 10
+	Date: 2020-07-28 ; Times: 14
+	Date: 2020-07-30 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "ANSP orn 3449" ; Times: 1
+	Query: "58955" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Geoffroyus timorlaoensis" ; Times: 1
+	Query: "chionis minor" ; Times: 2
+	Query: "genus:myzomela year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "ANSP orn 3684" ; Times: 1
+	Query: "ANSP orn 3681" ; Times: 1
+	Query: "hastypestatus:1 Crypturellus" ; Times: 2
+	Query: "myrmeciza loricata" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 3
+	Query: "Androdon" ; Times: 1
+	Query: "larus Ichthyaetus" ; Times: 2
+	Query: "Rostratula australis" ; Times: 1
+	Query: "mohoua albicilla" ; Times: 2
+	Query: "vntype:specimen specificepithet:holosericeus genus:Amblycercus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Crypturellus cinerascens" ; Times: 1
+	Query: "ANSP Teretistris fernandinae" ; Times: 2
+	Query: "specificepithet:hypoleucum genus:dicaeum country:&#34;philippines&#34;" ; Times: 10
+	Query: "81530" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 2
+	Query: "Onychorhynchus coronatus occidentalis" ; Times: 1
+	Query: "crypturellus harterti" ; Times: 2
+	Query: "Ecuador Oyacachi Abajo chaco" ; Times: 1
+	Query: "KU 4996" ; Times: 2
+	Query: "Rhinoptilus cinctus" ; Times: 5
+	Query: "country:&#34;Colombia&#34; Myiodynastes maculatus" ; Times: 7
+	Query: "malacopteron niasense" ; Times: 2
+	Query: "Anous albivitta" ; Times: 1
+	Query: "ANSP 31756" ; Times: 2
+	Query: "101647" ; Times: 2
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "specificepithet:imitans genus:Euphonia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "ANSP orn 162401" ; Times: 1
+	Query: "ANSP orn 15708" ; Times: 1
+	Query: "ANSP orn 15706" ; Times: 1
+	Query: "Balaeniceps rex" ; Times: 3
+	Query: "101352" ; Times: 2
+	Query: "turnix sylvatica india" ; Times: 1
+	Query: "hastypestatus:1 Crypturellus soui" ; Times: 2
+	Query: "Acanthisitta chloris" ; Times: 1
+	Query: "Contopus virens Colombia" ; Times: 2
+	Query: "Peru Orosa Rio Amazonas" ; Times: 1
+	Query: "warfel" ; Times: 2
+	Query: "specificepithet:bicolor genus:dicaeum country:&#34;philippines&#34;" ; Times: 3
+	Query: "Rynchops flavirostris" ; Times: 6
+	Query: "ANSP-108131" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 5
+	Query: "ANSP 11368" ; Times: 1
+	Query: "nothoprocta curvirostris" ; Times: 1
+	Query: "47000" ; Times: 2
+	Query: "Vanellus tectus" ; Times: 6
+	Query: "myrmeciza ferruginea" ; Times: 1
+	Query: "locality:Laos" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "Sterna lorata" ; Times: 2
+	Query: "ANSP 5867" ; Times: 2
+	Query: "Graminicola bengalensis india" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "101569" ; Times: 1
+	Query: "ANSP orn 6251" ; Times: 1
+	Query: "ANSP orn 6250" ; Times: 2
+	Query: "flavotectus" ; Times: 1
+	Query: "circaetus gallicus india" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "thamnomanes intermedius" ; Times: 1
+	Query: "112728" ; Times: 1
+	Query: "ANSP orn Porzana fluminea" ; Times: 1
+	Query: "specificepithet:alba genus:motacilla country:&#34;philippines&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:Psarocolius country:&#34;Brazil&#34;" ; Times: 1
+	Query: "hypocnemis peruviana" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "specificepithet:gustavi genus:anthus country:&#34;philippines&#34;" ; Times: 2
+	Query: "94277" ; Times: 1
+	Query: "ANSP orn Gallinula ventralis" ; Times: 1
+	Query: "procelsterna albivitta" ; Times: 2
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34;" ; Times: 2
+	Query: "42543" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "37676" ; Times: 1
+	Query: "ORN.113647" ; Times: 1
+	Query: "numenius phaeops" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 2
+	Query: "117361" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "sapayoa" ; Times: 1
+	Query: "dryocopus javensis" ; Times: 1
+	Query: "ANSP 6801" ; Times: 1
+	Query: "Todirhamphus OR Todiramphus OR Halcyon Andaman" ; Times: 1
+	Query: "101571" ; Times: 1
+	Query: "ANSP orn 108177" ; Times: 1
+	Query: "sterna albistriata" ; Times: 1
+	Query: "Attila citriniventris" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Colombia&#34;" ; Times: 4
+	Query: "specificepithet:erythrops genus:neocrex" ; Times: 2
+	Query: "39186" ; Times: 1
+	Query: "harpactes fasciatus" ; Times: 1
+	Query: "paradoxornis flavirostris" ; Times: 7
+	Query: "elminia longicauda" ; Times: 1
+	Query: "Attila torridus" ; Times: 1
+	Query: "specificepithet:olivaceus genus:prionochilus country:&#34;philippines&#34;" ; Times: 3
+	Query: "134064?" ; Times: 1
+	Query: "specificepithet:pulcherrima country:&#34;philippines&#34;" ; Times: 3
+	Query: "ANSP orn 3453" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "ANSP orn 3457" ; Times: 1
+	Query: "KU 7868" ; Times: 2
+	Query: "genus:hypocryptadius country:&#34;philippines&#34;" ; Times: 1
+	Query: "Colaptes pitius" ; Times: 5
+	Query: "ANSP orn 6291" ; Times: 1
+	Query: "Accipiter rufitorques" ; Times: 1
+	Query: "102990" ; Times: 1
+	Query: "Quiscalus brachypterus ansp" ; Times: 1
+	Query: "nothoprocta pentlandii" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "Fluvicola atripennis" ; Times: 1
+	Query: "ANSP orn 40786" ; Times: 1
+	Query: "Peru Piura Palambla" ; Times: 1
+	Query: "186157" ; Times: 1
+	Query: "78438" ; Times: 1
+	Query: "ANSP 5548" ; Times: 1
+	Query: "zabele" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "genus:quelea country:&#34;somalia&#34;" ; Times: 1
+	Query: "ANSP orn 3432" ; Times: 1
+	Query: "ANSP bachmanii" ; Times: 1
+	Query: "101430" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 2
+	Query: "vntype:specimen specificepithet:holosericeus genus:Amblycercus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Cittura" ; Times: 1
+	Query: "Lophura ignita Thailand" ; Times: 1
+	Query: "Anthochaera inauris" ; Times: 1
+	Query: "Macroagelaius" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "ANSP 48461" ; Times: 3
+	Query: "40514" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucothorax genus:Lanio" ; Times: 1
+	Query: "habia peruviana" ; Times: 1
+	Query: "anthus berthelotii vntype:specimen" ; Times: 1
+	Query: "Hemipodius velox" ; Times: 1
+	Query: "Balaeniceps" ; Times: 2
+	Query: "Psittacus erithacus timneh" ; Times: 1
+	Query: "Cursorius rufus" ; Times: 2
+	Query: "ANSP orn 3651" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 3
+	Query: "specificepithet:olivaceus genus:vireo country:&#34;brazil&#34;" ; Times: 1
+	Query: "larus fuliginosus" ; Times: 3
+	Query: "crypturellus capnodes" ; Times: 2
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Piranga flava" ; Times: 3
+	Query: "Buteo jamaicensis harlani texas" ; Times: 1
+	Query: "ANSP orn 3423" ; Times: 1
+	Query: "crypturellus inconspicuus" ; Times: 2
+	Query: "ANSP orn 6249" ; Times: 1
+	Query: "ANSP orn 20434" ; Times: 1
+	Query: "ANSP orn 20432" ; Times: 1
+	Query: "hylexetastes" ; Times: 1
+	Query: "ANSP orn 6243" ; Times: 1
+	Query: "ANSP orn 6244" ; Times: 1
+	Query: "ANSP orn 6245" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "ANSP 11358" ; Times: 2
+	Query: "specificepithet:hyperythra genus:erythrura country:&#34;philippines&#34;" ; Times: 1
+	Query: "Euphonia cyanocephala" ; Times: 2
+	Query: "genus:machetornis" ; Times: 4
+	Query: "Sterna repressa" ; Times: 3
+	Query: "ANSP 11355" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Contopus virens" ; Times: 1
+	Query: "specificepithet:reinwardtii" ; Times: 1
+	Query: "ANSP orn 167533" ; Times: 1
+	Query: "ANSP orn 3724" ; Times: 1
+	Query: "laniarius kismayensis" ; Times: 1
+	Query: "Contopus virens Ecuador" ; Times: 1
+	Query: "Carimang" ; Times: 1
+	Query: "specificepithet:flagrans genus:aethopyga country:&#34;philippines&#34;" ; Times: 2
+	Query: "ANSP orn 6335" ; Times: 1
+	Query: "ANSP orn 6336" ; Times: 1
+	Query: "ANSP orn 6238" ; Times: 1
+	Query: "genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "78725" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "buteo harlani Mississippi" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "Manucodia ater" ; Times: 2
+	Query: "ANSP orn 91335" ; Times: 1
+	Query: "ANSP-3775" ; Times: 2
+	Query: "Camptorhynchus labradorius" ; Times: 2
+	Query: "ANSP-18435" ; Times: 2
+	Query: "ANSP-18434" ; Times: 2
+	Query: "173311" ; Times: 1
+	Query: "Alisterus amboinensis 1938" ; Times: 1
+	Query: "Panama Bogava" ; Times: 1
+	Query: "ANSP orn 11498" ; Times: 1
+	Query: "ANSP orn 11499" ; Times: 1
+	Query: "myrmeciza ruficauda" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "hypocnemis cantator" ; Times: 1
+	Query: "buteo harlani texas" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "Todirhamphus OR Todiramphus OR Halcyon humii" ; Times: 1
+	Query: "ANSP orn 20479" ; Times: 1
+	Query: "specificepithet:cucullatus country:&#34;philippines&#34;" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Geothlypis philadelphia" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Vireo olivaceus" ; Times: 3
+	Query: "ANSP 41449" ; Times: 2
+	Query: "Colaptes fernandinae" ; Times: 1
+	Query: "ANSP 12348" ; Times: 1
+	Query: "91859" ; Times: 1
+	Query: "Glareola ocularis" ; Times: 2
+	Query: "Spelaeornis chocolatinus" ; Times: 3
+	Query: "Dicrurus leucophaeus bondi" ; Times: 1
+	Query: "ANSP orn 3769" ; Times: 1
+	Query: "dysithamnus tambillanus" ; Times: 1
+	Query: "ANSP orn 6402" ; Times: 1
+	Query: "Pavo muticus" ; Times: 2
+	Query: "ANSP orn 6401" ; Times: 1
+	Query: "campephilus principalis" ; Times: 11
+	Query: "bombus" ; Times: 2
+	Query: "ANSP-140348" ; Times: 1
+	Query: "specificepithet:clarae genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "93698" ; Times: 1
+	Query: "Cursorius coromandelicus" ; Times: 2
+	Query: "Rio Amazonas puerto indiana" ; Times: 1
+	Query: "Larus vegae united states" ; Times: 2
+	Query: "hastypestatus:1 cinnamomea" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "crypturellus poliocephalus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Setophaga ruticilla" ; Times: 2
+	Query: "specificepithet:longirostra genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "mohoua ochrocephala" ; Times: 2
+	Query: "Conirostrum rufum" ; Times: 1
+	Query: "Sturnus vulgaris india" ; Times: 1
+	Query: "85227" ; Times: 1
+	Query: "ANSP orn 101543" ; Times: 1
+	Query: "Tricholaema ansorgii" ; Times: 2
+	Query: "104302" ; Times: 1
+	Query: "nothoprocta ornata" ; Times: 1
+	Query: "117348" ; Times: 1
+	Query: "phainoptila" ; Times: 1
+	Query: "Strix hylophila" ; Times: 5
+	Query: "Rio Negro San Gabriel" ; Times: 1
+	Query: "101357" ; Times: 1
+	Query: "ansp orn 3658" ; Times: 1
+	Query: "flavidifrons" ; Times: 1
+	Query: "strix hylophila" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:Psarocolius" ; Times: 1
+	Query: "ansp orn 3657" ; Times: 1
+	Query: "catalognumber:116941" ; Times: 1
+	Query: "176298" ; Times: 1
+	Query: "Glareola lactea" ; Times: 5
+	Query: "thraupis episcopus" ; Times: 4
+	Query: "Euphonia imitans" ; Times: 3
+	Query: "lyalli" ; Times: 1
+	Query: "Quiscalus brachypterus" ; Times: 1
+	Query: "ANSP orn 12433" ; Times: 2
+	Query: "pitta anerythra" ; Times: 1
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "aegithalos concinnus india" ; Times: 1
+	Query: "mohoua novaeseelandiae" ; Times: 1
+	Query: "ANSP orn 20375" ; Times: 1
+	Query: "ANSP orn 3431" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "Sterna aurantia" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "87481" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "102105" ; Times: 1
+	Query: "Uratelornis chimaera" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Tyrannus savana" ; Times: 2
+	Query: "Timalia pileata" ; Times: 2
+	Query: "specificepithet:pygmaeum genus:dicaeum country:&#34;philippines&#34;" ; Times: 2
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "percnostola intensa" ; Times: 1
+	Query: "Lanio leucothorax" ; Times: 2
+	Query: "101273" ; Times: 1
+	Query: "Himantopus novaezelandiae" ; Times: 3
+	Query: "upucerthia serrana" ; Times: 2
+	Query: "ANSP orn 63729" ; Times: 1
+	Query: "Dama dama" ; Times: 2
+	Query: "specificepithet:sylvatica genus:turnix country:&#34;philippines&#34;" ; Times: 1
+	Query: "ANSP-91233" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Spiza americana" ; Times: 1
+	Query: "pipra chloromeros" ; Times: 1
+	Query: "ANSP orn Tribonyx ventralis" ; Times: 1
+	Query: "rhopodytes viridirostris" ; Times: 1
+	Query: "Anomalospiza" ; Times: 1
+	Query: "Calyptomena viridis continentis" ; Times: 1
+	Query: "Charadrius montanus vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "eurystomus orientalis india" ; Times: 1
+	Query: "specificepithet:musica genus:Euphonia country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 3
+	Query: "tachycineta albiventer" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "Peru Apayacu Rio Amazonas" ; Times: 1
+	Query: "141136" ; Times: 1
+	Query: "larus leucophthalmus" ; Times: 1
+	Query: "Buteo harlani texas" ; Times: 1
+	Query: "Rhodonessa caryophyllacea" ; Times: 4
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "Rio Seco brazil" ; Times: 1
+	Query: "ANSP-3769" ; Times: 1
+	Query: "ANSP orn 3840" ; Times: 1
+	Query: "ANSP 13105" ; Times: 2
+	Query: "country:&#34;Colombia&#34; piranga flava" ; Times: 3
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 2
+	Query: "catalognumber:158434" ; Times: 1
+	Query: "saxicola jerdoni" ; Times: 1
+	Query: "catalognumber:172049" ; Times: 1
+	Query: "genus:Euphonia institutioncode:ANSP" ; Times: 8
+	Query: "country:&#34;Colombia&#34; Catharus minimus" ; Times: 1
+	Query: "ANSP orn 6267" ; Times: 1
+	Query: "ANSP orn 6268" ; Times: 1
+	Query: "153035" ; Times: 1
+	Query: "ANSP 31760" ; Times: 2
+	Query: "ANSP orn Hirundo neoxena" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Euphonia xanthogaster ruficeps" ; Times: 1
+	Query: "ANSP orn 20391" ; Times: 1
+	Query: "88053" ; Times: 1
+	Query: "Regulus regulus india" ; Times: 1
+	Query: "hieraaetus pennatus india" ; Times: 1
+	Query: "Crypturellus transfasciatus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Tyrannus dominicensis" ; Times: 1
+	Query: "Rukia" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "ANSP 11614" ; Times: 2
+	Query: "ANSP 7158" ; Times: 2
+	Query: "28078" ; Times: 2
+	Query: "101467" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "Buteo harlani Texas" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "Euphonia ruficeps" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "anodorhynchus glaucus" ; Times: 2
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "Todirhamphus OR Todiramphus OR Halcyon armstrongi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 940 download events in this period)
+Total number of records downloaded: 674
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 5
+	Country: South Korea ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "anthus berthelotii vntype:specimen" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 3
+	Query: "vultur" ; Times: 1
+	Query: "heilprini" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "ANSP bachmanii" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "campephilus principalis" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+
+End of report.
